@@ -1,0 +1,776 @@
+[
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4173883980",
+        "text": "8 Hour +15% Build Speed",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4173883980",
+        "text": "+15% BUILD SPEED",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4173883980",
+        "text": "2⇵ Station Exocomp Consumable that increases construction speed for 8 hours. Does not apply to in-progress buildings.\n\n<color=#FFEF40>Activate 8 Hour +15% Construction Speed</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3658002004",
+        "text": "3 Hour +50% Mining",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3658002004",
+        "text": "+50% MINING",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3658002004",
+        "text": "3⇵ Galaxy Exocomp Consumable that increases mining rate for 3 hours. Does not apply to already deployed ships.\n\n<color=#FFEF40>Activate 3 Hour +50% Mining Rate</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3221132401",
+        "text": "2 Hour +70% Build Speed",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3221132401",
+        "text": "+70% BUILD SPEED",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3221132401",
+        "text": "3⇵ Station Exocomp Consumable that increases construction speed for 2 hours. Does not apply to in-progress buildings.\n\n<color=#FFEF40>Activate 2 Hour +70% Construction Speed</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1422081894",
+        "text": "3 Hour +250% Crystal Mining",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1422081894",
+        "text": "+250% CRYSTAL MINING",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1422081894",
+        "text": "4⇵ Galaxy Exocomp Consumable that increases crystal mining rate for 3 hours. Does not apply to already deployed ships.\n\n<color=#FFEF40>Activate 3 Hour +250% Crystal Mining Rate</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2600267318",
+        "text": "8 Hour +25% Build Speed",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2600267318",
+        "text": "+25% BUILD SPEED",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2600267318",
+        "text": "4⇵ Station Exocomp Consumable that increases construction speed for 8 hours. Does not apply to in-progress buildings.\n\n<color=#FFEF40>Activate 8 Hour +25% Construction Speed</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3830997774",
+        "text": "1 Hour +500% Ship XP",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3830997774",
+        "text": "+500% SHIP XP",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3830997774",
+        "text": "4⇵ Galaxy Exocomp Consumable that increases ship XP gained from defeating hostiles for 1 hour. Does not apply to already deployed ships.\n\n<color=#FFEF40>Activate 1 Hour +500% Ship XP</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4051714506",
+        "text": "1 Hour +80% Battleship Damage",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4051714506",
+        "text": "+80% BATTLESHIP DAMAGE",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4051714506",
+        "text": "3⇵ Combat Exocomp Consumable that increases Battleship weapon damage for 1 hour.\n\n<color=#FFEF40>Activate 1 Hour +80% Battleship Damage</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3625530727",
+        "text": "8 Hour +20% Build Speed",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3625530727",
+        "text": "+20% BUILD SPEED",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3625530727",
+        "text": "3⇵ Station Exocomp Consumable that increases construction speed for 8 hours. Does not apply to in-progress buildings.\n\n<color=#FFEF40>Activate 8 Hour +20% Construction Speed</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3683438730",
+        "text": "8 Hour +20% Research Speed",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3683438730",
+        "text": "+20% RESEARCH SPEED",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3683438730",
+        "text": "3⇵ Station Exocomp Consumable that increases research speed for 8 hours. Does not apply to in-progress research.\n\n<color=#FFEF40>Activate 8 Hour +20% Research Speed</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3906625240",
+        "text": "Combat Exocomp",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3906625240",
+        "text": "COMBAT EXOCOMP",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3906625240",
+        "text": "Unlocks an Exocomp that can activate Combat Consumables.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1699442135",
+        "text": "3 Hour +150% Crystal Mining",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1699442135",
+        "text": "+150% CRYSTAL MINING",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1699442135",
+        "text": "3⇵ Galaxy Exocomp Consumable that increases crystal mining rate for 3 hours. Does not apply to already deployed ships.\n\n<color=#FFEF40>Activate 3 Hour +150% Crystal Mining Rate</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2236087117",
+        "text": "3 Hour +250% Ore Mining",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2236087117",
+        "text": "+250% ORE MINING",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2236087117",
+        "text": "4⇵ Galaxy Exocomp Consumable that increases ore mining rate for 3 hours. Does not apply to already deployed ships.\n\n<color=#FFEF40>Activate 3 Hour +250% Ore Mining Rate</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "382992934",
+        "text": "1 Hour +85% Warp Speed",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "382992934",
+        "text": "+85% WARP SPEED",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "382992934",
+        "text": "3⇵ Galaxy Exocomp Consumable that increases warp speed for 1 hour. Does not apply to already deployed ships.\n\n<color=#FFEF40>Activate 1 Hour +85% Warp Speed</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1021783218",
+        "text": "1 Hour +20% Damage",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1021783218",
+        "text": "+20% DAMAGE",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1021783218",
+        "text": "2⇵ Combat Exocomp Consumable that increases ship weapon damage for 1 hour.\n\n<color=#FFEF40>Activate 1 Hour +20% Damage</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2665287834",
+        "text": "3 Hour +100% Protected Cargo",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2665287834",
+        "text": "+100% PROTECTED CARGO",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2665287834",
+        "text": "3⇵ Galaxy Exocomp Consumable that increases protected cargo for 3 hours. Does not apply to already deployed ships.\n\n<color=#FFEF40>Activate 3 Hour +100% Protected Cargo</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4002053438",
+        "text": "1 Hour +200% Interceptor Damage",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4002053438",
+        "text": "+200% INTERCEPTOR DAMAGE",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4002053438",
+        "text": "4⇵ Combat Exocomp Consumable that increases Interceptor weapon damage for 1 hour.\n\n<color=#FFEF40>Activate 1 Hour +200% Interceptor Damage</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2235212663",
+        "text": "2 Hour +100% Research Speed",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2235212663",
+        "text": "+100% RESEARCH SPEED",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2235212663",
+        "text": "4⇵ Station Exocomp Consumable that increases research speed for 2 hours. Does not apply to in-progress research.\n\n<color=#FFEF40>Activate 2 Hour +100% Research Speed</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1867525243",
+        "text": "8 Hour +15% Research Speed",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1867525243",
+        "text": "+15% RESEARCH SPEED",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1867525243",
+        "text": "2⇵ Station Exocomp Consumable that increases research speed for 8 hours. Does not apply to in-progress research.\n\n<color=#FFEF40>Activate 8 Hour +15% Research Speed</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3312172191",
+        "text": "2 Hour +100% Build Speed",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3312172191",
+        "text": "+100% BUILD SPEED",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3312172191",
+        "text": "4⇵ Station Exocomp Consumable that increases construction speed for 2 hours. Does not apply to in-progress buildings.\n\n<color=#FFEF40>Activate 2 Hour +100% Construction Speed</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "291641472",
+        "text": "3 Hour +150% Gas Mining",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "291641472",
+        "text": "+150% GAS MINING",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "291641472",
+        "text": "3⇵ Galaxy Exocomp Consumable that increases gas mining rate for 3 hours. Does not apply to already deployed ships.\n\n<color=#FFEF40>Activate 3 Hour +150% Gas Mining Rate</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2085306290",
+        "text": "1 Hour +30% Damage",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2085306290",
+        "text": "+30% DAMAGE",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2085306290",
+        "text": "3⇵ Combat Exocomp Consumable that increases ship weapon damage for 1 hour.\n\n<color=#FFEF40>Activate 1 Hour +30% Damage</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4046638038",
+        "text": "8 Hour +25% Research Speed",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4046638038",
+        "text": "+25% RESEARCH SPEED",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4046638038",
+        "text": "4⇵ Station Exocomp Consumable that increases research speed for 8 hours. Does not apply to in-progress research.\n\n<color=#FFEF40>Activate 8 Hour +25% Research Speed</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2510332521",
+        "text": "1 Hour +50% Warp Speed",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2510332521",
+        "text": "+50% WARP SPEED",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2510332521",
+        "text": "2⇵ Galaxy Exocomp Consumable that increases warp speed for 1 hour. Does not apply to already deployed ships.\n\n<color=#FFEF40>Activate 1 Hour +50% Warp Speed</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "367151521",
+        "text": "1 Hour +300% Damage vs Armadas",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "367151521",
+        "text": "+300% DAMAGE VS ARMADAS",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "367151521",
+        "text": "4⇵ Combat Exocomp Consumable that increases ship weapon damage vs Armadas for 1 hour.\n\n<color=#FFEF40>Activate 1 Hour +300% Damage vs Armadas</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "848970564",
+        "text": "1 Hour +200% Battleship Damage",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "848970564",
+        "text": "+200% BATTLESHIP DAMAGE",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "848970564",
+        "text": "4⇵ Combat Exocomp Consumable that increases Battleship weapon damage for 1 hour.\n\n<color=#FFEF40>Activate 1 Hour +200% Battleship Damage</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3891168123",
+        "text": "Station Exocomp",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3891168123",
+        "text": "STATION EXOCOMP",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3891168123",
+        "text": "Unlocks an Exocomp that can activate Station Consumables.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "269649687",
+        "text": "1 Hour +200% Warp Speed",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "269649687",
+        "text": "+200% WARP SPEED",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "269649687",
+        "text": "4⇵ Galaxy Exocomp Consumable that increases warp speed for 1 hour. Does not apply to already deployed ships.\n\n<color=#FFEF40>Activate 1 Hour +200% Warp Speed</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2008233861",
+        "text": "3 Hour +150% Protected Cargo",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2008233861",
+        "text": "+150% PROTECTED CARGO",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2008233861",
+        "text": "4⇵ Galaxy Exocomp Consumable that increases protected cargo for 3 hours. Does not apply to already deployed ships.\n\n<color=#FFEF40>Activate 3 Hour +150% Protected Cargo</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3594175399",
+        "text": "3 Hour +250% Gas Mining",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3594175399",
+        "text": "+250% GAS MINING",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3594175399",
+        "text": "4⇵ Galaxy Exocomp Consumable that increases gas mining rate for 3 hours. Does not apply to already deployed ships.\n\n<color=#FFEF40>Activate 3 Hour +250% Gas Mining Rate</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3476691565",
+        "text": "1 Hour +75% Repair Speed",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3476691565",
+        "text": "+75% REPAIR SPEED",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3476691565",
+        "text": "4⇵ Station Exocomp Consumable that increases ship repair speed for 1 hour. Does not apply to in-progress repairs.\n\n<color=#FFEF40>Activate 1 Hour +75% Repair Speed</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3902132979",
+        "text": "3 Hour +75% Mining",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3902132979",
+        "text": "+75% MINING",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3902132979",
+        "text": "4⇵ Galaxy Exocomp Consumable that increases mining rate for 3 hours. Does not apply to already deployed ships.\n\n<color=#FFEF40>Activate 3 Hour +75% Mining Rate</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "252143283",
+        "text": "1 Hour +100% Ship XP",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "252143283",
+        "text": "+100% SHIP XP",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "252143283",
+        "text": "3⇵ Galaxy Exocomp Consumable that increases ship XP gained from defeating hostiles for 1 hour. Does not apply to already deployed ships.\n\n<color=#FFEF40>Activate 1 Hour +100% Ship XP</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1269803885",
+        "text": "3 Hour +30% Mining",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1269803885",
+        "text": "+30% MINING",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1269803885",
+        "text": "2⇵ Galaxy Exocomp Consumable that increases mining rate for 3 hours. Does not apply to already deployed ships.\n\n<color=#FFEF40>Activate 3 Hour +30% Mining Rate</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "644462853",
+        "text": "2 Hour +70% Research Speed",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "644462853",
+        "text": "+70% RESEARCH SPEED",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "644462853",
+        "text": "3⇵ Station Exocomp Consumable that increases research speed for 2 hours. Does not apply to in-progress research.\n\n<color=#FFEF40>Activate 2 Hour +70% Research Speed</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "889121503",
+        "text": "Galaxy Exocomp",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "889121503",
+        "text": "GALAXY EXOCOMP",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "889121503",
+        "text": "Unlocks an Exocomp that can activate Galaxy Consumables.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "821187255",
+        "text": "1 Hour +80% Explorer Damage",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "821187255",
+        "text": "+80% EXPLORER DAMAGE",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "821187255",
+        "text": "3⇵ Combat Exocomp Consumable that increases Explorer weapon damage for 1 hour.\n\n<color=#FFEF40>Activate 1 Hour +80% Explorer Damage </color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1917231543",
+        "text": "Multi-Purpose Exocomp",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1917231543",
+        "text": "MULTI-PURPOSE EXOCOMP",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1917231543",
+        "text": "Unlocks an Exocomp that can activate any Consumable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4215104267",
+        "text": "1 Hour +50% Damage",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4215104267",
+        "text": "+50% DAMAGE",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4215104267",
+        "text": "4⇵ Combat Exocomp Consumable that increases ship weapon damage for 1 hour.\n\n<color=#FFEF40>Activate 1 Hour +50% Damage</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3205337432",
+        "text": "1 Hour +50% Repair Speed",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3205337432",
+        "text": "+50% REPAIR SPEED",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3205337432",
+        "text": "3⇵ Station Exocomp Consumable that increases ship repair speed for 1 hour. Does not apply to in-progress repairs.\n\n<color=#FFEF40>Activate 1 Hour +50% Repair Speed</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3751337072",
+        "text": "1 Hour +200% Explorer Damage",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3751337072",
+        "text": "+200% EXPLORER DAMAGE",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3751337072",
+        "text": "4⇵ Combat Exocomp Consumable that increases Explorer weapon damage for 1 hour.\n\n<color=#FFEF40>Activate 1 Hour +200% Explorer Damage </color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1101468727",
+        "text": "1 Hour +165% Damage vs Armadas",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1101468727",
+        "text": "+165% DAMAGE VS ARMADAS",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1101468727",
+        "text": "3⇵ Combat Exocomp Consumable that increases ship weapon damage vs Armadas for 1 hour.\n\n<color=#FFEF40>Activate 1 Hour +165% Damage vs Armadas</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "112444422",
+        "text": "3 Hour +150% Ore Mining",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "112444422",
+        "text": "+150% ORE MINING",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "112444422",
+        "text": "3⇵ Galaxy Exocomp Consumable that increases ore mining rate for 3 hours. Does not apply to already deployed ships.\n\n<color=#FFEF40>Activate 3 Hour +150% Ore Mining Rate</color>",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2898769014",
+        "text": "1 Hour +80% Interceptor Damage",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2898769014",
+        "text": "+80% INTERCEPTOR DAMAGE",
+        "key": "name_short"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2898769014",
+        "text": "3⇵ Combat Exocomp Consumable that increases Interceptor weapon damage for 1 hour.\n\n<color=#FFEF40>Activate 1 Hour +80% Interceptor Damage</color>",
+        "key": "description"
+    }
+]

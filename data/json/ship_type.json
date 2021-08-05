@@ -1,0 +1,38 @@
+[
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1",
+        "text": "SURVEY",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4",
+        "text": "DEFENSE",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "0",
+        "text": "INTERCEPTOR",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2",
+        "text": "EXPLORER",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3",
+        "text": "BATTLESHIP",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "5",
+        "text": "ARMADA TARGET",
+        "key": "name"
+    }
+]

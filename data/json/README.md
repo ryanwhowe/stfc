@@ -1,2 +1,0 @@
-##Notes
-The files contained are ready from stfc.space's api access into api.stfc.dev ... looks like the api uses some strong cors handshakes to ensure the data can only be accessed from certain sources.

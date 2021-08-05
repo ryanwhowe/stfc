@@ -1,0 +1,1979 @@
+[
+    {
+        "id": 987222969,
+        "max_tier": 4,
+        "grade": 1,
+        "rarity": "Common",
+        "scrap_level": -1,
+        "build_time_in_seconds": 2400,
+        "faction": -1,
+        "blueprints_required": 10,
+        "hull_type": 2,
+        "max_level": 20,
+        "build_cost": [
+            {
+                "resource_id": 743985951,
+                "amount": 500
+            }
+        ],
+        "build_requirements": [],
+        "art_id": 0
+    },
+    {
+        "id": 34867572,
+        "max_tier": 4,
+        "grade": 1,
+        "rarity": "Common",
+        "scrap_level": 5,
+        "build_time_in_seconds": 3000,
+        "faction": -1,
+        "blueprints_required": 15,
+        "hull_type": 3,
+        "max_level": 20,
+        "build_cost": [
+            {
+                "resource_id": 743985951,
+                "amount": 800
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 5
+            },
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 1569778195,
+                "requirement_level": 1
+            }
+        ],
+        "art_id": 2
+    },
+    {
+        "id": 2968519195,
+        "max_tier": 4,
+        "grade": 1,
+        "rarity": "Common",
+        "scrap_level": 7,
+        "build_time_in_seconds": 4800,
+        "faction": -1,
+        "blueprints_required": 10,
+        "hull_type": 1,
+        "max_level": 20,
+        "build_cost": [
+            {
+                "resource_id": 743985951,
+                "amount": 750
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 7
+            },
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 688504042,
+                "requirement_level": 1
+            }
+        ],
+        "art_id": 5
+    },
+    {
+        "id": 1279606467,
+        "max_tier": 7,
+        "grade": 2,
+        "rarity": "Common",
+        "scrap_level": 10,
+        "build_time_in_seconds": 30600,
+        "faction": -1,
+        "blueprints_required": 30,
+        "hull_type": 0,
+        "max_level": 35,
+        "build_cost": [
+            {
+                "resource_id": 743985951,
+                "amount": 6500
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 10
+            },
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 2599273730,
+                "requirement_level": 1
+            }
+        ],
+        "art_id": 3
+    },
+    {
+        "id": 1842444641,
+        "max_tier": 7,
+        "grade": 2,
+        "rarity": "Common",
+        "scrap_level": 12,
+        "build_time_in_seconds": 46800,
+        "faction": -1,
+        "blueprints_required": 35,
+        "hull_type": 2,
+        "max_level": 35,
+        "build_cost": [
+            {
+                "resource_id": 743985951,
+                "amount": 12500
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 12
+            },
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 1205361784,
+                "requirement_level": 1
+            }
+        ],
+        "art_id": 11
+    },
+    {
+        "id": 2919480363,
+        "max_tier": 7,
+        "grade": 2,
+        "rarity": "Rare",
+        "scrap_level": -1,
+        "build_time_in_seconds": 64800,
+        "faction": 2064723306,
+        "blueprints_required": 75,
+        "hull_type": 2,
+        "max_level": 35,
+        "build_cost": [
+            {
+                "resource_id": 743985951,
+                "amount": 60000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 12
+            }
+        ],
+        "art_id": 6
+    },
+    {
+        "id": 354762123,
+        "max_tier": 7,
+        "grade": 2,
+        "rarity": "Common",
+        "scrap_level": 14,
+        "build_time_in_seconds": 66600,
+        "faction": -1,
+        "blueprints_required": 40,
+        "hull_type": 3,
+        "max_level": 35,
+        "build_cost": [
+            {
+                "resource_id": 743985951,
+                "amount": 22000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 14
+            },
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 3092902102,
+                "requirement_level": 1
+            }
+        ],
+        "art_id": 46
+    },
+    {
+        "id": 3014221215,
+        "max_tier": 7,
+        "grade": 2,
+        "rarity": "Common",
+        "scrap_level": 16,
+        "build_time_in_seconds": 63000,
+        "faction": -1,
+        "blueprints_required": 30,
+        "hull_type": 1,
+        "max_level": 35,
+        "build_cost": [
+            {
+                "resource_id": 743985951,
+                "amount": 21000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 16
+            },
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 2902171430,
+                "requirement_level": 1
+            }
+        ],
+        "art_id": 1
+    },
+    {
+        "id": 644714972,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Uncommon",
+        "scrap_level": 35,
+        "build_time_in_seconds": 64800,
+        "faction": 2113010081,
+        "blueprints_required": 90,
+        "hull_type": 2,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 2614028847,
+                "amount": 1400
+            },
+            {
+                "resource_id": 796037847,
+                "amount": 50
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 35000
+            },
+            {
+                "resource_id": 70012079,
+                "amount": 300
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 17
+            }
+        ],
+        "art_id": 37
+    },
+    {
+        "id": 1087128295,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Uncommon",
+        "scrap_level": -1,
+        "build_time_in_seconds": 522000,
+        "faction": -1,
+        "blueprints_required": 60,
+        "hull_type": 1,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 743985951,
+                "amount": 800000
+            },
+            {
+                "resource_id": 67391873,
+                "amount": 725
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 28000
+            },
+            {
+                "resource_id": 3215442881,
+                "amount": 180
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 18
+            }
+        ],
+        "art_id": 15
+    },
+    {
+        "id": 393740394,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Common",
+        "scrap_level": 26,
+        "build_time_in_seconds": 342000,
+        "faction": -1,
+        "blueprints_required": 40,
+        "hull_type": 0,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 2614028847,
+                "amount": 10000
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 250000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 20
+            },
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 990678738,
+                "requirement_level": 1
+            }
+        ],
+        "art_id": 24
+    },
+    {
+        "id": 3033866568,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Common",
+        "scrap_level": 26,
+        "build_time_in_seconds": 540000,
+        "faction": -1,
+        "blueprints_required": 50,
+        "hull_type": 2,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 2614028847,
+                "amount": 20000
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 500000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 22
+            },
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 3344780749,
+                "requirement_level": 1
+            }
+        ],
+        "art_id": 4
+    },
+    {
+        "id": 3005922948,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Common",
+        "scrap_level": 26,
+        "build_time_in_seconds": 900000,
+        "faction": -1,
+        "blueprints_required": 60,
+        "hull_type": 3,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 743985951,
+                "amount": 880000
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 35000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 24
+            },
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 1277619363,
+                "requirement_level": 1
+            }
+        ],
+        "art_id": 20
+    },
+    {
+        "id": 1029262994,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Rare",
+        "scrap_level": 26,
+        "build_time_in_seconds": 648000,
+        "faction": -1,
+        "blueprints_required": 90,
+        "hull_type": 1,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 743985951,
+                "amount": 520000
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 30000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 18
+            }
+        ],
+        "art_id": 7
+    },
+    {
+        "id": 1784814733,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Epic",
+        "scrap_level": -1,
+        "build_time_in_seconds": 684000,
+        "faction": -1,
+        "blueprints_required": 120,
+        "hull_type": 1,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 743985951,
+                "amount": 320000
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 11250
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 23
+            }
+        ],
+        "art_id": 94
+    },
+    {
+        "id": 3046584086,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Common",
+        "scrap_level": 30,
+        "build_time_in_seconds": 882000,
+        "faction": -1,
+        "blueprints_required": 40,
+        "hull_type": 1,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 2614028847,
+                "amount": 28000
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 800000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 26
+            },
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 2565129525,
+                "requirement_level": 1
+            }
+        ],
+        "art_id": 19
+    },
+    {
+        "id": 2704762692,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Uncommon",
+        "scrap_level": 34,
+        "build_time_in_seconds": 1116000,
+        "faction": 4153667145,
+        "blueprints_required": 80,
+        "hull_type": 0,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 743985951,
+                "amount": 1150000
+            },
+            {
+                "resource_id": 67391873,
+                "amount": 500
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 38500
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 26
+            }
+        ],
+        "art_id": 43
+    },
+    {
+        "id": 2004925834,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Uncommon",
+        "scrap_level": 42,
+        "build_time_in_seconds": 1468800,
+        "faction": 4153667145,
+        "blueprints_required": 100,
+        "hull_type": 3,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 2614028847,
+                "amount": 42500
+            },
+            {
+                "resource_id": 813886518,
+                "amount": 2200
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 1900000
+            },
+            {
+                "resource_id": 67391873,
+                "amount": 275
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 28
+            }
+        ],
+        "art_id": 26
+    },
+    {
+        "id": 2441576367,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Rare",
+        "scrap_level": 46,
+        "build_time_in_seconds": 1987200,
+        "faction": 4153667145,
+        "blueprints_required": 120,
+        "hull_type": 2,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 743985951,
+                "amount": 3000000
+            },
+            {
+                "resource_id": 3215442881,
+                "amount": 4100
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 108000
+            },
+            {
+                "resource_id": 813886518,
+                "amount": 625
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 32
+            }
+        ],
+        "art_id": 13
+    },
+    {
+        "id": 957865248,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Epic",
+        "scrap_level": 50,
+        "build_time_in_seconds": 2980800,
+        "faction": 4153667145,
+        "blueprints_required": 150,
+        "hull_type": 0,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 743985951,
+                "amount": 7500000
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 250000
+            },
+            {
+                "resource_id": 3215442881,
+                "amount": 1375
+            },
+            {
+                "resource_id": 67391873,
+                "amount": 8250
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 34
+            }
+        ],
+        "art_id": 17
+    },
+    {
+        "id": 2869476908,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Rare",
+        "scrap_level": 41,
+        "build_time_in_seconds": 1814400,
+        "faction": 4153667145,
+        "blueprints_required": 100,
+        "hull_type": 1,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 743985951,
+                "amount": 6000000
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 144000
+            },
+            {
+                "resource_id": 67391873,
+                "amount": 2500
+            },
+            {
+                "resource_id": 3215442881,
+                "amount": 625
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 30
+            }
+        ],
+        "art_id": 31
+    },
+    {
+        "id": 1220133742,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Uncommon",
+        "scrap_level": 34,
+        "build_time_in_seconds": 1116000,
+        "faction": 2064723306,
+        "blueprints_required": 80,
+        "hull_type": 2,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 3215442881,
+                "amount": 500
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 42500
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 890000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 26
+            }
+        ],
+        "art_id": 12
+    },
+    {
+        "id": 3056258007,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Uncommon",
+        "scrap_level": 42,
+        "build_time_in_seconds": 1468800,
+        "faction": 2064723306,
+        "blueprints_required": 100,
+        "hull_type": 0,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 3215442881,
+                "amount": 275
+            },
+            {
+                "resource_id": 67391873,
+                "amount": 2200
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 1300000
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 64000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 28
+            }
+        ],
+        "art_id": 16
+    },
+    {
+        "id": 1463338054,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Rare",
+        "scrap_level": 46,
+        "build_time_in_seconds": 1987200,
+        "faction": 2064723306,
+        "blueprints_required": 120,
+        "hull_type": 3,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 67391873,
+                "amount": 625
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 4500000
+            },
+            {
+                "resource_id": 813886518,
+                "amount": 4100
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 72000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 32
+            }
+        ],
+        "art_id": 8
+    },
+    {
+        "id": 2483093372,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Epic",
+        "scrap_level": 50,
+        "build_time_in_seconds": 2980800,
+        "faction": 2064723306,
+        "blueprints_required": 150,
+        "hull_type": 2,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 3215442881,
+                "amount": 8250
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 300000
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 6000000
+            },
+            {
+                "resource_id": 813886518,
+                "amount": 1375
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 34
+            }
+        ],
+        "art_id": 38
+    },
+    {
+        "id": 108924704,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Rare",
+        "scrap_level": 41,
+        "build_time_in_seconds": 1814400,
+        "faction": 2064723306,
+        "blueprints_required": 100,
+        "hull_type": 1,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 3215442881,
+                "amount": 625
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 4900000
+            },
+            {
+                "resource_id": 67391873,
+                "amount": 2500
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 171000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 30
+            }
+        ],
+        "art_id": 33
+    },
+    {
+        "id": 3554487827,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Uncommon",
+        "scrap_level": 34,
+        "build_time_in_seconds": 1116000,
+        "faction": 669838839,
+        "blueprints_required": 80,
+        "hull_type": 3,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 743985951,
+                "amount": 1300000
+            },
+            {
+                "resource_id": 813886518,
+                "amount": 500
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 30000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 26
+            }
+        ],
+        "art_id": 23
+    },
+    {
+        "id": 673187302,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Uncommon",
+        "scrap_level": 42,
+        "build_time_in_seconds": 1468800,
+        "faction": 669838839,
+        "blueprints_required": 100,
+        "hull_type": 2,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 743985951,
+                "amount": 1600000
+            },
+            {
+                "resource_id": 813886518,
+                "amount": 275
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 53000
+            },
+            {
+                "resource_id": 3215442881,
+                "amount": 2200
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 28
+            }
+        ],
+        "art_id": 90
+    },
+    {
+        "id": 2165876444,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Rare",
+        "scrap_level": 46,
+        "build_time_in_seconds": 1987200,
+        "faction": 669838839,
+        "blueprints_required": 120,
+        "hull_type": 0,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 3215442881,
+                "amount": 625
+            },
+            {
+                "resource_id": 67391873,
+                "amount": 4100
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 3750000
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 90000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 32
+            }
+        ],
+        "art_id": 14
+    },
+    {
+        "id": 3459465041,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Epic",
+        "scrap_level": 50,
+        "build_time_in_seconds": 2980800,
+        "faction": 669838839,
+        "blueprints_required": 150,
+        "hull_type": 3,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 2614028847,
+                "amount": 200000
+            },
+            {
+                "resource_id": 67391873,
+                "amount": 1375
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 9000000
+            },
+            {
+                "resource_id": 813886518,
+                "amount": 8250
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 34
+            }
+        ],
+        "art_id": 10
+    },
+    {
+        "id": 1535317053,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Rare",
+        "scrap_level": 41,
+        "build_time_in_seconds": 1814400,
+        "faction": 669838839,
+        "blueprints_required": 100,
+        "hull_type": 1,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 3215442881,
+                "amount": 625
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 117000
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 7150000
+            },
+            {
+                "resource_id": 67391873,
+                "amount": 2500
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 30
+            }
+        ],
+        "art_id": 32
+    },
+    {
+        "id": 2529591723,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Uncommon",
+        "scrap_level": -1,
+        "build_time_in_seconds": 882000,
+        "faction": -1,
+        "blueprints_required": 100,
+        "hull_type": 0,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 743985951,
+                "amount": 700000
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 20000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 25
+            }
+        ],
+        "art_id": 75
+    },
+    {
+        "id": 293385368,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Uncommon",
+        "scrap_level": 1,
+        "build_time_in_seconds": 57600,
+        "faction": -1,
+        "blueprints_required": 100,
+        "hull_type": 3,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 2614028847,
+                "amount": 28000
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 800000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 27
+            },
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 1969019943,
+                "requirement_level": 1
+            }
+        ],
+        "art_id": 95
+    },
+    {
+        "id": 1307832955,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Rare",
+        "scrap_level": -1,
+        "build_time_in_seconds": 540000,
+        "faction": -1,
+        "blueprints_required": 100,
+        "hull_type": 2,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 2614028847,
+                "amount": 20000
+            },
+            {
+                "resource_id": 796037847,
+                "amount": 50
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 500000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 21
+            }
+        ],
+        "art_id": 96
+    },
+    {
+        "id": 593579233,
+        "max_tier": 12,
+        "grade": 3,
+        "rarity": "Epic",
+        "scrap_level": -1,
+        "build_time_in_seconds": 1680000,
+        "faction": -1,
+        "blueprints_required": 80,
+        "hull_type": 3,
+        "max_level": 60,
+        "build_cost": [
+            {
+                "resource_id": 813886518,
+                "amount": 1000
+            },
+            {
+                "resource_id": 67391873,
+                "amount": 250
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 82500
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 1400000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 30
+            }
+        ],
+        "art_id": 99
+    },
+    {
+        "id": 1878809713,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Rare",
+        "scrap_level": -1,
+        "build_time_in_seconds": 1068480,
+        "faction": -1,
+        "blueprints_required": 100,
+        "hull_type": 1,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 2614028847,
+                "amount": 56600
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 1620000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 25
+            }
+        ],
+        "art_id": 101
+    },
+    {
+        "id": 1628890938,
+        "max_tier": 12,
+        "grade": 4,
+        "rarity": "Rare",
+        "scrap_level": -1,
+        "build_time_in_seconds": 9115200,
+        "faction": -1,
+        "blueprints_required": 120,
+        "hull_type": 2,
+        "max_level": 60,
+        "build_cost": [
+            {
+                "resource_id": 743985951,
+                "amount": 16000000
+            },
+            {
+                "resource_id": 309421080,
+                "amount": 5000
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 800000
+            },
+            {
+                "resource_id": 3452257709,
+                "amount": 3000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 39
+            }
+        ],
+        "art_id": 27
+    },
+    {
+        "id": 3694387091,
+        "max_tier": 12,
+        "grade": 4,
+        "rarity": "Rare",
+        "scrap_level": -1,
+        "build_time_in_seconds": 7344000,
+        "faction": 4153667145,
+        "blueprints_required": 150,
+        "hull_type": 1,
+        "max_level": 60,
+        "build_cost": [
+            {
+                "resource_id": 3919958966,
+                "amount": 6000
+            },
+            {
+                "resource_id": 309421080,
+                "amount": 2100
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 1400000
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 17500000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 41
+            },
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 1966376679,
+                "requirement_level": 1
+            }
+        ],
+        "art_id": 64
+    },
+    {
+        "id": 87414807,
+        "max_tier": 12,
+        "grade": 4,
+        "rarity": "Rare",
+        "scrap_level": -1,
+        "build_time_in_seconds": 7344000,
+        "faction": 2064723306,
+        "blueprints_required": 150,
+        "hull_type": 1,
+        "max_level": 60,
+        "build_cost": [
+            {
+                "resource_id": 309421080,
+                "amount": 6000
+            },
+            {
+                "resource_id": 3452257709,
+                "amount": 2100
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 1400000
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 17500000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 41
+            },
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 1966376679,
+                "requirement_level": 1
+            }
+        ],
+        "art_id": 62
+    },
+    {
+        "id": 2623051508,
+        "max_tier": 12,
+        "grade": 4,
+        "rarity": "Rare",
+        "scrap_level": -1,
+        "build_time_in_seconds": 7344000,
+        "faction": 669838839,
+        "blueprints_required": 150,
+        "hull_type": 1,
+        "max_level": 60,
+        "build_cost": [
+            {
+                "resource_id": 2614028847,
+                "amount": 1400000
+            },
+            {
+                "resource_id": 3919958966,
+                "amount": 2100
+            },
+            {
+                "resource_id": 3452257709,
+                "amount": 6000
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 17500000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 41
+            },
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 1966376679,
+                "requirement_level": 1
+            }
+        ],
+        "art_id": 63
+    },
+    {
+        "id": 1244824002,
+        "max_tier": 12,
+        "grade": 4,
+        "rarity": "Uncommon",
+        "scrap_level": -1,
+        "build_time_in_seconds": 12960000,
+        "faction": 4153667145,
+        "blueprints_required": 150,
+        "hull_type": 3,
+        "max_level": 60,
+        "build_cost": [
+            {
+                "resource_id": 3452257709,
+                "amount": 7000
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 1600000
+            },
+            {
+                "resource_id": 3919958966,
+                "amount": 2450
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 25000000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 42
+            },
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 1966376679,
+                "requirement_level": 1
+            }
+        ],
+        "art_id": 22
+    },
+    {
+        "id": 3665388873,
+        "max_tier": 12,
+        "grade": 4,
+        "rarity": "Rare",
+        "scrap_level": -1,
+        "build_time_in_seconds": 17280000,
+        "faction": 4153667145,
+        "blueprints_required": 350,
+        "hull_type": 2,
+        "max_level": 60,
+        "build_cost": [
+            {
+                "resource_id": 309421080,
+                "amount": 8000
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 3800000
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 100000000
+            },
+            {
+                "resource_id": 3452257709,
+                "amount": 2800
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 46
+            },
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 1966376679,
+                "requirement_level": 1
+            }
+        ],
+        "art_id": 9
+    },
+    {
+        "id": 3432906971,
+        "max_tier": 12,
+        "grade": 4,
+        "rarity": "Epic",
+        "scrap_level": -1,
+        "build_time_in_seconds": 21600000,
+        "faction": 4153667145,
+        "blueprints_required": 650,
+        "hull_type": 0,
+        "max_level": 60,
+        "build_cost": [
+            {
+                "resource_id": 309421080,
+                "amount": 3150
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 275000000
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 12000000
+            },
+            {
+                "resource_id": 3919958966,
+                "amount": 9000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 50
+            },
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 1966376679,
+                "requirement_level": 1
+            }
+        ],
+        "art_id": 82
+    },
+    {
+        "id": 711428193,
+        "max_tier": 12,
+        "grade": 4,
+        "rarity": "Uncommon",
+        "scrap_level": -1,
+        "build_time_in_seconds": 12960000,
+        "faction": 2064723306,
+        "blueprints_required": 150,
+        "hull_type": 0,
+        "max_level": 60,
+        "build_cost": [
+            {
+                "resource_id": 743985951,
+                "amount": 25000000
+            },
+            {
+                "resource_id": 309421080,
+                "amount": 2450
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 1600000
+            },
+            {
+                "resource_id": 3919958966,
+                "amount": 7000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 42
+            },
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 1966376679,
+                "requirement_level": 1
+            }
+        ],
+        "art_id": 25
+    },
+    {
+        "id": 2057434885,
+        "max_tier": 12,
+        "grade": 4,
+        "rarity": "Rare",
+        "scrap_level": -1,
+        "build_time_in_seconds": 17280000,
+        "faction": 2064723306,
+        "blueprints_required": 350,
+        "hull_type": 3,
+        "max_level": 60,
+        "build_cost": [
+            {
+                "resource_id": 3919958966,
+                "amount": 2800
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 3800000
+            },
+            {
+                "resource_id": 3452257709,
+                "amount": 8000
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 100000000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 46
+            },
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 1966376679,
+                "requirement_level": 1
+            }
+        ],
+        "art_id": 21
+    },
+    {
+        "id": 3990933991,
+        "max_tier": 12,
+        "grade": 4,
+        "rarity": "Epic",
+        "scrap_level": -1,
+        "build_time_in_seconds": 21600000,
+        "faction": 2064723306,
+        "blueprints_required": 650,
+        "hull_type": 2,
+        "max_level": 60,
+        "build_cost": [
+            {
+                "resource_id": 2614028847,
+                "amount": 12000000
+            },
+            {
+                "resource_id": 309421080,
+                "amount": 9000
+            },
+            {
+                "resource_id": 3452257709,
+                "amount": 3150
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 275000000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 50
+            },
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 1966376679,
+                "requirement_level": 1
+            }
+        ],
+        "art_id": 80
+    },
+    {
+        "id": 1027217748,
+        "max_tier": 12,
+        "grade": 4,
+        "rarity": "Uncommon",
+        "scrap_level": -1,
+        "build_time_in_seconds": 12960000,
+        "faction": 669838839,
+        "blueprints_required": 150,
+        "hull_type": 2,
+        "max_level": 60,
+        "build_cost": [
+            {
+                "resource_id": 309421080,
+                "amount": 7000
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 25000000
+            },
+            {
+                "resource_id": 3452257709,
+                "amount": 2450
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 1600000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 42
+            },
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 1966376679,
+                "requirement_level": 1
+            }
+        ],
+        "art_id": 91
+    },
+    {
+        "id": 2254702328,
+        "max_tier": 12,
+        "grade": 4,
+        "rarity": "Rare",
+        "scrap_level": -1,
+        "build_time_in_seconds": 17280000,
+        "faction": 669838839,
+        "blueprints_required": 350,
+        "hull_type": 0,
+        "max_level": 60,
+        "build_cost": [
+            {
+                "resource_id": 309421080,
+                "amount": 2800
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 100000000
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 3800000
+            },
+            {
+                "resource_id": 3919958966,
+                "amount": 8000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 46
+            },
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 1966376679,
+                "requirement_level": 1
+            }
+        ],
+        "art_id": 18
+    },
+    {
+        "id": 1109770210,
+        "max_tier": 12,
+        "grade": 4,
+        "rarity": "Epic",
+        "scrap_level": -1,
+        "build_time_in_seconds": 21600000,
+        "faction": 669838839,
+        "blueprints_required": 650,
+        "hull_type": 3,
+        "max_level": 60,
+        "build_cost": [
+            {
+                "resource_id": 3452257709,
+                "amount": 9000
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 12000000
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 275000000
+            },
+            {
+                "resource_id": 3919958966,
+                "amount": 3150
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 50
+            },
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 1966376679,
+                "requirement_level": 1
+            }
+        ],
+        "art_id": 81
+    },
+    {
+        "id": 3006451338,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Uncommon",
+        "scrap_level": -1,
+        "build_time_in_seconds": 1116000,
+        "faction": 4153667145,
+        "blueprints_required": 80,
+        "hull_type": 0,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 2614028847,
+                "amount": 38500
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 1150000
+            },
+            {
+                "resource_id": 67391873,
+                "amount": 500
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 26
+            }
+        ],
+        "art_id": 53
+    },
+    {
+        "id": 1960089851,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Uncommon",
+        "scrap_level": -1,
+        "build_time_in_seconds": 1116000,
+        "faction": 4153667145,
+        "blueprints_required": 80,
+        "hull_type": 0,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 928786211,
+                "amount": 200
+            },
+            {
+                "resource_id": 67391873,
+                "amount": 500
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 38500
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 1150000
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 26
+            }
+        ],
+        "art_id": 35
+    },
+    {
+        "id": 3376611577,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Uncommon",
+        "scrap_level": -1,
+        "build_time_in_seconds": 1116000,
+        "faction": 2064723306,
+        "blueprints_required": 80,
+        "hull_type": 2,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 743985951,
+                "amount": 890000
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 42500
+            },
+            {
+                "resource_id": 928786211,
+                "amount": 200
+            },
+            {
+                "resource_id": 3215442881,
+                "amount": 500
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 26
+            }
+        ],
+        "art_id": 34
+    },
+    {
+        "id": 2836931919,
+        "max_tier": 9,
+        "grade": 3,
+        "rarity": "Uncommon",
+        "scrap_level": -1,
+        "build_time_in_seconds": 1116000,
+        "faction": 669838839,
+        "blueprints_required": 80,
+        "hull_type": 3,
+        "max_level": 45,
+        "build_cost": [
+            {
+                "resource_id": 928786211,
+                "amount": 200
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 1300000
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 30000
+            },
+            {
+                "resource_id": 813886518,
+                "amount": 500
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 26
+            }
+        ],
+        "art_id": 36
+    },
+    {
+        "id": 2016654425,
+        "max_tier": 12,
+        "grade": 4,
+        "rarity": "Uncommon",
+        "scrap_level": -1,
+        "build_time_in_seconds": 14256000,
+        "faction": 2113010081,
+        "blueprints_required": 200,
+        "hull_type": 2,
+        "max_level": 60,
+        "build_cost": [
+            {
+                "resource_id": 3215442881,
+                "amount": 50
+            },
+            {
+                "resource_id": 2614028847,
+                "amount": 300000
+            },
+            {
+                "resource_id": 743985951,
+                "amount": 20000000
+            },
+            {
+                "resource_id": 67391873,
+                "amount": 300
+            },
+            {
+                "resource_id": 2367328925,
+                "amount": 30
+            }
+        ],
+        "build_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 15,
+                "requirement_level": 35
+            }
+        ],
+        "art_id": 100
+    }
+]

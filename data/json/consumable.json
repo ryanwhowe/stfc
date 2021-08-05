@@ -1,0 +1,900 @@
+[
+    {
+        "id": 3891168123,
+        "rarity": "Common",
+        "grade": 0,
+        "requires_slot": false,
+        "buff": null,
+        "duration_seconds": 0,
+        "category": 3230644567,
+        "art_id": 7477
+    },
+    {
+        "id": 889121503,
+        "rarity": "Common",
+        "grade": 0,
+        "requires_slot": false,
+        "buff": null,
+        "duration_seconds": 0,
+        "category": 3230644567,
+        "art_id": 7478
+    },
+    {
+        "id": 3906625240,
+        "rarity": "Common",
+        "grade": 0,
+        "requires_slot": false,
+        "buff": null,
+        "duration_seconds": 0,
+        "category": 3230644567,
+        "art_id": 7479
+    },
+    {
+        "id": 1917231543,
+        "rarity": "Common",
+        "grade": 0,
+        "requires_slot": false,
+        "buff": null,
+        "duration_seconds": 0,
+        "category": 3230644567,
+        "art_id": 7480
+    },
+    {
+        "id": 1867525243,
+        "rarity": "Common",
+        "grade": 2,
+        "requires_slot": true,
+        "buff": {
+            "id": 1867525243,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 0.15,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 28800,
+        "category": 2950573209,
+        "art_id": 7461
+    },
+    {
+        "id": 4173883980,
+        "rarity": "Common",
+        "grade": 2,
+        "requires_slot": true,
+        "buff": {
+            "id": 4173883980,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 0.15,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 28800,
+        "category": 2950573209,
+        "art_id": 7462
+    },
+    {
+        "id": 2510332521,
+        "rarity": "Common",
+        "grade": 2,
+        "requires_slot": true,
+        "buff": {
+            "id": 2510332521,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 0.5,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 3600,
+        "category": 1056678826,
+        "art_id": 7470
+    },
+    {
+        "id": 1269803885,
+        "rarity": "Common",
+        "grade": 2,
+        "requires_slot": true,
+        "buff": {
+            "id": 1269803885,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 0.3,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 10800,
+        "category": 1056678826,
+        "art_id": 7466
+    },
+    {
+        "id": 1021783218,
+        "rarity": "Common",
+        "grade": 2,
+        "requires_slot": true,
+        "buff": {
+            "id": 1021783218,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 0.2,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 3600,
+        "category": 1870147103,
+        "art_id": 7471
+    },
+    {
+        "id": 3683438730,
+        "rarity": "Common",
+        "grade": 3,
+        "requires_slot": true,
+        "buff": {
+            "id": 3683438730,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 0.2,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 28800,
+        "category": 2950573209,
+        "art_id": 7461
+    },
+    {
+        "id": 3625530727,
+        "rarity": "Common",
+        "grade": 3,
+        "requires_slot": true,
+        "buff": {
+            "id": 3625530727,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 0.2,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 28800,
+        "category": 2950573209,
+        "art_id": 7462
+    },
+    {
+        "id": 644462853,
+        "rarity": "Rare",
+        "grade": 3,
+        "requires_slot": true,
+        "buff": {
+            "id": 644462853,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 0.7,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 7200,
+        "category": 2950573209,
+        "art_id": 7461
+    },
+    {
+        "id": 3221132401,
+        "rarity": "Rare",
+        "grade": 3,
+        "requires_slot": true,
+        "buff": {
+            "id": 3221132401,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 0.7,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 7200,
+        "category": 2950573209,
+        "art_id": 7462
+    },
+    {
+        "id": 3205337432,
+        "rarity": "Uncommon",
+        "grade": 3,
+        "requires_slot": true,
+        "buff": {
+            "id": 3205337432,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 0.5,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 3600,
+        "category": 2950573209,
+        "art_id": 7463
+    },
+    {
+        "id": 252143283,
+        "rarity": "Uncommon",
+        "grade": 3,
+        "requires_slot": true,
+        "buff": {
+            "id": 252143283,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 1.0,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 3600,
+        "category": 1056678826,
+        "art_id": 7464
+    },
+    {
+        "id": 382992934,
+        "rarity": "Common",
+        "grade": 3,
+        "requires_slot": true,
+        "buff": {
+            "id": 382992934,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 0.85,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 3600,
+        "category": 1056678826,
+        "art_id": 7470
+    },
+    {
+        "id": 2665287834,
+        "rarity": "Rare",
+        "grade": 3,
+        "requires_slot": true,
+        "buff": {
+            "id": 2665287834,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 1.0,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 10800,
+        "category": 1056678826,
+        "art_id": 7465
+    },
+    {
+        "id": 3658002004,
+        "rarity": "Common",
+        "grade": 3,
+        "requires_slot": true,
+        "buff": {
+            "id": 3658002004,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 0.5,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 10800,
+        "category": 1056678826,
+        "art_id": 7466
+    },
+    {
+        "id": 291641472,
+        "rarity": "Uncommon",
+        "grade": 3,
+        "requires_slot": true,
+        "buff": {
+            "id": 291641472,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 1.5,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 10800,
+        "category": 1056678826,
+        "art_id": 7467
+    },
+    {
+        "id": 112444422,
+        "rarity": "Uncommon",
+        "grade": 3,
+        "requires_slot": true,
+        "buff": {
+            "id": 112444422,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 1.5,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 10800,
+        "category": 1056678826,
+        "art_id": 7468
+    },
+    {
+        "id": 1699442135,
+        "rarity": "Uncommon",
+        "grade": 3,
+        "requires_slot": true,
+        "buff": {
+            "id": 1699442135,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 1.5,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 10800,
+        "category": 1056678826,
+        "art_id": 7469
+    },
+    {
+        "id": 2085306290,
+        "rarity": "Common",
+        "grade": 3,
+        "requires_slot": true,
+        "buff": {
+            "id": 2085306290,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 0.3,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 3600,
+        "category": 1870147103,
+        "art_id": 7471
+    },
+    {
+        "id": 2898769014,
+        "rarity": "Uncommon",
+        "grade": 3,
+        "requires_slot": true,
+        "buff": {
+            "id": 2898769014,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 0.8,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 3600,
+        "category": 1870147103,
+        "art_id": 7472
+    },
+    {
+        "id": 821187255,
+        "rarity": "Uncommon",
+        "grade": 3,
+        "requires_slot": true,
+        "buff": {
+            "id": 821187255,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 0.8,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 3600,
+        "category": 1870147103,
+        "art_id": 7473
+    },
+    {
+        "id": 4051714506,
+        "rarity": "Uncommon",
+        "grade": 3,
+        "requires_slot": true,
+        "buff": {
+            "id": 4051714506,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 0.8,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 3600,
+        "category": 1870147103,
+        "art_id": 7474
+    },
+    {
+        "id": 1101468727,
+        "rarity": "Rare",
+        "grade": 3,
+        "requires_slot": true,
+        "buff": {
+            "id": 1101468727,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 1.65,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 3600,
+        "category": 1870147103,
+        "art_id": 7475
+    },
+    {
+        "id": 4046638038,
+        "rarity": "Common",
+        "grade": 4,
+        "requires_slot": true,
+        "buff": {
+            "id": 4046638038,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 0.25,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 28800,
+        "category": 2950573209,
+        "art_id": 7461
+    },
+    {
+        "id": 2600267318,
+        "rarity": "Common",
+        "grade": 4,
+        "requires_slot": true,
+        "buff": {
+            "id": 2600267318,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 0.25,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 28800,
+        "category": 2950573209,
+        "art_id": 7462
+    },
+    {
+        "id": 2235212663,
+        "rarity": "Rare",
+        "grade": 4,
+        "requires_slot": true,
+        "buff": {
+            "id": 2235212663,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 1.0,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 7200,
+        "category": 2950573209,
+        "art_id": 7461
+    },
+    {
+        "id": 3312172191,
+        "rarity": "Rare",
+        "grade": 4,
+        "requires_slot": true,
+        "buff": {
+            "id": 3312172191,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 1.0,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 7200,
+        "category": 2950573209,
+        "art_id": 7462
+    },
+    {
+        "id": 3476691565,
+        "rarity": "Uncommon",
+        "grade": 4,
+        "requires_slot": true,
+        "buff": {
+            "id": 3476691565,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 0.75,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 3600,
+        "category": 2950573209,
+        "art_id": 7463
+    },
+    {
+        "id": 3830997774,
+        "rarity": "Uncommon",
+        "grade": 4,
+        "requires_slot": true,
+        "buff": {
+            "id": 3830997774,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 5.0,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 3600,
+        "category": 1056678826,
+        "art_id": 7464
+    },
+    {
+        "id": 269649687,
+        "rarity": "Common",
+        "grade": 4,
+        "requires_slot": true,
+        "buff": {
+            "id": 269649687,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 2.0,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 3600,
+        "category": 1056678826,
+        "art_id": 7470
+    },
+    {
+        "id": 2008233861,
+        "rarity": "Rare",
+        "grade": 4,
+        "requires_slot": true,
+        "buff": {
+            "id": 2008233861,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 1.5,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 10800,
+        "category": 1056678826,
+        "art_id": 7465
+    },
+    {
+        "id": 3902132979,
+        "rarity": "Common",
+        "grade": 4,
+        "requires_slot": true,
+        "buff": {
+            "id": 3902132979,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 0.75,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 10800,
+        "category": 1056678826,
+        "art_id": 7466
+    },
+    {
+        "id": 3594175399,
+        "rarity": "Uncommon",
+        "grade": 4,
+        "requires_slot": true,
+        "buff": {
+            "id": 3594175399,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 2.5,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 10800,
+        "category": 1056678826,
+        "art_id": 7467
+    },
+    {
+        "id": 2236087117,
+        "rarity": "Uncommon",
+        "grade": 4,
+        "requires_slot": true,
+        "buff": {
+            "id": 2236087117,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 2.5,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 10800,
+        "category": 1056678826,
+        "art_id": 7468
+    },
+    {
+        "id": 1422081894,
+        "rarity": "Uncommon",
+        "grade": 4,
+        "requires_slot": true,
+        "buff": {
+            "id": 1422081894,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 2.5,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 10800,
+        "category": 1056678826,
+        "art_id": 7469
+    },
+    {
+        "id": 4215104267,
+        "rarity": "Common",
+        "grade": 4,
+        "requires_slot": true,
+        "buff": {
+            "id": 4215104267,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 0.5,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 3600,
+        "category": 1870147103,
+        "art_id": 7471
+    },
+    {
+        "id": 4002053438,
+        "rarity": "Uncommon",
+        "grade": 4,
+        "requires_slot": true,
+        "buff": {
+            "id": 4002053438,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 2.0,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 3600,
+        "category": 1870147103,
+        "art_id": 7472
+    },
+    {
+        "id": 3751337072,
+        "rarity": "Uncommon",
+        "grade": 4,
+        "requires_slot": true,
+        "buff": {
+            "id": 3751337072,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 2.0,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 3600,
+        "category": 1870147103,
+        "art_id": 7473
+    },
+    {
+        "id": 848970564,
+        "rarity": "Uncommon",
+        "grade": 4,
+        "requires_slot": true,
+        "buff": {
+            "id": 848970564,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 2.0,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 3600,
+        "category": 1870147103,
+        "art_id": 7474
+    },
+    {
+        "id": 367151521,
+        "rarity": "Rare",
+        "grade": 4,
+        "requires_slot": true,
+        "buff": {
+            "id": 367151521,
+            "value_is_percentage": true,
+            "values": [
+                {
+                    "value": 3.0,
+                    "chance": 1.0
+                }
+            ],
+            "art_id": 999,
+            "show_percentage": true,
+            "value_type": 0
+        },
+        "duration_seconds": 3600,
+        "category": 1870147103,
+        "art_id": 7475
+    }
+]
