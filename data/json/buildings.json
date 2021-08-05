@@ -1,0 +1,698 @@
+[
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "26",
+        "text": "Astronautics Studio",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "26",
+        "text": "New ship hulls are researched and unlocked here before becoming available in the Shipyard.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "9",
+        "text": "Dilithium Generator A",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "9",
+        "text": "Produces Dilithium, a crystalline mineral required when building buildings and advanced ship components. Upgrading Dilithium Generators increases the amount of Dilithium that is produced.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "40",
+        "text": "Exocomp Factory",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "40",
+        "text": "The Exocomp Factory grants the ability to activate and improve Consumables, unlock additional Exocomps, and earn Axionic Chips.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "31",
+        "text": "Refinery",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "31",
+        "text": "Processes Raw Materials. Refine raw Ore, Crystal or Gas to upgrade your ships.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "11",
+        "text": "Dilithium Generator C",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "11",
+        "text": "Produces Dilithium, a crystalline mineral required when building buildings and advanced ship components. Upgrading Dilithium Generators increases the amount of Dilithium that is produced.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "0",
+        "text": "Operations",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "0",
+        "text": "Operations houses the command center and the main computer. Upgrading Operations increases the overall capability of the Station by unlocking more buildings for construction.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "41",
+        "text": "Scrapyard",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "41",
+        "text": "The Scrapyard lets you scrap ships for resources and materials. Upgrade to allow scrapping of more advanced ship classes, and to increase scrapping speed.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "16",
+        "text": "Ship Hangar",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "16",
+        "text": "The Ship Hangar is where extra ships are stored when they are not currently used in the active fleet. Upgrade the Hangar to increase the amount of Ships that can be owned.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "15",
+        "text": "Shipyard",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "15",
+        "text": "The Shipyard is instrumental in ship construction. Upgrade this building to get access to more ships and increase the speed of ship construction.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "18",
+        "text": "Drydock B",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "18",
+        "text": "Ship B. Ships can be assigned, managed and upgraded via Ship Management. Every additional Drydock increases the amounts of Ships that can be deployed.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "5",
+        "text": "Tritanium Generator A",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "5",
+        "text": "Produces Tritanium, an alloy many times harder than diamond, used to costruct mighty ships. Upgrading Tritanium Generators increases the amount of Tritanium that is produced.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "38",
+        "text": "Defense Platform E",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "38",
+        "text": "Defense Platforms are the last line of Defense for the Station. Behind defending ships they provide additional fire support. Upgrade to increase the Platform's combat performance.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "33",
+        "text": "Shuttle Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "33",
+        "text": "The Shuttle Bay allows officers to be sent on Away Team Assignments.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "10",
+        "text": "Dilithium Generator B",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "10",
+        "text": "Produces Dilithium, a crystalline mineral required when building buildings and advanced ship components. Upgrading Dilithium Generators increases the amount of Dilithium that is produced.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "35",
+        "text": "Defense Platform B",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "35",
+        "text": "Defense Platforms are the last line of Defense for the Station. Behind defending ships they provide additional fire support. Upgrade to increase the Platform's combat performance.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "12",
+        "text": "Dilithium Warehouse",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "12",
+        "text": "Stores all collected Dilithium. Upgrade the Warehouse to increase the Dilithium Capacity.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4",
+        "text": "Parsteel Warehouse",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4",
+        "text": "Stores all collected Parsteel. Upgrade the Warehouse to increase the Parsteel Capacity.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "39",
+        "text": "Defense Platform F",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "39",
+        "text": "Defense Platforms are the last line of Defense for the Station. Behind defending ships they provide additional fire support. Upgrade to increase the Platform's combat performance.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "55",
+        "text": "Parsteel Vault",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "55",
+        "text": "Protects the stored Parsteel from enemy attacks. Upgrade the Vault for additional security.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "36",
+        "text": "Defense Platform C",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "36",
+        "text": "Defense Platforms are the last line of Defense for the Station. Behind defending ships they provide additional fire support. Upgrade to increase the Platform's combat performance.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "24",
+        "text": "Academy",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "24",
+        "text": "Here is where your Officers stay when they are not assigned. Promote and Level your Officers via the Officer Screen.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "23",
+        "text": "Armada Control Center",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "23",
+        "text": "The Armada Control Center allows you to initiate Armada attacks on hostile targets. Upgrade the Center to increase the number of allied ships that can join your Armada attacks.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "66",
+        "text": "Dilithium Generator H",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "66",
+        "text": "Produces Dilithium, a crystalline mineral required when building buildings and advanced ship components. Upgrading Dilithium Generators increases the amount of Dilithium that is produced.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2",
+        "text": "Parsteel Generator B",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2",
+        "text": "Produces Parsteel, an alloy with immense tensile strength used to build Station buildings. Upgrading Parsteel Generators increases the amount of Parsteel that is produced.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "57",
+        "text": "Tritanium Generator E",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "57",
+        "text": "Produces Tritanium, an alloy many times harder than diamond, used to costruct mighty ships. Upgrading Tritanium Generators increases the amount of Tritanium that is produced.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "21",
+        "text": "Drydock E",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "21",
+        "text": "Ship E. Ships can be assigned, managed and upgraded via Ship Management. Every additional Drydock increases the amounts of Ships that can be deployed.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "60",
+        "text": "Tritanium Generator H",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "60",
+        "text": "Produces Tritanium, an alloy many times harder than diamond, used to costruct mighty ships. Upgrading Tritanium Generators increases the amount of Tritanium that is produced.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "25",
+        "text": "R&D Department",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "25",
+        "text": "The Research Lab is vital for the discovery of new technologies. Here, new Ships, buildings or supporting technologies are unlocked.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "61",
+        "text": "Tritanium Vault",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "61",
+        "text": "Protects the stored Tritanium from enemy attacks. Upgrade the Vault for additional security.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "37",
+        "text": "Defense Platform D",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "37",
+        "text": "Defense Platforms are the last line of Defense for the Station. Behind defending ships they provide additional fire support. Upgrade to increase the Platform's combat performance.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "7",
+        "text": "Tritanium Generator C",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "7",
+        "text": "Produces Tritanium, an alloy many times harder than diamond, used to costruct mighty ships. Upgrading Tritanium Generators increases the amount of Tritanium that is produced.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "64",
+        "text": "Dilithium Generator F",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "64",
+        "text": "Produces Dilithium, a crystalline mineral required when building buildings and advanced ship components. Upgrading Dilithium Generators increases the amount of Dilithium that is produced.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "67",
+        "text": "Dilithium Vault",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "67",
+        "text": "Protects the stored Dilithium from enemy attacks. Upgrade the Vault for additional security.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "53",
+        "text": "Parsteel Generator G",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "53",
+        "text": "Produces Parsteel, an alloy with immense tensile strength used to build Station buildings. Upgrading Parsteel Generators increases the amount of Parsteel that is produced.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "27",
+        "text": "Armory",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "27",
+        "text": "Weapons Tech Research facility.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "20",
+        "text": "Drydock D",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "20",
+        "text": "Ship D. Ships can be assigned, managed and upgraded via Ship Management. Every additional Drydock increases the amounts of Ships that can be deployed.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "28",
+        "text": "Defense Technologies",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "28",
+        "text": "Defense Tech Research facility.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63",
+        "text": "Dilithium Generator E",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63",
+        "text": "Produces Dilithium, a crystalline mineral required when building buildings and advanced ship components. Upgrading Dilithium Generators increases the amount of Dilithium that is produced.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "6",
+        "text": "Tritanium Generator B",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "6",
+        "text": "Produces Tritanium, an alloy many times harder than diamond, used to costruct mighty ships. Upgrading Tritanium Generators increases the amount of Tritanium that is produced.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "22",
+        "text": "Drydock F",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "22",
+        "text": "Ship F. Ships can be assigned, managed and upgraded via Ship Management. Every additional Drydock increases the amounts of Ships that can be deployed.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "59",
+        "text": "Tritanium Generator G",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "59",
+        "text": "Produces Tritanium, an alloy many times harder than diamond, used to costruct mighty ships. Upgrading Tritanium Generators increases the amount of Tritanium that is produced.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3",
+        "text": "Parsteel Generator C",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3",
+        "text": "Produces Parsteel, an alloy with immense tensile strength used to build Station buildings. Upgrading Parsteel Generators increases the amount of Parsteel that is produced.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "43",
+        "text": "Foundry",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "43",
+        "text": "Armor Tech Research facility.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "52",
+        "text": "Parsteel Generator F",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "52",
+        "text": "Produces Parsteel, an alloy with immense tensile strength used to build Station buildings. Upgrading Parsteel Generators increases the amount of Parsteel that is produced.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1",
+        "text": "Parsteel Generator A",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1",
+        "text": "Produces Parsteel, an alloy with immense tensile strength used to build Station buildings. Upgrading Parsteel Generators increases the amount of Parsteel that is produced.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14",
+        "text": "Engine Technology Lab",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14",
+        "text": "Engine Tech Research facility.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "29",
+        "text": "Science Lab",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "29",
+        "text": "Shield Tech Research facility.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "19",
+        "text": "Drydock C",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "19",
+        "text": "Ship C. Ships can be assigned, managed and upgraded via Ship Management. Every additional Drydock increases the amounts of Ships that can be deployed.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "34",
+        "text": "Defense Platform A",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "34",
+        "text": "Defense Platforms are the last line of Defense for the Station. Behind defending ships they provide additional fire support. Upgrade to increase the Platform's combat performance.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "54",
+        "text": "Parsteel Generator H",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "54",
+        "text": "Produces Parsteel, an alloy with immense tensile strength used to build Station buildings. Upgrading Parsteel Generators increases the amount of Parsteel that is produced.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "58",
+        "text": "Tritanium Generator F",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "58",
+        "text": "Produces Tritanium, an alloy many times harder than diamond, used to costruct mighty ships. Upgrading Tritanium Generators increases the amount of Tritanium that is produced.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8",
+        "text": "Tritanium Warehouse",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8",
+        "text": "Stores all collected Tritanium. Upgrade the Warehouse to increase the Tritanium Capacity.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "65",
+        "text": "Dilithium Generator G",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "65",
+        "text": "Produces Dilithium, a crystalline mineral required when building buildings and advanced ship components. Upgrading Dilithium Generators increases the amount of Dilithium that is produced.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "50",
+        "text": "Parsteel Generator D",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "50",
+        "text": "Produces Parsteel, an alloy with immense tensile strength used to build Station buildings. Upgrading Parsteel Generators increases the amount of Parsteel that is produced.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "17",
+        "text": "Drydock A",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "17",
+        "text": "Ship A. Ships can be assigned, managed and upgraded via Ship Management. Every additional Drydock increases the amounts of Ships that can be deployed.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "51",
+        "text": "Parsteel Generator E",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "51",
+        "text": "Produces Parsteel, an alloy with immense tensile strength used to build Station buildings. Upgrading Parsteel Generators increases the amount of Parsteel that is produced.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "62",
+        "text": "Dilithium Generator D",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "62",
+        "text": "Produces Dilithium, a crystalline mineral required when building buildings and advanced ship components. Upgrading Dilithium Generators increases the amount of Dilithium that is produced.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "56",
+        "text": "Tritanium Generator D",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "56",
+        "text": "Produces Tritanium, an alloy many times harder than diamond, used to costruct mighty ships. Upgrading Tritanium Generators increases the amount of Tritanium that is produced.",
+        "key": "description"
+    }
+]

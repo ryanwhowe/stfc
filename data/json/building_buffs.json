@@ -1,0 +1,1178 @@
+[
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2291525316",
+        "text": "Tritanium Storage",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2291525316",
+        "text": "The Tritanium Storage indicates how much Tritanium this Generator can hold at once. It increases each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1761515720",
+        "text": "Interceptor Shield Health Bonus",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1761515720",
+        "text": "The Shield Health of all your Interceptors is increased each time you upgrade the Engine Technology Lab building.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "727283729",
+        "text": "Parsteel Production",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "727283729",
+        "text": "The Parsteel Production Rate Per Hour of this Generator is increased each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3470553419",
+        "text": "Ship Scrapping Speed",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3470553419",
+        "text": "The Scrapping Speed for all ships you scrap is increased every time you upgrade the Scrapyard.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "439788362",
+        "text": "Power Level",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "439788362",
+        "text": "Defense Platforms protect your Station from other players' attacks.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "179190365",
+        "text": "Parsteel Storage",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "179190365",
+        "text": "The Parsteel Storage indicates how much Parsteel this Generator can hold at once. It increases each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1764042681",
+        "text": "Dilithium Storage",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1764042681",
+        "text": "The Dilithium Storage indicates how much Dilithium this Generator can hold at once. It increases each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3637014985",
+        "text": "Parsteel Vault Protection",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3637014985",
+        "text": "The amount of Parsteel that cannot be stolen when your station gets attacked is increased each time you upgrade the Parsteel Vault.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "439527927",
+        "text": "Dilithium Production",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "439527927",
+        "text": "The Dilithium Production Rate Per Hour of this Generator is increased each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3089815719",
+        "text": "Shield Deflection Bonus",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3089815719",
+        "text": "The Shield Deflection value of all your ships is increased each time you upgrade the Science Lab building.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4233854918",
+        "text": "Parsteel Storage",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4233854918",
+        "text": "The Parsteel Storage indicates how much Parsteel this Generator can hold at once. It increases each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1361889997",
+        "text": "Parsteel Production",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1361889997",
+        "text": "The Parsteel Production Rate Per Hour of this Generator is increased each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1145531007",
+        "text": "Tritanium Storage",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1145531007",
+        "text": "The Tritanium Storage indicates how much Tritanium this Generator can hold at once. It increases each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2334827430",
+        "text": "Hull Health Bonus",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2334827430",
+        "text": "The Hull Health of all your ships is increased each time you upgrade the Ship Hangar.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3914539627",
+        "text": "Repair Speed Bonus",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3914539627",
+        "text": "The Repair Speed for the ship that is affiliated to this Drydock is increased every time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3940777734",
+        "text": "Ship Inventory Slots",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3940777734",
+        "text": "The Inventory indicates how many ships you can have in total, including ones that are not affiliated to a Drydock.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "729229730",
+        "text": "Parsteel Production",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "729229730",
+        "text": "The Parsteel Production Rate Per Hour of this Generator is increased each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2467916106",
+        "text": "Dilithium Storage",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2467916106",
+        "text": "The Dilithium Storage indicates how much Dilithium this Generator can hold at once. It increases each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4054016168",
+        "text": "Dilithium Production",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4054016168",
+        "text": "The Dilithium Production Rate Per Hour of this Generator is increased each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2437824470",
+        "text": "Tritanium Production",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2437824470",
+        "text": "The Tritanium Production Rate Per Hour of this Generator is increased each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1509056673",
+        "text": "Parsteel Production",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1509056673",
+        "text": "The Parsteel Production Rate Per Hour of this Generator is increased each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1605117396",
+        "text": "Power Level",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1605117396",
+        "text": "Defense Platforms protect your Station from other players' attacks.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2026743585",
+        "text": "Dilithium Production",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2026743585",
+        "text": "The Dilithium Production Rate Per Hour of this Generator is increased each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2015738784",
+        "text": "Repair Cost Efficiency",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2015738784",
+        "text": "The Repair Costs for the ship that is affiliated to this Drydock is decreased every time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1067035410",
+        "text": "Dilithium Storage",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1067035410",
+        "text": "The Dilithium Storage indicates how much Dilithium this Generator can hold at once. It increases each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3072710486",
+        "text": "Tritanium Storage",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3072710486",
+        "text": "The Tritanium Storage indicates how much Tritanium this Generator can hold at once. It increases each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1673044410",
+        "text": "Power Level",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1673044410",
+        "text": "Defense Platforms protect your Station from other players' attacks.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1789222968",
+        "text": "Tritanium Capacity",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1789222968",
+        "text": "The Maximum amount of Tritanium you can stock from the Generators is increased each time you upgrade the Tritanium Warehouse.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2619837429",
+        "text": "Parsteel Capacity",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2619837429",
+        "text": "The Maximum amount of Parsteel you can stock from the Generators is increased each time you upgrade the Parsteel Warehouse.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3655026185",
+        "text": "Officer Stats Bonus",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3655026185",
+        "text": "The Attack, Defense and Health of all your Officer are increased each time you upgrade the Academy.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1030529782",
+        "text": "Weapon Damage Bonus",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1030529782",
+        "text": "Increases the weapon damage of your ships.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "787978047",
+        "text": "Repair Cost Efficiency",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "787978047",
+        "text": "The Repair Costs for the ship that is affiliated to this Drydock is decreased every time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3908773390",
+        "text": "Dilithium Storage",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3908773390",
+        "text": "The Dilithium Storage indicates how much Dilithium this Generator can hold at once. It increases each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1961479139",
+        "text": "Parsteel Storage",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1961479139",
+        "text": "The Parsteel Storage indicates how much Parsteel this Generator can hold at once. It increases each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2270080811",
+        "text": "Tritanium Production",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2270080811",
+        "text": "The Tritanium Production Rate Per Hour of this Generator is increased each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2235614043",
+        "text": "Parsteel Production",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2235614043",
+        "text": "The Parsteel Production Rate Per Hour of this Generator is increased each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1584895739",
+        "text": "Power Level",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1584895739",
+        "text": "Defense Platforms protect your Station from other players' attacks.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4081135111",
+        "text": "Defense Platform Defensive Bonus",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4081135111",
+        "text": "The Armor, Shield Deflection and Dodge of your Defense Platforms is increased each time you upgrade the Defense Technologies building.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "234221410",
+        "text": "Tritanium Production",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "234221410",
+        "text": "The Tritanium Production Rate Per Hour of this Generator is increased each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "919263260",
+        "text": "Weapon Damage Bonus",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "919263260",
+        "text": "The Weapon Damage of all your ships is increased each time you upgrade the Operations building.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "802394140",
+        "text": "Dilithium Production",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "802394140",
+        "text": "The Dilithium Production Rate Per Hour of this Generator is increased each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "624435206",
+        "text": "Tritanium Production",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "624435206",
+        "text": "The Tritanium Production Rate Per Hour of this Generator is increased each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1200315561",
+        "text": "Exocomps Unlocked",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1200315561",
+        "text": "Additional Exocomps are unlocked. Exocomps can activate Consumables.\nLevel 1: +1 Galaxy Exocomp\nLevel 5: +1 Station Exocomp\nLevel 15: +1 Combat Exocomp\nLevel 35: +1 Multi-purpose Exocomp",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "753685799",
+        "text": "Explorer Shield Health Bonus",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "753685799",
+        "text": "The Shield Health of all your Explorers is increased each time you upgrade the Science Lab building.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1768483334",
+        "text": "Repair Speed Bonus",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1768483334",
+        "text": "The Repair Speed for the ship that is affiliated to this Drydock is increased every time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1443149197",
+        "text": "Tritanium Storage",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1443149197",
+        "text": "The Tritanium Storage indicates how much Tritanium this Generator can hold at once. It increases each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1692645168",
+        "text": "Defense Platform Damage Bonus",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1692645168",
+        "text": "The Weapon Damage dealt by your Defense Platforms is increased each time you upgrade the Defense Technologies building.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "437521644",
+        "text": "Tritanium Storage",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "437521644",
+        "text": "The Tritanium Storage indicates how much Tritanium this Generator can hold at once. It increases each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4147144843",
+        "text": "Dilithium Production",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4147144843",
+        "text": "The Dilithium Production Rate Per Hour of this Generator is increased each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1014921057",
+        "text": "Critical Hit Damage Bonus",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1014921057",
+        "text": "The Damage dealt by Critical Hits is increased each time you upgrade the Armory.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "572203286",
+        "text": "Research Speed Bonus",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "572203286",
+        "text": "The Research and Development building increases your Research speed each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1240792636",
+        "text": "Repair Speed Bonus",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1240792636",
+        "text": "The Repair Speed for the ship that is affiliated to this Drydock is increased every time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3029261688",
+        "text": "Parsteel Production",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3029261688",
+        "text": "The Parsteel Production Rate Per Hour of this Generator is increased each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3647094777",
+        "text": "Dilithium Production",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3647094777",
+        "text": "The Dilithium Production Rate Per Hour of this Generator is increased each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1400171833",
+        "text": "Repair Cost Efficiency",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1400171833",
+        "text": "The Repair Costs for the ship that is affiliated to this Drydock is decreased every time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3140509951",
+        "text": "Tritanium Storage",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3140509951",
+        "text": "The Tritanium Storage indicates how much Tritanium this Generator can hold at once. It increases each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4227450471",
+        "text": "Tier Up Speed",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4227450471",
+        "text": "The Tier Up Speed for all ships you upgrade is increased every time you upgrade the Shipyard.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1400315411",
+        "text": "Dodge Bonus",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1400315411",
+        "text": "The Dodge value of all your ships is increased each time you upgrade the Engine Technology Lab building.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4257724198",
+        "text": "Battleships Shield Health Bonus",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4257724198",
+        "text": "The Shield Health of all your Battleships is increased each time you upgrade the Foundry.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "711561428",
+        "text": "Tritanium Storage",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "711561428",
+        "text": "The Tritanium Storage indicates how much Tritanium this Generator can hold at once. It increases each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3267742511",
+        "text": "Dilithium Production",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3267742511",
+        "text": "The Dilithium Production Rate Per Hour of this Generator is increased each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3707508878",
+        "text": "Armor Bonus",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3707508878",
+        "text": "The Armor value of all your ships is increased each time you upgrade the Foundry.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3588567631",
+        "text": "Tritanium Production",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3588567631",
+        "text": "The Tritanium Production Rate Per Hour of this Generator is increased each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1911599164",
+        "text": "Parsteel Storage",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1911599164",
+        "text": "The Parsteel Storage indicates how much Parsteel this Generator can hold at once. It increases each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "885203147",
+        "text": "Dilithium Capacity",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "885203147",
+        "text": "The Maximum amount of Dilithium you can stock from the Generators is increased each time you upgrade the Dilithium Warehouse.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1233401306",
+        "text": "Parsteel Storage",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1233401306",
+        "text": "The Parsteel Storage indicates how much Parsteel this Generator can hold at once. It increases each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2744202021",
+        "text": "Axionic Chips Daily Bundle Amount",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2744202021",
+        "text": "The amount of Axionic Chips that can be claimed daily in the Consumables Store is increased.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "189836070",
+        "text": "Repair Cost Efficiency",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "189836070",
+        "text": "The Repair Costs for the ship that is affiliated to this Drydock is decreased every time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4287801156",
+        "text": "Critical Hit Chance Bonus",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4287801156",
+        "text": "The Chances of getting a Critical Hit are increased each time you upgrade the Armory.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2264815824",
+        "text": "Exocomp Consumable Grade",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2264815824",
+        "text": "The grade of Exocomp Consumables that can be purchased in the Consumables Store is increased.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3058492167",
+        "text": "Tritanium Storage",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3058492167",
+        "text": "The Tritanium Storage indicates how much Tritanium this Generator can hold at once. It increases each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3206125489",
+        "text": "Repair Cost Efficiency",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3206125489",
+        "text": "The Repair Costs for the ship that is affiliated to this Drydock is decreased every time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2886402254",
+        "text": "Parsteel Production",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2886402254",
+        "text": "The Parsteel Production Rate Per Hour of this Generator is increased each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1847534232",
+        "text": "Service Award Cost Efficiency",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1847534232",
+        "text": "Increases the cost efficiency of Service Awards when used for research.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3287388779",
+        "text": "Research Cost Efficiency",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3287388779",
+        "text": "The Cost Efficiency of all Research for base resources is increased",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2485849598",
+        "text": "Armada Size",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2485849598",
+        "text": "Increases the maximum number of ships that can take part in your Armada attacks on Hostile targets.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3383388089",
+        "text": "Parsteel Production",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3383388089",
+        "text": "The Parsteel Production Rate Per Hour of this Generator is increased each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3401661757",
+        "text": "Armada Damage Bonus",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3401661757",
+        "text": "Increases the Weapon Damage of your ships when they take part in an Armada attack on a Hostile target.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2221457125",
+        "text": "Ship Construction Speed",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2221457125",
+        "text": "The Construction Speed for all ships you construct is increased every time you upgrade the Shipyard.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4076943075",
+        "text": "Dilithium Storage",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4076943075",
+        "text": "The Dilithium Storage indicates how much Dilithium this Generator can hold at once. It increases each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1847290680",
+        "text": "Power Level",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1847290680",
+        "text": "Defense Platforms protect your Station from other players' attacks.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3134155780",
+        "text": "Dilithium Production",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3134155780",
+        "text": "The Dilithium Production Rate Per Hour of this Generator is increased each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "848074636",
+        "text": "Tritanium Vault Protection",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "848074636",
+        "text": "The amount of Tritanium that cannot be stolen when your station gets attacked is increased each time you upgrade the Tritanium Vault.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1287243827",
+        "text": "Tritanium Production",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1287243827",
+        "text": "The Tritanium Production Rate Per Hour of this Generator is increased each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4096145473",
+        "text": "Parsteel Storage",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4096145473",
+        "text": "The Parsteel Storage indicates how much Parsteel this Generator can hold at once. It increases each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2769496474",
+        "text": "Repair Speed Bonus",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2769496474",
+        "text": "The Repair Speed for the ship that is affiliated to this Drydock is increased every time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1260565637",
+        "text": "Tritanium Production",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1260565637",
+        "text": "The Tritanium Production Rate Per Hour of this Generator is increased each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3143956245",
+        "text": "Parsteel Storage",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3143956245",
+        "text": "The Parsteel Storage indicates how much Parsteel this Generator can hold at once. It increases each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "375224280",
+        "text": "Repair Speed Bonus",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "375224280",
+        "text": "The Repair Speed for the ship that is affiliated to this Drydock is increased every time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "43199216",
+        "text": "Dilithium Storage",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "43199216",
+        "text": "The Dilithium Storage indicates how much Dilithium this Generator can hold at once. It increases each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1786572787",
+        "text": "Dilithium Vault Protection",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1786572787",
+        "text": "The amount of Dilithium that cannot be stolen when your station gets attacked is increased each time you upgrade the Dilithium Vault.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3451685863",
+        "text": "Power Level",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3451685863",
+        "text": "Defense Platforms protect your Station from other players' attacks.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3450405443",
+        "text": "Tritanium Production",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3450405443",
+        "text": "The Tritanium Production Rate Per Hour of this Generator is increased each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "240592581",
+        "text": "Parsteel Storage",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "240592581",
+        "text": "The Parsteel Storage indicates how much Parsteel this Generator can hold at once. It increases each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2132727674",
+        "text": "Dilithium Storage",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2132727674",
+        "text": "The Dilithium Storage indicates how much Dilithium this Generator can hold at once. It increases each time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3053201411",
+        "text": "Repair Speed Bonus",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3053201411",
+        "text": "The Repair Speed for the ship that is affiliated to this Drydock is increased every time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1712157842",
+        "text": "Repair Cost Efficiency",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1712157842",
+        "text": "The Repair Costs for the ship that is affiliated to this Drydock is decreased every time you upgrade it.",
+        "key": "buff_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "555608088",
+        "text": "Dilithium Storage",
+        "key": "buff_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "555608088",
+        "text": "The Dilithium Storage indicates how much Dilithium this Generator can hold at once. It increases each time you upgrade it.",
+        "key": "buff_description"
+    }
+]

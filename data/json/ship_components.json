@@ -1,0 +1,2822 @@
+[
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14012",
+        "text": "Heavy Phaser Cannon [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14012",
+        "text": "A heavy mount phaser bank, intended for heavy combat.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83010",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83010",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13021",
+        "text": "Phaser Turrets [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13021",
+        "text": "Phaser Bank [ENERGY]",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "62002",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "62002",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "53003",
+        "text": "Shields",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "53003",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "93004",
+        "text": "Mining Laser",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "74001",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "74001",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "62005",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "62005",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "81001",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "81001",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "41002",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "41002",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83016",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "43011",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "43011",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "64002",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "64002",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "91002",
+        "text": "Sensor Dish",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "91002",
+        "text": "Emits and receives a variety of signals and waves to sense space and the objects therein.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "93002",
+        "text": "Mining Laser",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "54004",
+        "text": "Shields",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "54004",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "72004",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "72004",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "43002",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "43002",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63009",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63009",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "43003",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "43003",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "54009",
+        "text": "Shields",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "54009",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "44002",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "44002",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "44007",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "44007",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "64005",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "64005",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "94003",
+        "text": "Mining Tool",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "94003",
+        "text": "Cuts into asteroids and planetoids to extract valuable resources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "92001",
+        "text": "Mining Laser",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "92001",
+        "text": "Cuts into asteroids and planetoids to extract valuable resources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "52001",
+        "text": "Shields",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "52001",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "54010",
+        "text": "Shields",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "54010",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "12002",
+        "text": "Phaser Turret [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "12002",
+        "text": "A light phaser emitter on a turret, intended for lighter ships and basic defense.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "51002",
+        "text": "Shield",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "51002",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63012",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63012",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "54003",
+        "text": "Shields",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "54003",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "12005",
+        "text": "Phaser Emitter [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "12005",
+        "text": "A high yield phaser emitter with a more potent phase modulation field, allowing it to cut through shields more easily.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73014",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14417",
+        "text": "Black Fleet Torpedo [KINETIC]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14417",
+        "text": "Black Fleet torpedoes forego traditional large photonic armaments for smaller isogenic charges. While the rarity of isogen normally restricts these weapons to relatively small payloads, they can easily be scaled should more isogen become easily available. In this scenario, they become fearsome, high-powered burst weapons.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "43001",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "43001",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "52005",
+        "text": "Shield",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "52005",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "84005",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "84005",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "12001",
+        "text": "Photonic Torpedoes [KINETIC]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "12001",
+        "text": "When fired in rapid, concentrated bursts, phasers rapidly burn through armoring.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13020",
+        "text": "Upper-Right Kinetic Cannon",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "53016",
+        "text": "Shield",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "82002",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "82002",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13013",
+        "text": "Disruptor Cannon [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13013",
+        "text": "Phaser banks combine phaser emitters with independent power and targeting systems, allowing them to operate independently and with more power than centrally connected phaser emitters.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83005",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83005",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "71002",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "71002",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63013",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63013",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "54011",
+        "text": "Shields",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "54011",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14007",
+        "text": "Heavy Pulsed Phaser [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14007",
+        "text": "When fired in rapid, concentrated bursts, phasers rapidly burn through armoring.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63016",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "-1",
+        "text": "{0} MK1",
+        "key": "component_tier_1"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "-1",
+        "text": "{0} MK2",
+        "key": "component_tier_2"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "-1",
+        "text": "{0} MK3",
+        "key": "component_tier_3"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "-1",
+        "text": "{0} MK4",
+        "key": "component_tier_4"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "-1",
+        "text": "{0} MK5",
+        "key": "component_tier_5"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "-1",
+        "text": "{0} MK6",
+        "key": "component_tier_6"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "-1",
+        "text": "{0} MK7",
+        "key": "component_tier_7"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "-1",
+        "text": "{0} MK8",
+        "key": "component_tier_8"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "-1",
+        "text": "{0} MK9",
+        "key": "component_tier_9"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "-1",
+        "text": "{0} MK10",
+        "key": "component_tier_10"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "-1",
+        "text": "{0} MK11",
+        "key": "component_tier_11"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "-1",
+        "text": "{0} MK12",
+        "key": "component_tier_12"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63020",
+        "text": "Impulse Engine",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63020",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "44001",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "44001",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "81003",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "64007",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "64007",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14413",
+        "text": "Phaser Strip [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14413",
+        "text": "A phaser strip is a series of phaser emitters laid out contiguously, so that their power can be combined in a single discharge. Some engineers are known to colloquially use the term \"strip\" instead of phaser array, to distinguish smaller groups of emitters that do not output full, military strength.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13016",
+        "text": "Phaser Turrets [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13103",
+        "text": "Photon Torpedoes [KINETIC]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "64011",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "64011",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13011",
+        "text": "Phaser Bank [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13011",
+        "text": "When fired in rapid, concentrated bursts, phasers rapidly burn through armoring.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14011",
+        "text": "Heavy Phaser Turret",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14011",
+        "text": "A phaser emitter on a turret, intended for lighter ships and basic defense.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "12003",
+        "text": "Phaser Cannons [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "12003",
+        "text": "The standard in defensive weapons for starships, the phaser emitter puts considerable energy out with high accuracy.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "52003",
+        "text": "Shield",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "52003",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13110",
+        "text": "Medium Charge Cannon [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13014",
+        "text": "Photon Torpedo [KINETIC]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "43009",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "43009",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14010",
+        "text": "Heavy Phaser Bank",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14010",
+        "text": "Phaser banks combine phaser emitters with independent power and targeting systems, allowing them to operate independently and with more power than centrally connected phaser emitters.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "42003",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "42003",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "53008",
+        "text": "Shield",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "53008",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "93003",
+        "text": "Mining Laser",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13117",
+        "text": "High Charge Phaser Bank [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "74010",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "74010",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83009",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83009",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "74005",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "74005",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63003",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63003",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "44003",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "44003",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "53013",
+        "text": "Shield",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "53013",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14009",
+        "text": "Heavy Pulsed Phaser [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14009",
+        "text": "When fired in rapid, concentrated bursts, phasers rapidly burn through armoring.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "42002",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "42002",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "94001",
+        "text": "Mining Tool",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "94001",
+        "text": "Cuts into asteroids and planetoids to extract valuable resources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14003",
+        "text": "Heavy Pulsed Phaser [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14003",
+        "text": "When fired in rapid, concentrated bursts, phasers rapidly burn through armoring.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "41001",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "41001",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "54006",
+        "text": "Shields",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "54006",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13114",
+        "text": "Disruptor Bank [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "71003",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "53002",
+        "text": "Shield",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "53002",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "44011",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "44011",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "44006",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "44006",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73004",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73004",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "82003",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "82003",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "52002",
+        "text": "Shield",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "52002",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "53001",
+        "text": "Shields",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "53001",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "64001",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "64001",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "72001",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "72001",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83013",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83013",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14112",
+        "text": "Type-5 Disruptor Cannon [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "71001",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "71001",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "74004",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "74004",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13023",
+        "text": "Railgun [KINETIC]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13023",
+        "text": "Railgun [KINETIC]",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "81002",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "81002",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14418",
+        "text": "Isogenic Cannon [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14418",
+        "text": "Isogenic Cannons modulate the energy present in raw isogen into directed energy attacks. The power of this weapon is directly proportional to the amount of isogen used as a catalyst: In situations where isogen is freely available, it packs a tremendous punch.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "44013",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "44013",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "74006",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "74006",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13008",
+        "text": "Phaser Turrets [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13008",
+        "text": "When fired in rapid, concentrated bursts, phasers rapidly burn through armoring.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13007",
+        "text": "Left Kinetic Cannon [KINETIC]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13007",
+        "text": "When fired in rapid, concentrated bursts, phasers rapidly burn through armoring.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "54007",
+        "text": "Shields",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "54007",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14410",
+        "text": "Light Disruptor [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14410",
+        "text": "Disruptor Cannons are a directed energy weapon, favored by the Klingon Empire and Romulan Star Empire. They generally carry more energy than standard phaser weapons, but suffer from reduced accuracy and rate of discharge.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73016",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14006",
+        "text": "Heavy Phaser Bank",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14006",
+        "text": "Phaser banks combine phaser emitters with independent power and targeting systems, allowing them to operate independently and with more power than centrally connected phaser emitters.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73008",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73008",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "53012",
+        "text": "Shields",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "53012",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13002",
+        "text": "Phaser Beam [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13002",
+        "text": "A heavy mount phaser bank, intended for heavy combat.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "12004",
+        "text": "Phase Cannon [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "12004",
+        "text": "The standard in defensive weapons for starships, the phaser emitter puts considerable energy out with high accuracy.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "74013",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "74013",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83003",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83003",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "51001",
+        "text": "Shield",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "51001",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "43012",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "43012",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "53014",
+        "text": "Polarized Hull Plating",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "82004",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "82004",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "84006",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "84006",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13015",
+        "text": "Disruptor Array [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14013",
+        "text": "Heavy Phaser Cannon [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14013",
+        "text": "A heavy mount phaser bank, intended for heavy combat.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "42001",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "42001",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "44004",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "44004",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63004",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63004",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13106",
+        "text": "High-Charge Torpedo [KINETIC]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "84003",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "84003",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "61001",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "61001",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "93005",
+        "text": "Tungsten-Boride Grinder",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "93005",
+        "text": "A mining saw made from superhard material, specially designed to harvest Isogen.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "72002",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "72002",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "43013",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "43013",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83002",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83002",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73001",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73001",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73010",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73010",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "94002",
+        "text": "Mining Tool",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "94002",
+        "text": "Cuts into asteroids and planetoids to extract valuable resources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13105",
+        "text": "Concussive charge [KINETIC]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "62001",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "62001",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63008",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63008",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "44005",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "44005",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "64009",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "64009",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13017",
+        "text": "Pulsed Phase Cannons [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "44012",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "44012",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73013",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73013",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "64012",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "64012",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13118",
+        "text": "Phaser Laser [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73009",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73009",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "44009",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "44009",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "91001",
+        "text": "Mining Tool",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "91001",
+        "text": "Cuts into asteroids and planetoids to extract valuable resources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "53004",
+        "text": "Shield",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "53004",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63006",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63006",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "72006",
+        "text": "Spore Drive",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "72006",
+        "text": "The device that allows starships to access the mycelial network and travel great distances almost instantly.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13107",
+        "text": "Right Kinetic Cannon [KINETIC]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13210",
+        "text": "High Charge Cannon [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14005",
+        "text": "Heavy Phaser Cannon [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14005",
+        "text": "A heavy mount phaser bank, intended for heavy combat.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "82005",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "82005",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "74008",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "74008",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13012",
+        "text": "Phaser Turrets [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13012",
+        "text": "A heavy mount phaser bank, intended for heavy combat.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "64004",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "64004",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "84009",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "84009",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73015",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "53007",
+        "text": "Shields",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "53007",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "93001",
+        "text": "Mining Laser",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "93001",
+        "text": "Cuts into asteroids and planetoids to extract valuable resources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "82001",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "82001",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "84001",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "84001",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "54001",
+        "text": "Shields",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "54001",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13001",
+        "text": "Photon Torpedoes [KINETIC]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13001",
+        "text": "Phaser banks combine phaser emitters with independent power and targeting systems, allowing them to operate independently and with more power than centrally connected phaser emitters.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "74009",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "74009",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "53006",
+        "text": "Shield",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "53006",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83014",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "64008",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "64008",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83011",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83011",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73018",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "62003",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "62003",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "54005",
+        "text": "Shields",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "54005",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "53009",
+        "text": "Shields",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "53009",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "54008",
+        "text": "Shields",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "54008",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "84008",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "84008",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "43008",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "43008",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13113",
+        "text": "Double Cannon [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "74007",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "74007",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "54002",
+        "text": "Shields",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "54002",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "91005",
+        "text": "Mining Laser",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83004",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83004",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83006",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83006",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "74002",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "74002",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "84013",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "84013",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "62004",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "62004",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "11002",
+        "text": "Plasma Cannon [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "11002",
+        "text": "A directed energy weapon that preceded the phaser; emits collimated beams of particle energy through a phase modulation field.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "43006",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "43006",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73011",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73011",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "84004",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "84004",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "52004",
+        "text": "Shields",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "52004",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "84012",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "84012",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73006",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73006",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "64010",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "64010",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "53011",
+        "text": "Shield",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "53011",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "74011",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "74011",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13004",
+        "text": "Phaser Turret [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13004",
+        "text": "Phaser banks combine phaser emitters with independent power and targeting systems, allowing them to operate independently and with more power than centrally connected phaser emitters.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13018",
+        "text": "Right Kinetic Cannon",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "43007",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "43007",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83015",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "84010",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "84010",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "84011",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "84011",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "74012",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "74012",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13108",
+        "text": "Photon Torpedoes [KINETIC]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "72005",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "72005",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "91003",
+        "text": "Deflector Array",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "91003",
+        "text": "Deflects small particles, protecting the hull of the ship from the ravages of relativistic travel.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13003",
+        "text": "Phaser Cannon [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13003",
+        "text": "A heavy mount phaser bank, intended for heavy combat.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "54012",
+        "text": "Shields",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "54012",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "42004",
+        "text": "Black Fleet Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "42004",
+        "text": "Black Fleet armor plating represents the ultimate expression of the Klingon Empire's battle philosophy. Hiding behind shields is not the Klingon way: Face your enemy directly, with only the strength of your arm and the might of your steel to guide you.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "64003",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "64003",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "72003",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "72003",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63001",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63001",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63014",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13009",
+        "text": "High-Impact Torpedo [KINETIC]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13009",
+        "text": "A phaser emitter on a turret, intended for lighter ships and basic defense.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83012",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83012",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14391",
+        "text": "Red Matter Torpedo [KINETIC]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14391",
+        "text": "Using attenuated red matter, these torpedoes are able to inflict devastating damage to all known defensive systems, without causing a chain-reacting singularity which could damage the attacking vessel.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "54013",
+        "text": "Shields",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "54013",
+        "text": "A collection of deflector screens, magnetic fields, and induced energy fields that protect the ship from harm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14002",
+        "text": "Heavy Phaser Bank",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14002",
+        "text": "Phaser banks combine phaser emitters with independent power and targeting systems, allowing them to operate independently and with more power than centrally connected phaser emitters.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13119",
+        "text": "Obliterator [KINETIC]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83007",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83007",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14001",
+        "text": "Heavy Pulsed Phaser [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14001",
+        "text": "When fired in rapid, concentrated bursts, phasers rapidly burn through armoring.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83001",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83001",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73002",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73002",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "74003",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "74003",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73007",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73007",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14390",
+        "text": "Phaser Cannon [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14390",
+        "text": "Phaser Cannons utilize advanced phaser technology from the future, introduced via an alternate, mirror universe. Their destructive power far surpasses any yet seen in this universe.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "11001",
+        "text": "Pulsed Phaser [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "11001",
+        "text": "A directed energy weapon that preceded the phaser; emits collimated beams of particle energy through a phase modulation field.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13111",
+        "text": "Prototype Phaser Array [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14008",
+        "text": "Heavy Phaser Bank",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14008",
+        "text": "Phaser banks combine phaser emitters with independent power and targeting systems, allowing them to operate independently and with more power than centrally connected phaser emitters.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "42005",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "42005",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83017",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73012",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73012",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63011",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63011",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73005",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73005",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "64013",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "64013",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "44010",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "44010",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63002",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63002",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "84002",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "84002",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14416",
+        "text": "Microtorpedo [KINETIC]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14416",
+        "text": "Microtorpedos are miniaturized versions of the ubiquitous photon torpedo. They have less destructive power than their full-sized brethren, but benefit from requiring a drastically smaller launch assembly and storage profile.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "64006",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "64006",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "44008",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "44008",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63007",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63007",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13101",
+        "text": "Phaser Bank [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "43004",
+        "text": "Tritanium Armor",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "43004",
+        "text": "Tritanium plating protects starships from damage from a variety of sources.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73003",
+        "text": "Warp Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "73003",
+        "text": "The device that allows starships to travel fast enough to make interstellar travel viable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "61002",
+        "text": "Impulse Engines",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "61002",
+        "text": "The conventional engines for moving a starship at sub-warp speeds.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "84007",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "84007",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14004",
+        "text": "Heavy Phaser Cannon [ENERGY]",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "14004",
+        "text": "A heavy mount phaser bank, intended for heavy combat.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83008",
+        "text": "Cargo Bay",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "83008",
+        "text": "Every starship needs a place to store its goods and supplies.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "13019",
+        "text": "Upper-Left Kinetic Cannon",
+        "key": "name"
+    }
+]

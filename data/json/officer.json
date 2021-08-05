@@ -1,0 +1,2879 @@
+[
+    {
+        "id": 988947581,
+        "art_id": 1,
+        "faction": 2064723306,
+        "class": 1,
+        "rarity": "Epic",
+        "synergy_id": 1,
+        "max_rank": 5,
+        "ability": {
+            "id": 2068068163,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 6
+        },
+        "captain_ability": {
+            "id": 4102716881,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 41
+        }
+    },
+    {
+        "id": 766809588,
+        "art_id": 2,
+        "faction": 2064723306,
+        "class": 2,
+        "rarity": "Rare",
+        "synergy_id": 1,
+        "max_rank": 5,
+        "ability": {
+            "id": 2500262645,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 16
+        },
+        "captain_ability": {
+            "id": 869555258,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 45
+        }
+    },
+    {
+        "id": 3923643019,
+        "art_id": 3,
+        "faction": 2064723306,
+        "class": 2,
+        "rarity": "Rare",
+        "synergy_id": 1,
+        "max_rank": 5,
+        "ability": {
+            "id": 1520108895,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 18
+        },
+        "captain_ability": {
+            "id": 188993107,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 42
+        }
+    },
+    {
+        "id": 2695272429,
+        "art_id": 7,
+        "faction": 2064723306,
+        "class": 3,
+        "rarity": "Rare",
+        "synergy_id": 1,
+        "max_rank": 5,
+        "ability": {
+            "id": 2416805344,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 46
+        },
+        "captain_ability": {
+            "id": 3587051486,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 12
+        }
+    },
+    {
+        "id": 3155244352,
+        "art_id": 4,
+        "faction": 2064723306,
+        "class": 3,
+        "rarity": "Uncommon",
+        "synergy_id": 1,
+        "max_rank": 5,
+        "ability": {
+            "id": 1704676580,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 15
+        },
+        "captain_ability": {
+            "id": 233399498,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 44
+        }
+    },
+    {
+        "id": 2520801863,
+        "art_id": 5,
+        "faction": 2064723306,
+        "class": 1,
+        "rarity": "Uncommon",
+        "synergy_id": 1,
+        "max_rank": 5,
+        "ability": {
+            "id": 1840304835,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 29
+        },
+        "captain_ability": {
+            "id": 3346498472,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 6
+        }
+    },
+    {
+        "id": 282462507,
+        "art_id": 6,
+        "faction": 2064723306,
+        "class": 1,
+        "rarity": "Uncommon",
+        "synergy_id": 1,
+        "max_rank": 5,
+        "ability": {
+            "id": 3062248728,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 7
+        },
+        "captain_ability": {
+            "id": 4151870740,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 6
+        }
+    },
+    {
+        "id": 1465017198,
+        "art_id": 8,
+        "faction": 4153667145,
+        "class": 1,
+        "rarity": "Epic",
+        "synergy_id": 2,
+        "max_rank": 5,
+        "ability": {
+            "id": 3732921554,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 40
+        },
+        "captain_ability": {
+            "id": 674724565,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 24
+        }
+    },
+    {
+        "id": 1730335425,
+        "art_id": 9,
+        "faction": 4153667145,
+        "class": 1,
+        "rarity": "Rare",
+        "synergy_id": 2,
+        "max_rank": 5,
+        "ability": {
+            "id": 2157413500,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 12
+        },
+        "captain_ability": {
+            "id": 242644831,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 38
+        }
+    },
+    {
+        "id": 3880112208,
+        "art_id": 10,
+        "faction": 4153667145,
+        "class": 3,
+        "rarity": "Rare",
+        "synergy_id": 2,
+        "max_rank": 5,
+        "ability": {
+            "id": 1118413176,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 26
+        },
+        "captain_ability": {
+            "id": 228933399,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 14
+        }
+    },
+    {
+        "id": 2475235160,
+        "art_id": 11,
+        "faction": 4153667145,
+        "class": 2,
+        "rarity": "Rare",
+        "synergy_id": 2,
+        "max_rank": 5,
+        "ability": {
+            "id": 3301945997,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 22
+        },
+        "captain_ability": {
+            "id": 1262973132,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 28
+        }
+    },
+    {
+        "id": 250991574,
+        "art_id": 12,
+        "faction": 4153667145,
+        "class": 3,
+        "rarity": "Uncommon",
+        "synergy_id": 2,
+        "max_rank": 5,
+        "ability": {
+            "id": 1880351032,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 30
+        },
+        "captain_ability": {
+            "id": 2092278144,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 8
+        }
+    },
+    {
+        "id": 98548875,
+        "art_id": 13,
+        "faction": 4153667145,
+        "class": 2,
+        "rarity": "Uncommon",
+        "synergy_id": 2,
+        "max_rank": 5,
+        "ability": {
+            "id": 2759234550,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 14
+        },
+        "captain_ability": {
+            "id": 4287045306,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 32
+        }
+    },
+    {
+        "id": 3221819893,
+        "art_id": 14,
+        "faction": 4153667145,
+        "class": 1,
+        "rarity": "Uncommon",
+        "synergy_id": 2,
+        "max_rank": 5,
+        "ability": {
+            "id": 1987416811,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 7
+        },
+        "captain_ability": {
+            "id": 508362235,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 22
+        }
+    },
+    {
+        "id": 656972203,
+        "art_id": 15,
+        "faction": 669838839,
+        "class": 3,
+        "rarity": "Epic",
+        "synergy_id": 3,
+        "max_rank": 5,
+        "ability": {
+            "id": 1215201819,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 23
+        },
+        "captain_ability": {
+            "id": 1824840463,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 43
+        }
+    },
+    {
+        "id": 2959514562,
+        "art_id": 16,
+        "faction": 669838839,
+        "class": 2,
+        "rarity": "Rare",
+        "synergy_id": 3,
+        "max_rank": 5,
+        "ability": {
+            "id": 2633638696,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 23
+        },
+        "captain_ability": {
+            "id": 4289717791,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 39
+        }
+    },
+    {
+        "id": 1983456684,
+        "art_id": 17,
+        "faction": 669838839,
+        "class": 1,
+        "rarity": "Rare",
+        "synergy_id": 3,
+        "max_rank": 5,
+        "ability": {
+            "id": 2642188917,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 19
+        },
+        "captain_ability": {
+            "id": 1446865370,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 7
+        }
+    },
+    {
+        "id": 2333021829,
+        "art_id": 18,
+        "faction": 669838839,
+        "class": 3,
+        "rarity": "Rare",
+        "synergy_id": 3,
+        "max_rank": 5,
+        "ability": {
+            "id": 2714109144,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 15
+        },
+        "captain_ability": {
+            "id": 2144007762,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 8
+        }
+    },
+    {
+        "id": 339936167,
+        "art_id": 19,
+        "faction": 669838839,
+        "class": 2,
+        "rarity": "Uncommon",
+        "synergy_id": 3,
+        "max_rank": 5,
+        "ability": {
+            "id": 193818243,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 19
+        },
+        "captain_ability": {
+            "id": 2603504550,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 23
+        }
+    },
+    {
+        "id": 2235857051,
+        "art_id": 20,
+        "faction": 669838839,
+        "class": 2,
+        "rarity": "Uncommon",
+        "synergy_id": 3,
+        "max_rank": 5,
+        "ability": {
+            "id": 4246759861,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 7
+        },
+        "captain_ability": {
+            "id": 3575708063,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 33
+        }
+    },
+    {
+        "id": 668528267,
+        "art_id": 21,
+        "faction": 669838839,
+        "class": 1,
+        "rarity": "Uncommon",
+        "synergy_id": 3,
+        "max_rank": 5,
+        "ability": {
+            "id": 640569748,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 19
+        },
+        "captain_ability": {
+            "id": 2120680252,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 31
+        }
+    },
+    {
+        "id": 1608562191,
+        "art_id": 22,
+        "faction": 4153667145,
+        "class": 1,
+        "rarity": "Epic",
+        "synergy_id": 4,
+        "max_rank": 5,
+        "ability": {
+            "id": 469743570,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 21
+        },
+        "captain_ability": {
+            "id": 840557541,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 28
+        }
+    },
+    {
+        "id": 1353192478,
+        "art_id": 23,
+        "faction": 4153667145,
+        "class": 2,
+        "rarity": "Rare",
+        "synergy_id": 4,
+        "max_rank": 5,
+        "ability": {
+            "id": 1955068300,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 12
+        },
+        "captain_ability": {
+            "id": 1304319250,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 34
+        }
+    },
+    {
+        "id": 3465002315,
+        "art_id": 24,
+        "faction": 4153667145,
+        "class": 3,
+        "rarity": "Rare",
+        "synergy_id": 4,
+        "max_rank": 5,
+        "ability": {
+            "id": 678167089,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 35
+        },
+        "captain_ability": {
+            "id": 3599377845,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 28
+        }
+    },
+    {
+        "id": 913104893,
+        "art_id": 25,
+        "faction": 4153667145,
+        "class": 1,
+        "rarity": "Rare",
+        "synergy_id": 4,
+        "max_rank": 5,
+        "ability": {
+            "id": 2443405066,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 3
+        },
+        "captain_ability": {
+            "id": 1556590305,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 30
+        }
+    },
+    {
+        "id": 3001921707,
+        "art_id": 26,
+        "faction": 4153667145,
+        "class": 3,
+        "rarity": "Uncommon",
+        "synergy_id": 4,
+        "max_rank": 5,
+        "ability": {
+            "id": 660977416,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 37
+        },
+        "captain_ability": {
+            "id": 753745040,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 38
+        }
+    },
+    {
+        "id": 3594947012,
+        "art_id": 27,
+        "faction": 4153667145,
+        "class": 2,
+        "rarity": "Uncommon",
+        "synergy_id": 4,
+        "max_rank": 5,
+        "ability": {
+            "id": 2314534937,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 21
+        },
+        "captain_ability": {
+            "id": 4197012360,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 12
+        }
+    },
+    {
+        "id": 3114234402,
+        "art_id": 28,
+        "faction": 4153667145,
+        "class": 3,
+        "rarity": "Uncommon",
+        "synergy_id": 4,
+        "max_rank": 5,
+        "ability": {
+            "id": 2401299714,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 19
+        },
+        "captain_ability": {
+            "id": 2086809246,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 7
+        }
+    },
+    {
+        "id": 1250418815,
+        "art_id": 29,
+        "faction": 669838839,
+        "class": 1,
+        "rarity": "Epic",
+        "synergy_id": 5,
+        "max_rank": 5,
+        "ability": {
+            "id": 2825675256,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 22
+        },
+        "captain_ability": {
+            "id": 3930256423,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 23
+        }
+    },
+    {
+        "id": 361377304,
+        "art_id": 30,
+        "faction": 669838839,
+        "class": 3,
+        "rarity": "Rare",
+        "synergy_id": 5,
+        "max_rank": 5,
+        "ability": {
+            "id": 3206018140,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 12
+        },
+        "captain_ability": {
+            "id": 2857502443,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 32
+        }
+    },
+    {
+        "id": 3961190554,
+        "art_id": 31,
+        "faction": 669838839,
+        "class": 2,
+        "rarity": "Rare",
+        "synergy_id": 5,
+        "max_rank": 5,
+        "ability": {
+            "id": 207614493,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 38
+        },
+        "captain_ability": {
+            "id": 3943819030,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 20
+        }
+    },
+    {
+        "id": 531187684,
+        "art_id": 32,
+        "faction": 669838839,
+        "class": 2,
+        "rarity": "Rare",
+        "synergy_id": 5,
+        "max_rank": 5,
+        "ability": {
+            "id": 259747624,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 35
+        },
+        "captain_ability": {
+            "id": 3030072621,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 23
+        }
+    },
+    {
+        "id": 3079282844,
+        "art_id": 33,
+        "faction": 669838839,
+        "class": 3,
+        "rarity": "Uncommon",
+        "synergy_id": 5,
+        "max_rank": 5,
+        "ability": {
+            "id": 3079666421,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 36
+        },
+        "captain_ability": {
+            "id": 3171947561,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 7
+        }
+    },
+    {
+        "id": 513311144,
+        "art_id": 91,
+        "faction": 669838839,
+        "class": 1,
+        "rarity": "Uncommon",
+        "synergy_id": 5,
+        "max_rank": 5,
+        "ability": {
+            "id": 1785494954,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 12
+        },
+        "captain_ability": {
+            "id": 2554625138,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 7
+        }
+    },
+    {
+        "id": 161972881,
+        "art_id": 35,
+        "faction": 669838839,
+        "class": 3,
+        "rarity": "Uncommon",
+        "synergy_id": 5,
+        "max_rank": 5,
+        "ability": {
+            "id": 3765448209,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 38
+        },
+        "captain_ability": {
+            "id": 1133890335,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 12
+        }
+    },
+    {
+        "id": 1127234629,
+        "art_id": 43,
+        "faction": 2064723306,
+        "class": 1,
+        "rarity": "Epic",
+        "synergy_id": 6,
+        "max_rank": 5,
+        "ability": {
+            "id": 1877391678,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 31
+        },
+        "captain_ability": {
+            "id": 2221311201,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 6
+        }
+    },
+    {
+        "id": 3381802332,
+        "art_id": 37,
+        "faction": 2064723306,
+        "class": 3,
+        "rarity": "Rare",
+        "synergy_id": 6,
+        "max_rank": 5,
+        "ability": {
+            "id": 264056742,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 37
+        },
+        "captain_ability": {
+            "id": 1427535254,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 12
+        }
+    },
+    {
+        "id": 3553398304,
+        "art_id": 38,
+        "faction": 2064723306,
+        "class": 2,
+        "rarity": "Rare",
+        "synergy_id": 6,
+        "max_rank": 5,
+        "ability": {
+            "id": 3875841674,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 12
+        },
+        "captain_ability": {
+            "id": 2099626491,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 33
+        }
+    },
+    {
+        "id": 1143746577,
+        "art_id": 40,
+        "faction": 2064723306,
+        "class": 1,
+        "rarity": "Uncommon",
+        "synergy_id": 6,
+        "max_rank": 5,
+        "ability": {
+            "id": 4081666796,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 19
+        },
+        "captain_ability": {
+            "id": 1892484976,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 7
+        }
+    },
+    {
+        "id": 329940464,
+        "art_id": 90,
+        "faction": 2064723306,
+        "class": 1,
+        "rarity": "Epic",
+        "synergy_id": 7,
+        "max_rank": 5,
+        "ability": {
+            "id": 2383265567,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 10
+        },
+        "captain_ability": {
+            "id": 156238802,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 7
+        }
+    },
+    {
+        "id": 3990993357,
+        "art_id": 44,
+        "faction": 2064723306,
+        "class": 2,
+        "rarity": "Rare",
+        "synergy_id": 7,
+        "max_rank": 5,
+        "ability": {
+            "id": 1471408949,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 12
+        },
+        "captain_ability": {
+            "id": 10760547,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 15
+        }
+    },
+    {
+        "id": 3628828668,
+        "art_id": 45,
+        "faction": 2064723306,
+        "class": 3,
+        "rarity": "Uncommon",
+        "synergy_id": 7,
+        "max_rank": 5,
+        "ability": {
+            "id": 4056050786,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 73
+        },
+        "captain_ability": {
+            "id": 1815450665,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 19
+        }
+    },
+    {
+        "id": 2963484044,
+        "art_id": 46,
+        "faction": 2064723306,
+        "class": 3,
+        "rarity": "Common",
+        "synergy_id": 7,
+        "max_rank": 5,
+        "ability": {
+            "id": 2899912544,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 71
+        },
+        "captain_ability": {
+            "id": 3368245052,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 38
+        }
+    },
+    {
+        "id": 307877748,
+        "art_id": 47,
+        "faction": 2064723306,
+        "class": 3,
+        "rarity": "Uncommon",
+        "synergy_id": 7,
+        "max_rank": 5,
+        "ability": {
+            "id": 40913680,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 72
+        },
+        "captain_ability": {
+            "id": 2079302126,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 16
+        }
+    },
+    {
+        "id": 3314108979,
+        "art_id": 48,
+        "faction": 2064723306,
+        "class": 3,
+        "rarity": "Common",
+        "synergy_id": 7,
+        "max_rank": 5,
+        "ability": {
+            "id": 2331408146,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 70
+        },
+        "captain_ability": {
+            "id": 511272321,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 9
+        }
+    },
+    {
+        "id": 1556052341,
+        "art_id": 49,
+        "faction": 2064723306,
+        "class": 1,
+        "rarity": "Rare",
+        "synergy_id": 8,
+        "max_rank": 5,
+        "ability": {
+            "id": 1776341383,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 13
+        },
+        "captain_ability": {
+            "id": 3248153153,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 5
+        }
+    },
+    {
+        "id": 2518604778,
+        "art_id": 89,
+        "faction": 4153667145,
+        "class": 2,
+        "rarity": "Rare",
+        "synergy_id": 8,
+        "max_rank": 5,
+        "ability": {
+            "id": 2398413031,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 12
+        },
+        "captain_ability": {
+            "id": 703289562,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 5
+        }
+    },
+    {
+        "id": 755079845,
+        "art_id": 50,
+        "faction": 2064723306,
+        "class": 3,
+        "rarity": "Rare",
+        "synergy_id": 8,
+        "max_rank": 5,
+        "ability": {
+            "id": 3963393918,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 1
+        },
+        "captain_ability": {
+            "id": 2656033988,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 5
+        }
+    },
+    {
+        "id": 3816036121,
+        "art_id": 51,
+        "faction": 669838839,
+        "class": 2,
+        "rarity": "Common",
+        "synergy_id": 8,
+        "max_rank": 5,
+        "ability": {
+            "id": 2687495170,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 9
+        },
+        "captain_ability": {
+            "id": 2591028018,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 5
+        }
+    },
+    {
+        "id": 2432668775,
+        "art_id": 52,
+        "faction": 4153667145,
+        "class": 3,
+        "rarity": "Common",
+        "synergy_id": 8,
+        "max_rank": 5,
+        "ability": {
+            "id": 2133714071,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 19
+        },
+        "captain_ability": {
+            "id": 762142944,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 5
+        }
+    },
+    {
+        "id": 3156736320,
+        "art_id": 53,
+        "faction": 669838839,
+        "class": 1,
+        "rarity": "Common",
+        "synergy_id": 8,
+        "max_rank": 5,
+        "ability": {
+            "id": 2541405785,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 9
+        },
+        "captain_ability": {
+            "id": 774401700,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 5
+        }
+    },
+    {
+        "id": 2446409392,
+        "art_id": 39,
+        "faction": 2064723306,
+        "class": 1,
+        "rarity": "Rare",
+        "synergy_id": 8,
+        "max_rank": 5,
+        "ability": {
+            "id": 3267066178,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 13
+        },
+        "captain_ability": {
+            "id": 4020180140,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 159
+        }
+    },
+    {
+        "id": 3155462804,
+        "art_id": 42,
+        "faction": 2064723306,
+        "class": 3,
+        "rarity": "Uncommon",
+        "synergy_id": 8,
+        "max_rank": 5,
+        "ability": {
+            "id": 2208202896,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 151
+        },
+        "captain_ability": {
+            "id": 3618813132,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 5
+        }
+    },
+    {
+        "id": 3492633912,
+        "art_id": 54,
+        "faction": 2064723306,
+        "class": 3,
+        "rarity": "Rare",
+        "synergy_id": 9,
+        "max_rank": 5,
+        "ability": {
+            "id": 1046345380,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 7
+        },
+        "captain_ability": {
+            "id": 1693249064,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 15
+        }
+    },
+    {
+        "id": 3722250154,
+        "art_id": 92,
+        "faction": 2064723306,
+        "class": 2,
+        "rarity": "Epic",
+        "synergy_id": 9,
+        "max_rank": 5,
+        "ability": {
+            "id": 2541302043,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 38
+        },
+        "captain_ability": {
+            "id": 2068090718,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 12
+        }
+    },
+    {
+        "id": 4219901626,
+        "art_id": 56,
+        "faction": 2064723306,
+        "class": 2,
+        "rarity": "Uncommon",
+        "synergy_id": 9,
+        "max_rank": 5,
+        "ability": {
+            "id": 4283269593,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 7
+        },
+        "captain_ability": {
+            "id": 2894716041,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 24
+        }
+    },
+    {
+        "id": 4132174205,
+        "art_id": 57,
+        "faction": 2064723306,
+        "class": 1,
+        "rarity": "Epic",
+        "synergy_id": 9,
+        "max_rank": 5,
+        "ability": {
+            "id": 3132926029,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 38
+        },
+        "captain_ability": {
+            "id": 1825243742,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 7
+        }
+    },
+    {
+        "id": 2775384983,
+        "art_id": 58,
+        "faction": 2064723306,
+        "class": 2,
+        "rarity": "Common",
+        "synergy_id": 9,
+        "max_rank": 5,
+        "ability": {
+            "id": 64409548,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 19
+        },
+        "captain_ability": {
+            "id": 3760528359,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 20
+        }
+    },
+    {
+        "id": 407568868,
+        "art_id": 59,
+        "faction": 2064723306,
+        "class": 3,
+        "rarity": "Common",
+        "synergy_id": 9,
+        "max_rank": 5,
+        "ability": {
+            "id": 243472742,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 38
+        },
+        "captain_ability": {
+            "id": 4231113561,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 15
+        }
+    },
+    {
+        "id": 2822661458,
+        "art_id": 60,
+        "faction": -1,
+        "class": 1,
+        "rarity": "Epic",
+        "synergy_id": 10,
+        "max_rank": 5,
+        "ability": {
+            "id": 4235813457,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 24
+        },
+        "captain_ability": {
+            "id": 1479384085,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 81
+        }
+    },
+    {
+        "id": 3264304828,
+        "art_id": 61,
+        "faction": -1,
+        "class": 2,
+        "rarity": "Rare",
+        "synergy_id": 10,
+        "max_rank": 5,
+        "ability": {
+            "id": 556660994,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 12
+        },
+        "captain_ability": {
+            "id": 416954820,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 19
+        }
+    },
+    {
+        "id": 1617168639,
+        "art_id": 62,
+        "faction": -1,
+        "class": 3,
+        "rarity": "Rare",
+        "synergy_id": 10,
+        "max_rank": 5,
+        "ability": {
+            "id": 1434879169,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 2
+        },
+        "captain_ability": {
+            "id": 2905060077,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 8
+        }
+    },
+    {
+        "id": 3528103772,
+        "art_id": 63,
+        "faction": -1,
+        "class": 1,
+        "rarity": "Uncommon",
+        "synergy_id": 10,
+        "max_rank": 5,
+        "ability": {
+            "id": 1244413740,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 80
+        },
+        "captain_ability": {
+            "id": 1585093811,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 1
+        }
+    },
+    {
+        "id": 2219055924,
+        "art_id": 64,
+        "faction": -1,
+        "class": 3,
+        "rarity": "Uncommon",
+        "synergy_id": 10,
+        "max_rank": 5,
+        "ability": {
+            "id": 2283189229,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 7
+        },
+        "captain_ability": {
+            "id": 935457644,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 38
+        }
+    },
+    {
+        "id": 1602389738,
+        "art_id": 65,
+        "faction": -1,
+        "class": 2,
+        "rarity": "Uncommon",
+        "synergy_id": 10,
+        "max_rank": 5,
+        "ability": {
+            "id": 905884666,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 27
+        },
+        "captain_ability": {
+            "id": 3199621934,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 24
+        }
+    },
+    {
+        "id": 3019272402,
+        "art_id": 120,
+        "faction": -1,
+        "class": 2,
+        "rarity": "Rare",
+        "synergy_id": 10,
+        "max_rank": 5,
+        "ability": {
+            "id": 2724936958,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 19
+        },
+        "captain_ability": {
+            "id": 1639285460,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 27
+        }
+    },
+    {
+        "id": 43410162,
+        "art_id": 121,
+        "faction": -1,
+        "class": 3,
+        "rarity": "Rare",
+        "synergy_id": 10,
+        "max_rank": 5,
+        "ability": {
+            "id": 2657236509,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 129
+        },
+        "captain_ability": {
+            "id": 1080113780,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 3
+        }
+    },
+    {
+        "id": 1349602017,
+        "art_id": 122,
+        "faction": -1,
+        "class": 1,
+        "rarity": "Rare",
+        "synergy_id": 10,
+        "max_rank": 5,
+        "ability": {
+            "id": 1975058516,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 24
+        },
+        "captain_ability": {
+            "id": 2804399891,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 38
+        }
+    },
+    {
+        "id": 634330627,
+        "art_id": 123,
+        "faction": -1,
+        "class": 1,
+        "rarity": "Epic",
+        "synergy_id": 11,
+        "max_rank": 5,
+        "ability": {
+            "id": 1501211612,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 29
+        },
+        "captain_ability": {
+            "id": 2953367854,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 128
+        }
+    },
+    {
+        "id": 949329475,
+        "art_id": 124,
+        "faction": -1,
+        "class": 3,
+        "rarity": "Epic",
+        "synergy_id": 11,
+        "max_rank": 5,
+        "ability": {
+            "id": 1608351478,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 134
+        },
+        "captain_ability": {
+            "id": 3789527814,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 138
+        }
+    },
+    {
+        "id": 2651130337,
+        "art_id": 126,
+        "faction": -1,
+        "class": 2,
+        "rarity": "Common",
+        "synergy_id": 11,
+        "max_rank": 5,
+        "ability": {
+            "id": 4129104008,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 136
+        },
+        "captain_ability": {
+            "id": 196211263,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 132
+        }
+    },
+    {
+        "id": 1330179266,
+        "art_id": 125,
+        "faction": -1,
+        "class": 1,
+        "rarity": "Rare",
+        "synergy_id": 11,
+        "max_rank": 5,
+        "ability": {
+            "id": 3958845992,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 135
+        },
+        "captain_ability": {
+            "id": 1604629509,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 2
+        }
+    },
+    {
+        "id": 1083140166,
+        "art_id": 127,
+        "faction": -1,
+        "class": 2,
+        "rarity": "Uncommon",
+        "synergy_id": 11,
+        "max_rank": 5,
+        "ability": {
+            "id": 2608766342,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 10
+        },
+        "captain_ability": {
+            "id": 3587777576,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 133
+        }
+    },
+    {
+        "id": 229898163,
+        "art_id": 129,
+        "faction": -1,
+        "class": 3,
+        "rarity": "Rare",
+        "synergy_id": 11,
+        "max_rank": 5,
+        "ability": {
+            "id": 3792739416,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 140
+        },
+        "captain_ability": {
+            "id": 1074437376,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 141
+        }
+    },
+    {
+        "id": 3106264505,
+        "art_id": 128,
+        "faction": -1,
+        "class": 1,
+        "rarity": "Common",
+        "synergy_id": 11,
+        "max_rank": 5,
+        "ability": {
+            "id": 780595425,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 137
+        },
+        "captain_ability": {
+            "id": 254956305,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 139
+        }
+    },
+    {
+        "id": 677303054,
+        "art_id": 130,
+        "faction": -1,
+        "class": 2,
+        "rarity": "Epic",
+        "synergy_id": 11,
+        "max_rank": 5,
+        "ability": {
+            "id": 143246507,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 131
+        },
+        "captain_ability": {
+            "id": 2186472721,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 142
+        }
+    },
+    {
+        "id": 2865735742,
+        "art_id": 70,
+        "faction": 2064723306,
+        "class": 1,
+        "rarity": "Uncommon",
+        "synergy_id": 12,
+        "max_rank": 5,
+        "ability": {
+            "id": 3597408330,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 27
+        },
+        "captain_ability": {
+            "id": 2126712571,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 24
+        }
+    },
+    {
+        "id": 2765885322,
+        "art_id": 71,
+        "faction": 2064723306,
+        "class": 2,
+        "rarity": "Uncommon",
+        "synergy_id": 12,
+        "max_rank": 5,
+        "ability": {
+            "id": 4155292475,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 17
+        },
+        "captain_ability": {
+            "id": 4019544321,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 19
+        }
+    },
+    {
+        "id": 776602621,
+        "art_id": 72,
+        "faction": 2064723306,
+        "class": 3,
+        "rarity": "Common",
+        "synergy_id": 12,
+        "max_rank": 5,
+        "ability": {
+            "id": 2166644813,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 19
+        },
+        "captain_ability": {
+            "id": 2055328539,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 4
+        }
+    },
+    {
+        "id": 2567136252,
+        "art_id": 73,
+        "faction": 2064723306,
+        "class": 3,
+        "rarity": "Common",
+        "synergy_id": 12,
+        "max_rank": 5,
+        "ability": {
+            "id": 1009573168,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 29
+        },
+        "captain_ability": {
+            "id": 2509864835,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 4
+        }
+    },
+    {
+        "id": 1455040265,
+        "art_id": 74,
+        "faction": 2064723306,
+        "class": 2,
+        "rarity": "Common",
+        "synergy_id": 12,
+        "max_rank": 5,
+        "ability": {
+            "id": 2109540283,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 18
+        },
+        "captain_ability": {
+            "id": 746079457,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 10
+        }
+    },
+    {
+        "id": 3281026482,
+        "art_id": 75,
+        "faction": 2064723306,
+        "class": 2,
+        "rarity": "Common",
+        "synergy_id": 12,
+        "max_rank": 5,
+        "ability": {
+            "id": 326209566,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 30
+        },
+        "captain_ability": {
+            "id": 4094351740,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 4
+        }
+    },
+    {
+        "id": 2847497836,
+        "art_id": 76,
+        "faction": 4153667145,
+        "class": 2,
+        "rarity": "Epic",
+        "synergy_id": 13,
+        "max_rank": 5,
+        "ability": {
+            "id": 3322010576,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 11
+        },
+        "captain_ability": {
+            "id": 3721061052,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 74
+        }
+    },
+    {
+        "id": 2601201375,
+        "art_id": 77,
+        "faction": 4153667145,
+        "class": 1,
+        "rarity": "Uncommon",
+        "synergy_id": 13,
+        "max_rank": 5,
+        "ability": {
+            "id": 1433248203,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 27
+        },
+        "captain_ability": {
+            "id": 2580371455,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 3
+        }
+    },
+    {
+        "id": 2517597941,
+        "art_id": 78,
+        "faction": 4153667145,
+        "class": 2,
+        "rarity": "Uncommon",
+        "synergy_id": 13,
+        "max_rank": 5,
+        "ability": {
+            "id": 3174366498,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 17
+        },
+        "captain_ability": {
+            "id": 3053788649,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 12
+        }
+    },
+    {
+        "id": 680147223,
+        "art_id": 79,
+        "faction": 4153667145,
+        "class": 3,
+        "rarity": "Common",
+        "synergy_id": 13,
+        "max_rank": 5,
+        "ability": {
+            "id": 508815580,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 18
+        },
+        "captain_ability": {
+            "id": 1339536277,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 72
+        }
+    },
+    {
+        "id": 3394864658,
+        "art_id": 80,
+        "faction": 4153667145,
+        "class": 1,
+        "rarity": "Common",
+        "synergy_id": 13,
+        "max_rank": 5,
+        "ability": {
+            "id": 3632112638,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 30
+        },
+        "captain_ability": {
+            "id": 913371453,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 71
+        }
+    },
+    {
+        "id": 176044746,
+        "art_id": 81,
+        "faction": 4153667145,
+        "class": 1,
+        "rarity": "Common",
+        "synergy_id": 13,
+        "max_rank": 5,
+        "ability": {
+            "id": 2461367983,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 29
+        },
+        "captain_ability": {
+            "id": 2058272079,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 73
+        }
+    },
+    {
+        "id": 1525867544,
+        "art_id": 83,
+        "faction": 2064723306,
+        "class": 1,
+        "rarity": "Common",
+        "synergy_id": 14,
+        "max_rank": 5,
+        "ability": {
+            "id": 3200446473,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 38
+        },
+        "captain_ability": {
+            "id": 2369873168,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 7
+        }
+    },
+    {
+        "id": 1622062016,
+        "art_id": 84,
+        "faction": 2064723306,
+        "class": 2,
+        "rarity": "Common",
+        "synergy_id": 14,
+        "max_rank": 5,
+        "ability": {
+            "id": 2372470621,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 19
+        },
+        "captain_ability": {
+            "id": 1862576044,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 38
+        }
+    },
+    {
+        "id": 1853520303,
+        "art_id": 85,
+        "faction": 2064723306,
+        "class": 2,
+        "rarity": "Common",
+        "synergy_id": 14,
+        "max_rank": 5,
+        "ability": {
+            "id": 4225330505,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 2
+        },
+        "captain_ability": {
+            "id": 779039619,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 47
+        }
+    },
+    {
+        "id": 4150311506,
+        "art_id": 86,
+        "faction": 2064723306,
+        "class": 3,
+        "rarity": "Common",
+        "synergy_id": 14,
+        "max_rank": 5,
+        "ability": {
+            "id": 2254319436,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 9
+        },
+        "captain_ability": {
+            "id": 3029156666,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 15
+        }
+    },
+    {
+        "id": 194631754,
+        "art_id": 87,
+        "faction": 2064723306,
+        "class": 3,
+        "rarity": "Common",
+        "synergy_id": 14,
+        "max_rank": 5,
+        "ability": {
+            "id": 2570807487,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 16
+        },
+        "captain_ability": {
+            "id": 734855586,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 12
+        }
+    },
+    {
+        "id": 4066988596,
+        "art_id": 88,
+        "faction": 2064723306,
+        "class": 1,
+        "rarity": "Common",
+        "synergy_id": 14,
+        "max_rank": 5,
+        "ability": {
+            "id": 1980387696,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 7
+        },
+        "captain_ability": {
+            "id": 1782601905,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 38
+        }
+    },
+    {
+        "id": 3479870516,
+        "art_id": 94,
+        "faction": 2064723306,
+        "class": 3,
+        "rarity": "Epic",
+        "synergy_id": 21,
+        "max_rank": 5,
+        "ability": {
+            "id": 565052704,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 173
+        },
+        "captain_ability": {
+            "id": 3406935770,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 125
+        }
+    },
+    {
+        "id": 989647182,
+        "art_id": 110,
+        "faction": 2943562711,
+        "class": 1,
+        "rarity": "Rare",
+        "synergy_id": 16,
+        "max_rank": 5,
+        "ability": {
+            "id": 4130092864,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 92
+        },
+        "captain_ability": {
+            "id": 2296568320,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 91
+        }
+    },
+    {
+        "id": 118103052,
+        "art_id": 157,
+        "faction": 2943562711,
+        "class": 2,
+        "rarity": "Rare",
+        "synergy_id": 16,
+        "max_rank": 5,
+        "ability": {
+            "id": 3972571863,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 175
+        },
+        "captain_ability": {
+            "id": 1012264418,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 1
+        }
+    },
+    {
+        "id": 3583932904,
+        "art_id": 111,
+        "faction": 2943562711,
+        "class": 3,
+        "rarity": "Epic",
+        "synergy_id": 16,
+        "max_rank": 5,
+        "ability": {
+            "id": 4049923936,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 4
+        },
+        "captain_ability": {
+            "id": 1107085046,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 172
+        }
+    },
+    {
+        "id": 3627600020,
+        "art_id": 116,
+        "faction": 2943562711,
+        "class": 1,
+        "rarity": "Epic",
+        "synergy_id": 16,
+        "max_rank": 5,
+        "ability": {
+            "id": 3353791415,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 127
+        },
+        "captain_ability": {
+            "id": 115416486,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 12
+        }
+    },
+    {
+        "id": 3304441016,
+        "art_id": 114,
+        "faction": 2943562711,
+        "class": 2,
+        "rarity": "Rare",
+        "synergy_id": 16,
+        "max_rank": 5,
+        "ability": {
+            "id": 1955519035,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 7
+        },
+        "captain_ability": {
+            "id": 3774124358,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 94
+        }
+    },
+    {
+        "id": 1131760724,
+        "art_id": 112,
+        "faction": 2943562711,
+        "class": 3,
+        "rarity": "Uncommon",
+        "synergy_id": 16,
+        "max_rank": 5,
+        "ability": {
+            "id": 3979049942,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 7
+        },
+        "captain_ability": {
+            "id": 3537186442,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 124
+        }
+    },
+    {
+        "id": 1859906553,
+        "art_id": 113,
+        "faction": 2943562711,
+        "class": 1,
+        "rarity": "Uncommon",
+        "synergy_id": 16,
+        "max_rank": 5,
+        "ability": {
+            "id": 149413627,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 7
+        },
+        "captain_ability": {
+            "id": 966801625,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 123
+        }
+    },
+    {
+        "id": 370544309,
+        "art_id": 115,
+        "faction": 2943562711,
+        "class": 3,
+        "rarity": "Epic",
+        "synergy_id": 16,
+        "max_rank": 5,
+        "ability": {
+            "id": 3585546924,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 5
+        },
+        "captain_ability": {
+            "id": 2859510273,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 126
+        }
+    },
+    {
+        "id": 3245467973,
+        "art_id": 141,
+        "faction": 2064723306,
+        "class": 1,
+        "rarity": "Uncommon",
+        "synergy_id": 17,
+        "max_rank": 5,
+        "ability": {
+            "id": 494500487,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 38
+        },
+        "captain_ability": {
+            "id": 568584807,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 7
+        }
+    },
+    {
+        "id": 3534264929,
+        "art_id": 142,
+        "faction": 2064723306,
+        "class": 2,
+        "rarity": "Common",
+        "synergy_id": 17,
+        "max_rank": 5,
+        "ability": {
+            "id": 1714820297,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 15
+        },
+        "captain_ability": {
+            "id": 714063495,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 7
+        }
+    },
+    {
+        "id": 868427019,
+        "art_id": 143,
+        "faction": 2064723306,
+        "class": 3,
+        "rarity": "Common",
+        "synergy_id": 17,
+        "max_rank": 5,
+        "ability": {
+            "id": 1703022152,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 9
+        },
+        "captain_ability": {
+            "id": 2081533684,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 7
+        }
+    },
+    {
+        "id": 3999633781,
+        "art_id": 131,
+        "faction": 2064723306,
+        "class": 2,
+        "rarity": "Epic",
+        "synergy_id": 18,
+        "max_rank": 5,
+        "ability": {
+            "id": 2958606151,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 139
+        },
+        "captain_ability": {
+            "id": 3309231106,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 143
+        }
+    },
+    {
+        "id": 56060748,
+        "art_id": 132,
+        "faction": 2064723306,
+        "class": 1,
+        "rarity": "Rare",
+        "synergy_id": 18,
+        "max_rank": 5,
+        "ability": {
+            "id": 2273274943,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 19
+        },
+        "captain_ability": {
+            "id": 965390436,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 132
+        }
+    },
+    {
+        "id": 2030703558,
+        "art_id": 133,
+        "faction": 2064723306,
+        "class": 3,
+        "rarity": "Rare",
+        "synergy_id": 18,
+        "max_rank": 5,
+        "ability": {
+            "id": 862911683,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 19
+        },
+        "captain_ability": {
+            "id": 1584210106,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 146
+        }
+    },
+    {
+        "id": 1580157615,
+        "art_id": 138,
+        "faction": 2064723306,
+        "class": 1,
+        "rarity": "Epic",
+        "synergy_id": 18,
+        "max_rank": 5,
+        "ability": {
+            "id": 2490699031,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 23
+        },
+        "captain_ability": {
+            "id": 3904063321,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 145
+        }
+    },
+    {
+        "id": 1800794103,
+        "art_id": 134,
+        "faction": 2064723306,
+        "class": 3,
+        "rarity": "Uncommon",
+        "synergy_id": 18,
+        "max_rank": 5,
+        "ability": {
+            "id": 1776666269,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 19
+        },
+        "captain_ability": {
+            "id": 1999787012,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 147
+        }
+    },
+    {
+        "id": 3769449499,
+        "art_id": 135,
+        "faction": 2064723306,
+        "class": 3,
+        "rarity": "Rare",
+        "synergy_id": 18,
+        "max_rank": 5,
+        "ability": {
+            "id": 2478131502,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 149
+        },
+        "captain_ability": {
+            "id": 1485218350,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 148
+        }
+    },
+    {
+        "id": 440622131,
+        "art_id": 137,
+        "faction": 2064723306,
+        "class": 2,
+        "rarity": "Uncommon",
+        "synergy_id": 18,
+        "max_rank": 5,
+        "ability": {
+            "id": 2499304252,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 146
+        },
+        "captain_ability": {
+            "id": 3511725168,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 150
+        }
+    },
+    {
+        "id": 743931698,
+        "art_id": 136,
+        "faction": 2064723306,
+        "class": 1,
+        "rarity": "Uncommon",
+        "synergy_id": 18,
+        "max_rank": 5,
+        "ability": {
+            "id": 235386558,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 152
+        },
+        "captain_ability": {
+            "id": 3029331443,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 151
+        }
+    },
+    {
+        "id": 2449957978,
+        "art_id": 140,
+        "faction": -1,
+        "class": 1,
+        "rarity": "Rare",
+        "synergy_id": 19,
+        "max_rank": 5,
+        "ability": {
+            "id": 2557888665,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 155
+        },
+        "captain_ability": {
+            "id": 4172773477,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 157
+        }
+    },
+    {
+        "id": 1958876935,
+        "art_id": 144,
+        "faction": -1,
+        "class": 3,
+        "rarity": "Rare",
+        "synergy_id": 19,
+        "max_rank": 5,
+        "ability": {
+            "id": 1561819154,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 153
+        },
+        "captain_ability": {
+            "id": 2059684707,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 156
+        }
+    },
+    {
+        "id": 4110037371,
+        "art_id": 139,
+        "faction": -1,
+        "class": 2,
+        "rarity": "Epic",
+        "synergy_id": 19,
+        "max_rank": 5,
+        "ability": {
+            "id": 3344613248,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 28
+        },
+        "captain_ability": {
+            "id": 598057792,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 154
+        }
+    },
+    {
+        "id": 107451388,
+        "art_id": 150,
+        "faction": 2064723306,
+        "class": 1,
+        "rarity": "Epic",
+        "synergy_id": 20,
+        "max_rank": 5,
+        "ability": {
+            "id": 1602353343,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 161
+        },
+        "captain_ability": {
+            "id": 3524108217,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 160
+        }
+    },
+    {
+        "id": 2757127113,
+        "art_id": 151,
+        "faction": 2064723306,
+        "class": 2,
+        "rarity": "Epic",
+        "synergy_id": 20,
+        "max_rank": 5,
+        "ability": {
+            "id": 2578265840,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 163
+        },
+        "captain_ability": {
+            "id": 2015269686,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 162
+        }
+    },
+    {
+        "id": 1752126880,
+        "art_id": 152,
+        "faction": 2064723306,
+        "class": 3,
+        "rarity": "Rare",
+        "synergy_id": 20,
+        "max_rank": 5,
+        "ability": {
+            "id": 2247949691,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 165
+        },
+        "captain_ability": {
+            "id": 1796469058,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 164
+        }
+    },
+    {
+        "id": 423029416,
+        "art_id": 153,
+        "faction": 2064723306,
+        "class": 2,
+        "rarity": "Rare",
+        "synergy_id": 20,
+        "max_rank": 5,
+        "ability": {
+            "id": 1471902954,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 7
+        },
+        "captain_ability": {
+            "id": 1411083962,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 166
+        }
+    },
+    {
+        "id": 1670351312,
+        "art_id": 154,
+        "faction": 2064723306,
+        "class": 1,
+        "rarity": "Rare",
+        "synergy_id": 20,
+        "max_rank": 5,
+        "ability": {
+            "id": 3831328818,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 167
+        },
+        "captain_ability": {
+            "id": 261387865,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 6
+        }
+    },
+    {
+        "id": 3579242146,
+        "art_id": 155,
+        "faction": 2064723306,
+        "class": 3,
+        "rarity": "Rare",
+        "synergy_id": 20,
+        "max_rank": 5,
+        "ability": {
+            "id": 1072929447,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 170
+        },
+        "captain_ability": {
+            "id": 895293227,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 168
+        }
+    },
+    {
+        "id": 3382562951,
+        "art_id": 156,
+        "faction": 2064723306,
+        "class": 1,
+        "rarity": "Rare",
+        "synergy_id": 20,
+        "max_rank": 5,
+        "ability": {
+            "id": 3190031600,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 171
+        },
+        "captain_ability": {
+            "id": 1058182319,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 169
+        }
+    },
+    {
+        "id": 1841597470,
+        "art_id": 160,
+        "faction": 2064723306,
+        "class": 1,
+        "rarity": "Common",
+        "synergy_id": 22,
+        "max_rank": 5,
+        "ability": {
+            "id": 80249640,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 38
+        },
+        "captain_ability": {
+            "id": 834551032,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 7
+        }
+    },
+    {
+        "id": 3217575459,
+        "art_id": 162,
+        "faction": 2064723306,
+        "class": 2,
+        "rarity": "Common",
+        "synergy_id": 22,
+        "max_rank": 5,
+        "ability": {
+            "id": 870791323,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 19
+        },
+        "captain_ability": {
+            "id": 715015459,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 38
+        }
+    },
+    {
+        "id": 1485791413,
+        "art_id": 163,
+        "faction": 2064723306,
+        "class": 2,
+        "rarity": "Common",
+        "synergy_id": 22,
+        "max_rank": 5,
+        "ability": {
+            "id": 972047904,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 2
+        },
+        "captain_ability": {
+            "id": 3365829083,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 47
+        }
+    },
+    {
+        "id": 3968109489,
+        "art_id": 164,
+        "faction": 2064723306,
+        "class": 3,
+        "rarity": "Common",
+        "synergy_id": 22,
+        "max_rank": 5,
+        "ability": {
+            "id": 1499701415,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 16
+        },
+        "captain_ability": {
+            "id": 1462377933,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 12
+        }
+    },
+    {
+        "id": 631590783,
+        "art_id": 161,
+        "faction": 2064723306,
+        "class": 1,
+        "rarity": "Common",
+        "synergy_id": 22,
+        "max_rank": 5,
+        "ability": {
+            "id": 1603399419,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 7
+        },
+        "captain_ability": {
+            "id": 735446036,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 38
+        }
+    },
+    {
+        "id": 1683164967,
+        "art_id": 171,
+        "faction": 2064723306,
+        "class": 2,
+        "rarity": "Epic",
+        "synergy_id": 23,
+        "max_rank": 5,
+        "ability": {
+            "id": 264286170,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 177
+        },
+        "captain_ability": {
+            "id": 399317258,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 176
+        }
+    },
+    {
+        "id": 177664289,
+        "art_id": 174,
+        "faction": 2064723306,
+        "class": 2,
+        "rarity": "Rare",
+        "synergy_id": 23,
+        "max_rank": 5,
+        "ability": {
+            "id": 697043235,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 179
+        },
+        "captain_ability": {
+            "id": 4222722823,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 178
+        }
+    },
+    {
+        "id": 2204519406,
+        "art_id": 175,
+        "faction": 2064723306,
+        "class": 3,
+        "rarity": "Epic",
+        "synergy_id": 23,
+        "max_rank": 5,
+        "ability": {
+            "id": 330406172,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 181
+        },
+        "captain_ability": {
+            "id": 345049752,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 180
+        }
+    },
+    {
+        "id": 1427486959,
+        "art_id": 170,
+        "faction": 2064723306,
+        "class": 1,
+        "rarity": "Epic",
+        "synergy_id": 23,
+        "max_rank": 5,
+        "ability": {
+            "id": 3573803212,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 183
+        },
+        "captain_ability": {
+            "id": 1022859147,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 182
+        }
+    },
+    {
+        "id": 1116707401,
+        "art_id": 176,
+        "faction": 2064723306,
+        "class": 3,
+        "rarity": "Rare",
+        "synergy_id": 23,
+        "max_rank": 5,
+        "ability": {
+            "id": 424820476,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 7
+        },
+        "captain_ability": {
+            "id": 2111864873,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 184
+        }
+    },
+    {
+        "id": 1137482318,
+        "art_id": 172,
+        "faction": 2064723306,
+        "class": 1,
+        "rarity": "Epic",
+        "synergy_id": 23,
+        "max_rank": 5,
+        "ability": {
+            "id": 1577212247,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 187
+        },
+        "captain_ability": {
+            "id": 855610396,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 186
+        }
+    },
+    {
+        "id": 1070197892,
+        "art_id": 173,
+        "faction": 2064723306,
+        "class": 2,
+        "rarity": "Epic",
+        "synergy_id": 23,
+        "max_rank": 5,
+        "ability": {
+            "id": 1578395870,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 188
+        },
+        "captain_ability": {
+            "id": 1458678084,
+            "value_is_percentage": false,
+            "max_level": 7,
+            "art_id": 132
+        }
+    },
+    {
+        "id": 2593842933,
+        "art_id": 177,
+        "faction": 2064723306,
+        "class": 1,
+        "rarity": "Rare",
+        "synergy_id": 23,
+        "max_rank": 5,
+        "ability": {
+            "id": 3612793883,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 189
+        },
+        "captain_ability": {
+            "id": 2418798268,
+            "value_is_percentage": true,
+            "max_level": 7,
+            "art_id": 9
+        }
+    }
+]

@@ -1,0 +1,1491 @@
+[
+    {
+        "id": 0,
+        "max_level": 50,
+        "unlock_level": 0,
+        "first_level_requirements": [],
+        "buffs": [
+            {
+                "id": 919263260,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 1
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "max_level": 50,
+        "unlock_level": 1,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 3383388089,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1001
+            },
+            {
+                "id": 4096145473,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1002
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "max_level": 50,
+        "unlock_level": 2,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 2
+            },
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 1,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 1361889997,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1001
+            },
+            {
+                "id": 1233401306,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1002
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "max_level": 50,
+        "unlock_level": 8,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 8
+            },
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 1,
+                "requirement_level": 7
+            }
+        ],
+        "buffs": [
+            {
+                "id": 3029261688,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1001
+            },
+            {
+                "id": 3143956245,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1002
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "max_level": 50,
+        "unlock_level": 22,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 22
+            },
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 2,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 729229730,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1001
+            },
+            {
+                "id": 1961479139,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1002
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "max_level": 50,
+        "unlock_level": 32,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 32
+            },
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 3,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 2235614043,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1001
+            },
+            {
+                "id": 240592581,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1002
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "max_level": 50,
+        "unlock_level": 42,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 42
+            },
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 50,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 727283729,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1001
+            },
+            {
+                "id": 1911599164,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1002
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "max_level": 50,
+        "unlock_level": 50,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 50
+            },
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 51,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 2886402254,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1001
+            },
+            {
+                "id": 4233854918,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1002
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "max_level": 50,
+        "unlock_level": 50,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 50
+            },
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 52,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 1509056673,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1001
+            },
+            {
+                "id": 179190365,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1002
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "max_level": 50,
+        "unlock_level": 1,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 1
+            },
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 1,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 2619837429,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1011
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "max_level": 50,
+        "unlock_level": 14,
+        "first_level_requirements": [
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 1426757186,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 3637014985,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1012
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "max_level": 50,
+        "unlock_level": 6,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 6
+            }
+        ],
+        "buffs": [
+            {
+                "id": 3588567631,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1004
+            },
+            {
+                "id": 1145531007,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1005
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "max_level": 50,
+        "unlock_level": 7,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 7
+            },
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 5,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 624435206,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1004
+            },
+            {
+                "id": 711561428,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1005
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "max_level": 50,
+        "unlock_level": 18,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 18
+            },
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 5,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 2270080811,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1004
+            },
+            {
+                "id": 3058492167,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1005
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "max_level": 50,
+        "unlock_level": 28,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 28
+            },
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 6,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 234221410,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1004
+            },
+            {
+                "id": 2291525316,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1005
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "max_level": 50,
+        "unlock_level": 38,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 38
+            },
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 7,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 2437824470,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1004
+            },
+            {
+                "id": 3140509951,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1005
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "max_level": 50,
+        "unlock_level": 48,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 48
+            },
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 56,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 1260565637,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1004
+            },
+            {
+                "id": 1443149197,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1005
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "max_level": 50,
+        "unlock_level": 50,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 50
+            },
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 57,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 1287243827,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1004
+            },
+            {
+                "id": 3072710486,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1005
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "max_level": 50,
+        "unlock_level": 50,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 50
+            },
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 58,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 3450405443,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1004
+            },
+            {
+                "id": 437521644,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1005
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "max_level": 50,
+        "unlock_level": 6,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 6
+            },
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 5,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 1789222968,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1014
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "max_level": 50,
+        "unlock_level": 14,
+        "first_level_requirements": [
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 1426757186,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 848074636,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1015
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "max_level": 50,
+        "unlock_level": 10,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 10
+            }
+        ],
+        "buffs": [
+            {
+                "id": 3134155780,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1007
+            },
+            {
+                "id": 1764042681,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1008
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "max_level": 50,
+        "unlock_level": 13,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 13
+            },
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 9,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 4147144843,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1007
+            },
+            {
+                "id": 1067035410,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1008
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "max_level": 50,
+        "unlock_level": 20,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 20
+            },
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 9,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 3647094777,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1007
+            },
+            {
+                "id": 2132727674,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1008
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "max_level": 50,
+        "unlock_level": 30,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 30
+            },
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 10,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 4054016168,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1007
+            },
+            {
+                "id": 3908773390,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1008
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "max_level": 50,
+        "unlock_level": 40,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 40
+            },
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 11,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 802394140,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1007
+            },
+            {
+                "id": 4076943075,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1008
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "max_level": 50,
+        "unlock_level": 50,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 50
+            },
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 62,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 439527927,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1007
+            },
+            {
+                "id": 555608088,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1008
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "max_level": 50,
+        "unlock_level": 50,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 50
+            },
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 63,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 3267742511,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1007
+            },
+            {
+                "id": 2467916106,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1008
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "max_level": 50,
+        "unlock_level": 50,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 50
+            },
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 64,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 2026743585,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1007
+            },
+            {
+                "id": 43199216,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1008
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "max_level": 50,
+        "unlock_level": 10,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 10
+            },
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 9,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 885203147,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1017
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "max_level": 50,
+        "unlock_level": 14,
+        "first_level_requirements": [
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 1426757186,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 1786572787,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1018
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "max_level": 50,
+        "unlock_level": 5,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 5
+            },
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 25,
+                "requirement_level": 4
+            }
+        ],
+        "buffs": [
+            {
+                "id": 2221457125,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 1063
+            },
+            {
+                "id": 4227450471,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 1064
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "max_level": 50,
+        "unlock_level": 20,
+        "first_level_requirements": [
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 3504568441,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 3470553419,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 1070
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "max_level": 50,
+        "unlock_level": 18,
+        "first_level_requirements": [
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 735376885,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 2334827430,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 2
+            },
+            {
+                "id": 3940777734,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1062
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "max_level": 50,
+        "unlock_level": 0,
+        "first_level_requirements": [],
+        "buffs": [
+            {
+                "id": 3053201411,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 1060
+            },
+            {
+                "id": 1712157842,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 1061
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "max_level": 50,
+        "unlock_level": 5,
+        "first_level_requirements": [
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 2859913895,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 375224280,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 1060
+            },
+            {
+                "id": 3206125489,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 1061
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "max_level": 50,
+        "unlock_level": 17,
+        "first_level_requirements": [
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 2859913895,
+                "requirement_level": 2
+            }
+        ],
+        "buffs": [
+            {
+                "id": 2769496474,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 1060
+            },
+            {
+                "id": 1400171833,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 1061
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "max_level": 50,
+        "unlock_level": 28,
+        "first_level_requirements": [
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 2859913895,
+                "requirement_level": 3
+            }
+        ],
+        "buffs": [
+            {
+                "id": 1240792636,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 1060
+            },
+            {
+                "id": 787978047,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 1061
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "max_level": 50,
+        "unlock_level": 39,
+        "first_level_requirements": [
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 2859913895,
+                "requirement_level": 4
+            }
+        ],
+        "buffs": [
+            {
+                "id": 3914539627,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 1060
+            },
+            {
+                "id": 2015738784,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 1061
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "max_level": 50,
+        "unlock_level": 48,
+        "first_level_requirements": [
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 2859913895,
+                "requirement_level": 5
+            }
+        ],
+        "buffs": [
+            {
+                "id": 1768483334,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 1060
+            },
+            {
+                "id": 189836070,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 1061
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "max_level": 50,
+        "unlock_level": 0,
+        "first_level_requirements": [],
+        "buffs": [
+            {
+                "id": 3655026185,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 3
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "max_level": 50,
+        "unlock_level": 4,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 4
+            },
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 24,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 572203286,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 1040
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "max_level": 50,
+        "unlock_level": 9,
+        "first_level_requirements": [
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 1815653612,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 3287388779,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 1065
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "max_level": 50,
+        "unlock_level": 23,
+        "first_level_requirements": [
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 2520240409,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 3707508878,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 6
+            },
+            {
+                "id": 4257724198,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 7
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "max_level": 50,
+        "unlock_level": 23,
+        "first_level_requirements": [
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 3011920621,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 3089815719,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 9
+            },
+            {
+                "id": 753685799,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 10
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "max_level": 50,
+        "unlock_level": 23,
+        "first_level_requirements": [
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 121031745,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 1400315411,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 11
+            },
+            {
+                "id": 1761515720,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 12
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "max_level": 50,
+        "unlock_level": 15,
+        "first_level_requirements": [
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 3245778867,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 1692645168,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 8
+            },
+            {
+                "id": 4081135111,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 190
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "max_level": 50,
+        "unlock_level": 0,
+        "first_level_requirements": [],
+        "buffs": [
+            {
+                "id": 1584895739,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1050
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "max_level": 50,
+        "unlock_level": 12,
+        "first_level_requirements": [
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 3507544566,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 1605117396,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1050
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "max_level": 50,
+        "unlock_level": 17,
+        "first_level_requirements": [
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 3507544566,
+                "requirement_level": 2
+            }
+        ],
+        "buffs": [
+            {
+                "id": 3451685863,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1050
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "max_level": 50,
+        "unlock_level": 26,
+        "first_level_requirements": [
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 3507544566,
+                "requirement_level": 3
+            }
+        ],
+        "buffs": [
+            {
+                "id": 1673044410,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1050
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "max_level": 50,
+        "unlock_level": 36,
+        "first_level_requirements": [
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 3507544566,
+                "requirement_level": 4
+            }
+        ],
+        "buffs": [
+            {
+                "id": 1847290680,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1050
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "max_level": 50,
+        "unlock_level": 47,
+        "first_level_requirements": [
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 3507544566,
+                "requirement_level": 5
+            }
+        ],
+        "buffs": [
+            {
+                "id": 439788362,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1050
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "max_level": 50,
+        "unlock_level": 10,
+        "first_level_requirements": [
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 2760134452,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": []
+    },
+    {
+        "id": 23,
+        "max_level": 50,
+        "unlock_level": 23,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 23
+            },
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 3467022723,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 3401661757,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 1066
+            },
+            {
+                "id": 2485849598,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 1068
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "max_level": 50,
+        "unlock_level": 8,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 8
+            },
+            {
+                "requirement_type": "ResearchLevel",
+                "requirement_id": 4087112845,
+                "requirement_level": 1
+            }
+        ],
+        "buffs": [
+            {
+                "id": 1030529782,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 999
+            },
+            {
+                "id": 1847534232,
+                "value_is_percentage": true,
+                "max_level": 50,
+                "art_id": 999
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "max_level": 50,
+        "unlock_level": 16,
+        "first_level_requirements": [
+            {
+                "requirement_type": "BuildingLevel",
+                "requirement_id": 0,
+                "requirement_level": 16
+            }
+        ],
+        "buffs": [
+            {
+                "id": 2744202021,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 999
+            },
+            {
+                "id": 2264815824,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 999
+            },
+            {
+                "id": 1200315561,
+                "value_is_percentage": false,
+                "max_level": 50,
+                "art_id": 999
+            }
+        ]
+    }
+]
