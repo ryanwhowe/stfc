@@ -1,0 +1,2654 @@
+[
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1279606467",
+        "text": "PHINDRA",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1279606467",
+        "text": "PHINDRA Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1279606467",
+        "text": "The Phindra Class is Tellarite in origin, now commonly built in mass quantities by Independents, as its sturdy design and capacity for multiple kinetic weapons make it an ideal short range Interceptor.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1279606467",
+        "text": "Battleship Hunter",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1279606467",
+        "text": "<color=#309BBF>Battleship Hunter</color>\nIf the opponent's ship is a Battleship, the PHINDRA increases its Weapon Damage by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3014221215",
+        "text": "ENVOY",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3014221215",
+        "text": "ENVOY Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3014221215",
+        "text": "The Envoy is an advanced ECS freighter with significant improvements over its older cousin, the J-Class. With more cargo holds and better internal systems, the Envoy is equipped for deep space expeditions.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3014221215",
+        "text": "Tritanium Mining Laser",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3014221215",
+        "text": "<color=#309BBF>Tritanium Mining Laser</color>\nThe Mining Rate of Tritanium is increased by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1960089851",
+        "text": "HIJACKED D3 CLASS",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1960089851",
+        "text": "HIJ. D3 CLASS Blueprint",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1960089851",
+        "text": "The Augments were rarely impressed by Klingon technology. It lacked the level of grace and efficiency that they were used to in their own weaponry. However, even they could not ignore the technical ingenuity put into the D3 vessel. An older ship once thought to be obsolete, the D3 was refitted and repurposed by the Klingons into a great power. For the Augments, there was no better metaphor for their own experience in this strange, new galaxy.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1960089851",
+        "text": "Romulan Crusher",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1960089851",
+        "text": "<color=#309BBF>Romulan Crusher</color>\n\nThe D3 CLASS's weapon damage is increased by <color=#40FF60>{0:0.00#%}</color> against Romulan ships.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2016654425",
+        "text": "USS FRANKLIN-A",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2016654425",
+        "text": "USS FRANKLIN-A BLUEPRINTS",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2016654425",
+        "text": "After the unexpected return of the USS Franklin in 2263, Starfleet began to examine the many upgrades and jury-rigged fixes applied to the ancient vessel by Jaylah. At first, it was decided that the ship be scrapped for materials and a statue made in its honor, but then the Swarm returned.\nZenith’s invasion changed everything. The Franklin was pressed back into service and upgraded by a mysterious Independent Commander to take the fight to the Swarm. They were victorious, if only barely.\nIt was only a matter of time before Zenith returned, so the decision was made to retrofit the Franklin and bring it up to the modern standard of Starfleet vessels. So it was, the USS Franklin-A was born.\nThe Franklin-A has been custom-built to combat the Swarm threat. Armed with a special volumetric wavelength amplifier, it is capable of disrupting an entire Swarm cluster in a matter of seconds by overwhelming their shared frequency.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2016654425",
+        "text": "Swarm Hunter",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2016654425",
+        "text": "<color=#309BBF>Swarm Hunter</color>\n\nWhen fighting Swarm Hostiles or Swarm Armadas, The Franklin-A's Damage is increased by <color=#40FF60>{0:#####%}</color>\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8005",
+        "text": "ROMULAN CITADEL",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8005",
+        "text": "This major base is Romulan. Attacking it will result in a gain of reputation towards the Federation and Klingon factions.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3376611577",
+        "text": "HIJACKED USS MAYFLOWER",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3376611577",
+        "text": "HIJ. USS MAYFLOWER Blueprint",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3376611577",
+        "text": "For the Augments, the opportunity to turn Starfleet’s technology against them was a satisfying turn of events. Their new Mayflower flies Augment colors, a blatant insult to their most hated enemies. Joaquin took the time to update the Mayflower’s nacelles, greatly reducing power drain during long voyages.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3376611577",
+        "text": "Klingon Pursuer",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3376611577",
+        "text": "<color=#309BBF>Klingon Pursuer</color>\n\nThe USS MAYFLOWER's weapon damage is increased by <color=#40FF60>{0:0.00#%}</color> against Klingon ships.",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8012",
+        "text": "SCAVENGER LAIR",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8012",
+        "text": "Since the discovery of Progenitor relics in the Origin Sector, gangs of Scavengers have started to raid local systems. They steal Progenitor artifacts and Isogen, presumably to sell on the black market.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2919480363",
+        "text": "JELLYFISH",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2919480363",
+        "text": "JELLYFISH Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2919480363",
+        "text": "The Jellyfish is a scout ship from the future and another dimension. It was once piloted by Ambassador Spock on his mission to save Romulus from destruction in the Prime reality. Since its arrival in this dimension, the Jellyfish has been extensively studied by Federation scientists for its extremely advanced technology. Despite it being a high-tech vessel, the Jellyfish was designed as a science vessel and has relatively weak defenses and is now commonly used as a fast Explorer.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2919480363",
+        "text": "Pilot Recognition",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2919480363",
+        "text": "<color=#309BBF>Pilot Recognition</color>\nThe JELLYFISH increases the effectiveness of its Captain Maneuver by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "34867572",
+        "text": "ORION CORVETTE",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "34867572",
+        "text": "ORION CORVETTE Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "34867572",
+        "text": "The Orions use the Corvette as a nimble smuggling vessel, but it is strong enough in a firefight to act as a viable warship. Despite its hard outer shell, the powerful thrusters give the Corvette a deceptively strong maneuverability.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "34867572",
+        "text": "Enhanced Hull",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "34867572",
+        "text": "<color=#309BBF>Enhanced Hull</color>\nThe Maximum Hull Health of the ORION CORVETTE is increased by <color=#40FF60>{0}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8104",
+        "text": "MEGA CUBE PHOTON CANNON",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8104",
+        "text": "The Mega Cube sports a high power Photon Cannon that is capable of punching through even the most durable of hulls. The weapon fires antimatter photon warheads encased in a strange, terminium-like casing. The casings explode on impact, sending several tonnes of red hot shrapnel into the hull lining of its target, as the photon blast turns the outer hull into molten slag. Its high Armor Piercing rating makes it especially powerful against Battleships.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "644714972",
+        "text": "USS FRANKLIN",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "644714972",
+        "text": "USS FRANKLIN BLUEPRINTS",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "644714972",
+        "text": "The USS Franklin is one of Starfleet's most decorated ships, despite having disappeared over 100 years ago. It was the first ever Earth ship capable of reaching warp 4. After many successful missions, the Franklin mysteriously vanished after travelling through the Gagarin Radiation Belt. It was found in the year 2263 by the crew of the Enterprise. They were able to utilize the ship's antiquated technology to defeat Krall and his Swarm.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "644714972",
+        "text": "Sabotage",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "644714972",
+        "text": "<color=#309BBF>Sabotage</color>\n\nWhen fighting Swarm ships, The Franklin's Damage is increased by <color=#40FF60>{0:#####%}</color>\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1391144104",
+        "text": "H-CLASS FREIGHTER",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1391144104",
+        "text": "H-CLASS FREIGHTER Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1391144104",
+        "text": "The H-Class freighter is a long-distance heavy hauler capable of transporting vast quantities of materials and goods.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1391144104",
+        "text": "Advanced Cloaking",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1391144104",
+        "text": "<color=#309BBF>Advanced Cloaking</color>\nWhen defending, at the start of each round, the Valdore increases the Shield Deflection, Armor and Dodge of all ships and Defense platforms by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1444464459",
+        "text": "USS NEWTON",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1444464459",
+        "text": "USS NEWTON Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1444464459",
+        "text": "The Newton class is named after iconic human scientist, Sir Isaac Newton, a legend of his field on Earth in the 1600s. The eponymous ship, the USS Newton, was destroyed instantly in the Battle of Vulcan by Nero’s mining behemoth, the Narada. The name lives on as the class continues to be built by Starfleet to field the front lines as the war escalates with the Romulans and Klingons.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1444464459",
+        "text": "Quick Strike",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1444464459",
+        "text": "<color=#309BBF>USS NEWTON</color>\nFor the first Round of combat, the USS NEWTON increases its total Shield Health by <color=#40FF60>{0:#.#%}</color> of the total Defense of the Officers on board.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1784814733",
+        "text": "FERENGI D'VOR",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1784814733",
+        "text": "FERENGI D'VOR Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1784814733",
+        "text": "As war between the galaxy’s major factions looms over the horizon, many are left wondering about who will come out on top? What state will our galaxy be in when it ends? Then there are those enterprising few who look past these petty concerns and into profit. For those crafty minds, there is no more suitable vessel than the Ferengi D’Vor. Developed by the renowned Urata Manufacturing as a way to cheat the Latinum exchange, the D’Vor comes mounted with a Dx100 mining laser, configured specifically for the extraction of raw latinum. No other vessel in existence can gather the precious material as efficiently, a testament to the engineering prowess and latinum lust of its creators. In a time of war and strife, nothing will generate profit like the D’Vor. After all, war is good for business.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1784814733",
+        "text": "Latinum Mining",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1784814733",
+        "text": "<color=#309BBF>Latinum Mining</color>\n\nThe D'Vor's Mining Bonus from the Mining Laser is increased by  <color=#40FF60>{0:#.#%}</color> when mining Raw Latinum.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2057434885",
+        "text": "USS NEWTON",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2057434885",
+        "text": "USS NEWTON Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2057434885",
+        "text": "The Newton class is named after iconic human scientist, Sir Isaac Newton, a legend of his field on Earth in the 1600s. The eponymous ship, the USS Newton, was destroyed instantly in the Battle of Vulcan by Nero’s mining behemoth, the Narada. The name lives on as the class continues to be built by Starfleet to field the front lines as the war escalates with the Romulans and Klingons.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2057434885",
+        "text": "Confiscate Evidence",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2057434885",
+        "text": "<color=#309BBF>Confiscate Evidence</color>\nThe USS Newton gains <color=#40FF60>{0:#.#%}</color> more resources from Hostiles.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8009",
+        "text": "MARAUDER HAVEN",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8009",
+        "text": "This minor base has been overrun by criminals, mercenaries, and pirates. It presents a threat to nearby planets and shipping.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1109770210",
+        "text": "TRIBUNE",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1109770210",
+        "text": "TRIBUNE Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1109770210",
+        "text": "The elegant Romulan Tribune class is the most prominent battleship in the Star Empire fleet as the war rages on with the Federation and the Klingons. Mass produced by Reman construction sites, the birdlike feather-plated wing span of the Tribune is gargantuan in breadth and houses a vast array of weaponry for combat situations.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1109770210",
+        "text": "Fire Barrage",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1109770210",
+        "text": "<color=#309BBF>Fire Barrage</color>\nAs long as the opponent is <color=#FFC926>Burning</color> at the start of a round, the Tribune increases the number of shots of each weapon by <color=#40FF60>{0:#}</color> for this round.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "448",
+        "text": "SWARM HORDE",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "448",
+        "text": "The Swarm’s strength has always come in its vast numbers. Swarm groups have caused immeasurable chaos and destruction by utilizing their shared consciousness and incredible speed. The original invasion was foiled, just barely, but the damage has been felt ever since.\n\nNow, the Swarm have returned and they have brought with them learnings from their defeat. Massive gatherings of the vessels have been sighted, tightly grouped and swirling like tornadoes, ready to devour anything unfortunate enough to be in their way. Lone Commanders have no hope against such destructive forces...",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "393740394",
+        "text": "KEHRA",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "393740394",
+        "text": "KEHRA Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "393740394",
+        "text": "The Kehra is a Tellarite interceptor named after one of the moons that orbits Tellar Prime. These vessels were at the forefront of the Tellarite conflict with the Andorians and later the Romulan Star Empire in the mid 22nd century. The Kehra has gone through few iterations over the following century and is still one of the main designs in use by the Tellarites in their local defense forces.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "393740394",
+        "text": "Armor Breaker",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "393740394",
+        "text": "<color=#309BBF>Armor Breaker</color>\nIf the opponent's ship is a Battleship, the KEHRA increases its Armor Piercing by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1002",
+        "text": "ROMULAN SHIP",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1002",
+        "text": "This ship is Romulan. Attacking it will result in a loss of reputation towards the Romulans and a gain of reputation towards the Federation and Klingon factions.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8004",
+        "text": "ROMULAN GARRISON",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8004",
+        "text": "This base is Romulan. Attacking it will result in a gain of reputation towards the Federation and Klingon factions.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3665388873",
+        "text": "KORINAR",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3665388873",
+        "text": "KORINAR Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3665388873",
+        "text": "The central column of strength in the Klingon Defense Force, the Korinar class is most prevalent in the Kronos system as the eyes and ears of the Chancellor in local space. A formidable reactionary vessel, the Korinar is a strong all-rounder.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3665388873",
+        "text": "Loot the weak",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3665388873",
+        "text": "<color=#309BBF>Loot the Weak</color>\nThe Korinar gains <color=#40FF60>{0:#.#%}</color> more resources from Hostiles.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8011",
+        "text": "PIRATE STRONGHOLD",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8011",
+        "text": "This major base has been overrun by criminals, mercenaries, and pirates. It presents a threat to nearby planets and shipping.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4078015075",
+        "text": "HEGH'TA",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4078015075",
+        "text": "HEGH'TA Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4078015075",
+        "text": "This Klingon interceptor class was designed with intimidation in mind. Its aggressively shaped wing pylons are intentionally designed to look familiar to Klingon warrior battle armor. The Hegh’Ta usually fight in packs and form a core ingredient of any strong Klingon fleet.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4078015075",
+        "text": "Confiscate Evidence",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "4078015075",
+        "text": "<color=#309BBF>Confiscate Evidence</color>\nThe USS Newton gains <color=#40FF60>{0:#.#%}</color> more resources from Hostiles.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3005922948",
+        "text": "KUMARI",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3005922948",
+        "text": "KUMARI Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3005922948",
+        "text": "The Kumari is an Andorian battle cruiser class named after the legendary Andorian Imperial Guard ship that assisted Earth’s mission to unravel the mystery of the Xindi in 2153. The Andorians built so many of these ships in anticipation of all-out war with the Vulcans that many of the older models can be found in large numbers to this day.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3005922948",
+        "text": "Shield Disruptor",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3005922948",
+        "text": "<color=#309BBF>Shield Disruptor</color>\nIf the opponent's ship is an Explorer, the KUMARI increases its Shield Piercing by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "832",
+        "text": "DOOMSDAY FISSURE",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "832",
+        "text": "Littering the maw of this terrible leviathan, the Doomsday creature’s fissures serve both practical and defensive purposes. Latching onto anything unfortunate enough to get caught in the planet killer’s path, these fissures proceed to secrete an unknown enzyme that breaks down any known matter at the molecular level - be it planetary rubble or manned starship.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "829",
+        "text": "DOOMSDAY WORM",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "829",
+        "text": "Doctor McCoy's studies suggest that these parasitic beings are discarded from the carapace of the Doomsday creature. Feeding on the planetary rubble left in the creature's wake of destruction, the Doomsday Worms roam the galaxy in search of their next meal.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2968519195",
+        "text": "ECS FORTUNATE",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2968519195",
+        "text": "FORTUNATE Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2968519195",
+        "text": "The Fortunate is an original ECS freighter, built for a high carry capacity and structural integrity at the cost of interior comfort, speed and weapon functionality. As an entry level freighter, the ECS Fortunate is very popular, but limited in its capabilities.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2968519195",
+        "text": "Parsteel Mining Laser",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2968519195",
+        "text": "<color=#309BBF>Parsteel Mining Laser</color>\nThe Mining Rate of Parsteel is increased by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "444",
+        "text": "SWARM CLUSTER",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "444",
+        "text": "Swarm ships attack as one unit and do not show mercy.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2897032766",
+        "text": "VALDORE",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2897032766",
+        "text": "VALDORE Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2897032766",
+        "text": "The prototype Romulan explorer class, the Valdore, is named after the infamous Senator and Admiral Valdore. The ship is an extremely minimalistic vision of Romulan engineering, designed for immense speed at warp and impulse.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2897032766",
+        "text": "Empire Tax",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2897032766",
+        "text": "<color=#309BBF>Empire Tax</color>\nThe Pilum gains <color=#40FF60>{0:#.#%}</color> more resources from Hostiles.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "446",
+        "text": "SWARM CLUSTER",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "446",
+        "text": "Swarm ships attack as one unit and do not show mercy.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1374221528",
+        "text": "USS ENTERPRISE",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1374221528",
+        "text": "USS ENTERPRISE Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1374221528",
+        "text": "The Starfleet flagship, the USS Enterprise, is one in the line of iconic Constitution class starships. These phenomenal spacecraft have become the backbone of a rebuilding and reinvigorated Federation. Each model in the class is fitted with the latest technology the Federation has to offer.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1374221528",
+        "text": "Optimized Crew Interface",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1374221528",
+        "text": "<color=#309BBF>Optimized Crew Interface</color>\nAs long as the USS Enterprise A has <color=#FFC926>Morale</color> , everytime it gets hit, it increases the Weapon Damage by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "822",
+        "text": "KLINGON SUPREME BURIAL SHIP",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "822",
+        "text": "These gargantuan vessels are morbidly unique in that the exterior hull is lined with thousands upon thousands of caskets. Each one of these caskets contains the remains of a fallen Klingon warrior.\nFor a Klingon, there could be no greater honor than to continue the fight, even after death.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3046584086",
+        "text": "ECS HORIZON",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3046584086",
+        "text": "HORIZON Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3046584086",
+        "text": "The Horizon freighter was part of the ECS's privately owned fleet and used for the transport of all types of goods, ranging from hazardous material to passengers on long-haul journeys. Originally built in the early 22nd century, they started service as pre-warp vessels but have since been maintained and upgraded for low-warp travel.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3046584086",
+        "text": "Dilithium Mining Laser",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3046584086",
+        "text": "<color=#309BBF>Dilithium Mining Laser</color>\nThe Mining Rate of Dilithium is increased by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2843649628",
+        "text": "TRIBUNE",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2843649628",
+        "text": "TRIBUNE Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2843649628",
+        "text": "The elegant Romulan Tribune class is the most prominent battleship in the Star Empire fleet as the war rages on with the Federation and the Klingons. Mass produced by Reman construction sites, the birdlike feather-plated wing span of the Tribune is gargantuan in breadth and houses a vast array of weaponry for combat situations.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2843649628",
+        "text": "Loot the weak",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2843649628",
+        "text": "<color=#309BBF>Loot the Weak</color>\nThe Korinar gains <color=#40FF60>{0:#.#%}</color> more resources from Hostiles.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8103",
+        "text": "MEGA CUBE DISRUPTOR",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8103",
+        "text": "The Mega Cube Disruptor is a directed energy cannon weapon that fires concentrated, high power disruptor beams designed to tear through shields. This weapon can render a vessel utterly defenseless in a matter of seconds. Its high Shield Penetration rating makes it especially powerful against Explorer.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3576016585",
+        "text": "KORINAR",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3576016585",
+        "text": "KORINAR Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3576016585",
+        "text": "The central column of strength in the Klingon Defense Force, the Korinar class is most prevalent in the Kronos system as the eyes and ears of the Chancellor in local space. A formidable reactionary vessel, the Korinar is a strong all-rounder.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3576016585",
+        "text": "Tractor Beam",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3576016585",
+        "text": "<color=#309BBF>Tractor Beam</color>\nFor the first Round of combat, the KORINAR increases its Shield by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "827",
+        "text": "BIRD OF PREY WARMASTER",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "827",
+        "text": "These Klingon Invaders are ruthless and completely devoid of mercy. They have been seen wandering our galaxy, gathering forgotten, ancient technology for unknown purposes.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2836931919",
+        "text": "HIJACKED LEGIONARY",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2836931919",
+        "text": "HIJ. LEGIONARY Blueprint",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2836931919",
+        "text": "In true Romulan fashion, the Legionary class Battleship was slowly phased out of frontline service in favor of the more powerful Augur class. While they were quick to abandon this robust and reliable vessel, the Augments were more than happy to adopt it for their own forces. The Augments know the true value of underestimated technology, and nothing is a better example than the Legionary.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2836931919",
+        "text": "Federation Killer",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2836931919",
+        "text": "<color=#309BBF>Federation Killer</color>\n\nThe LEGIONARY's weapon damage is increased by <color=#40FF60>{0:0.00#%}</color> against Federation ships",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1001",
+        "text": "FEDERATION SHIP",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1001",
+        "text": "This ship is part of the Federation. Attacking it will result in a loss of reputation towards the Federation and a gain of reputation towards the Romulan and Klingon factions.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3554487827",
+        "text": "LEGIONARY",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3554487827",
+        "text": "LEGIONARY Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3554487827",
+        "text": "The Legionary class Battleship has been in production on Romulus since the early 2100s. Using a prototype forced quantum singularity engine that would later become a mainstay for the Romulan fleet, the Legionary was once one of the most advanced starships on Romulus. Many of its designs eventually made it into the Augur class, which now serves as Romulus’ primary Battleship. With hostilities around the galaxy growing, the Legionary has seen a resurgence within the Romulan fleet, as it makes an ideal support vessel.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3554487827",
+        "text": "Federation Killer",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3554487827",
+        "text": "<color=#309BBF>Federation Killer</color>\n\nThe LEGIONARY's weapon damage is increased by <color=#40FF60>{0:0.00#%}</color> against Federation ships",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "828",
+        "text": "BIRD OF PREY ANNIHILATOR",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "828",
+        "text": "These Klingon Invaders are ruthless and completely devoid of mercy. They have been seen wandering our galaxy, gathering forgotten, ancient technology for unknown purposes.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3056258007",
+        "text": "USS SALADIN",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3056258007",
+        "text": "USS SALADIN Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3056258007",
+        "text": "The Saladin class interceptor is a small Starfleet construction used for dogfighting scenarios, mainly in the defense of outposts and Space Stations. Unlike its older cousin, the Mayflower class, the Saladin relies on a single nacelle and an array of thrusters along the saucer section to provide its maneuverability.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3056258007",
+        "text": "Protector",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3056258007",
+        "text": "<color=#309BBF>Protector</color>\nWhen the Station or the USS SALADIN gets attacked, it increases the Shield Health of all the ships and Defense Platforms by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1463338054",
+        "text": "USS INTREPID",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1463338054",
+        "text": "USS INTREPID Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1463338054",
+        "text": "The Intrepid class starship was originally built by Starfleet as a part of the United Earth military fleet and first began service in aid of the Enterprise NX-01 crew’s search for the Xindi. The latest version of this ship is primarily used by the Federation in short range combat to protect border colonies from Klingon ambushes.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1463338054",
+        "text": "Frontline Defender",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1463338054",
+        "text": "<color=#309BBF>Frontline Defender</color>\nWhen fighting Hostiles, The USS INTREPID increases its  Armor, Shield Deflection and Dodge by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "821",
+        "text": "KLINGON BURIAL SHIP",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "821",
+        "text": "These gargantuan vessels are morbidly unique in that the exterior hull is lined with thousands upon thousands of caskets. Each one of these caskets contains the remains of a fallen Klingon warrior.\nFor a Klingon, there could be no greater honor than to continue the fight, even after death.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "815",
+        "text": "Exchange Bank",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "815",
+        "text": "The many corporations, leisure centers and casinos that function in the Exchange value two things above all else: security and discretion.\nIn order to keep their investors happy, these conglomerates utilize massive, fortified Vaults to protect their vast resources. It is rumored that some of these orbiting fortresses contain more Latinum than a single person could spend in a lifetime. These rumors have attracted more than a few daring thieves, all of whom have fallen to the robust security systems that every Vault has installed. It would take a coordinated effort from a group of expert thieves to crack one of these Vaults… and master pilots to get them out alive.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "826",
+        "text": "BIRD OF PREY WAYFINDER",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "826",
+        "text": "These Klingon Invaders are ruthless and completely devoid of mercy. They have been seen wandering our galaxy, gathering forgotten, ancient technology for unknown purposes.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3694387091",
+        "text": "B'CHOR",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3694387091",
+        "text": "B'CHOR Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3694387091",
+        "text": "With hostilities on the rise, the Klingon Empire knows that they will need to protect their precious mining operations. Sneering at the Federation’s trickery and the Romulans’s cowardice, the Empire have designed a ship that will guarantee their economic dominance: The B’Chor. This gargantuan vessel features fourteen compartmentalized cargo holds for storing materials, each one protected by a seven inch Tritanium hull. While their enemies flee at the first sight of danger, the B’Chor will stand strong.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3694387091",
+        "text": "Crystal Mining Laser",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3694387091",
+        "text": "<color=#309BBF>Crystal Mining Laser</color>\nThe Mining Rate of Crystal is increased by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1027217748",
+        "text": "VALDORE",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1027217748",
+        "text": "VALDORE Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1027217748",
+        "text": "The prototype Romulan explorer class, the Valdore, is named after the infamous Senator and Admiral Valdore. The ship is an extremely minimalistic vision of Romulan engineering, designed for immense speed at warp and impulse.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1027217748",
+        "text": "Advanced Cloaking",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1027217748",
+        "text": "<color=#309BBF>Advanced Cloaking</color>\nWhen defending, at the start of each round, the Valdore increases the Shield Deflection, Armor and Dodge of all ships and Defense platforms by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "354762123",
+        "text": "TALLA",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "354762123",
+        "text": "TALLA Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "354762123",
+        "text": "This Battleship is an old Andorian design from the mid-2100s that specializes in strong structural armor and a large quantity of energy weapon banks. The ship was named after Talla, the half-Aenar daughter of the historical figure, Commander Shran, as a symbol of the unity of the Andorian and Aenar races as one galactic community.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "354762123",
+        "text": "Explorer Hunter",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "354762123",
+        "text": "<color=#309BBF>Explorer Hunter</color>\nIf the opponent's ship is an Explorer, the TALLA increases its Weapon Damage by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3033866568",
+        "text": "VAHKLAS",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3033866568",
+        "text": "VAHKLAS Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3033866568",
+        "text": "The Vahklas was built as a transport ship by the Vulcans in the early 2100s and has had multiple iterations over the following decades. It is a reliable exploration vessel that was mass produced around Vulcan before the planet’s destruction, making it very commonly used by Independents.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3033866568",
+        "text": "Pinpoint Targeting",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3033866568",
+        "text": "<color=#309BBF>Pinpoint Targeting</color>\nIf the opponent's ship is an Interceptor, the VAHKLAS increases its Accuracy by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "108924704",
+        "text": "USS ANTARES",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "108924704",
+        "text": "USS ANTARES Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "108924704",
+        "text": "This Federation Survey ship is an updated design of the old Earth Cargo Ship company's Y-Class vessels that dominated the early intergalactic shipping routes to and from Sol.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "108924704",
+        "text": "Gas Mining Laser",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "108924704",
+        "text": "<color=#309BBF>Gas Mining Laser</color>\nThe Mining Rate of Gas is increased by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "445",
+        "text": "SWARM CLUSTER",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "445",
+        "text": "Swarm ships attack as one unit and do not show mercy.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2483093372",
+        "text": "USS ENTERPRISE",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2483093372",
+        "text": "USS ENTERPRISE Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2483093372",
+        "text": "The Starfleet flagship, the USS Enterprise, is one in the line of iconic Constitution class starships. These phenomenal spacecraft have become the backbone of a rebuilding and reinvigorated Federation. Each model in the class is fitted with the latest technology the Federation has to offer.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2483093372",
+        "text": "Giving what she's got",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2483093372",
+        "text": "<color=#309BBF>Giving what she's got</color>\nAs long as the ship has <color=#FFC926>Morale</color>, the USS ENTERPRISE heals the Shield Health by <color=#40FF60>{0:#.#%}</color> whenever it gets hit.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8002",
+        "text": "FEDERATION STARBASE",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8002",
+        "text": "This major base is part of the Federation. Attacking it will result in a gain of reputation towards the Klingon and Romulan factions.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8006",
+        "text": "KLINGON SENTRYPOST",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8006",
+        "text": "This minor base is Klingon. Attacking it will result in a gain of reputation towards the Federation and Romulan factions.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "63",
+        "text": "ASSIMILATED D'VOR",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1842444641",
+        "text": "TURAS",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1842444641",
+        "text": "TURAS Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1842444641",
+        "text": "The Turas Class is a heavily modified update of the Realta with significantly more power and capability. This Explorer is common with more advanced Independent groups and a staple addition to many fleets in contested, neutral space.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1842444641",
+        "text": "Interceptor Hunter",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1842444641",
+        "text": "<color=#309BBF>Interceptor Hunter</color>\nIf the opponent's ship is an Interceptor, the TURAS increases its Weapon Damage by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1087128295",
+        "text": "BOTANY BAY",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1087128295",
+        "text": "BOTANY BAY Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1087128295",
+        "text": "Much like the crew that operated it, the Botany Bay is a relic from humanity’s distant past. Built on Earth in the late 20th century, it was intended to be humanity’s foray into deep space exploration. The vessel’s engines utilized revolutionary nuclear fission technology that was believed to be a completely self-sufficient energy source and its X-25 network array could gather data at an astounding rate.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1087128295",
+        "text": "Data Mining",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1087128295",
+        "text": "<color=#309BBF>Data Mining</color>\n\nThe Botany Bay's Mining Bonus from the Mining Laser is increased by  <color=#40FF60>{0:#.#%}</color> when mining Corrupted Data and Decoded Data.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1307832955",
+        "text": "USS DISCOVERY",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1307832955",
+        "text": "USS Discovery",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1307832955",
+        "text": "\"All things can be understood once they are discovered; the point is to discover them.\"\nThis was the motto of the USS Discovery when it was launched into service. Officially designated a Crossfield class science vessel, the Discovery's facilities could accommodate 300 discrete scientific investigations at any one time.\nHowever, Discovery's mission statement would change drastically after the Battle at the Binary Stars in 2256. \nWith Starfleet stretched thin and the Klingons advancing toward Federation space, Discovery was pressed into service as a warship, one that would turn the tide of the conflict. The key to Discovery's military success was its unique spore drive, which allowed it to travel galactic distances in the blink of an eye.\nThis incredible technology made Discovery invaluable to Starfleet's war efforts and its captain was given virtually limitless resources and jurisdiction to fight the war as he saw fit. The USS Discovery, once a science vessel built for research and experimentation, had become the tip of the spear in a war for the fate of the Federation.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1307832955",
+        "text": "Mycelium Harvesting",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1307832955",
+        "text": "<color=#309BBF>Mycelium Harvesting</color>\nThe USS Discovery's Mycelium harvesting speed is increased by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2869476908",
+        "text": "K'VORT",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2869476908",
+        "text": "K'VORT Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2869476908",
+        "text": "The Klingons retrofitted a standard cargo hauler with design improvements from an early human transport vessel to create their new warp-capable Survey vessels.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2869476908",
+        "text": "Crystal Mining Laser",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2869476908",
+        "text": "<color=#309BBF>Crystal Mining Laser</color>\nThe Mining Rate of Crystal is increased by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3459465041",
+        "text": "AUGUR",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3459465041",
+        "text": "AUGUR Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3459465041",
+        "text": "The Romulans built the Augur class battleships as rapid-response vessels to react to attacks on their territory. These sleek warbirds come packaged with side-mounted disruptors and added armor plates across their wingspan.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3459465041",
+        "text": "Obliterate",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3459465041",
+        "text": "<color=#309BBF>Obliterate</color>\nAs long as the opponent's ship is <color=#FFC926>Burning</color>, if the opponent is hit with the Obliterator weapon, the AUGUR increases all weapon damage by <color=#40FF60>{0:#.#0%}</color> (cumulative).\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "816",
+        "text": "Exchange Vault",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "816",
+        "text": "The many corporations, leisure centers and casinos that function in the Exchange value two things above all else: security and discretion.\nIn order to keep their investors happy, these conglomerates utilize massive, fortified Vaults to protect their vast resources. It is rumored that some of these orbiting fortresses contain more Latinum than a single person could spend in a lifetime. These rumors have attracted more than a few daring thieves, all of whom have fallen to the robust security systems that every Vault has installed. It would take a coordinated effort from a group of expert thieves to crack one of these Vaults… and master pilots to get them out alive.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2587519893",
+        "text": "USS KELVIN",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2587519893",
+        "text": "USS KELVIN Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2587519893",
+        "text": "The USS Kelvin was the first ship to encounter the Narada in 2233. The ship, under the command of George Kirk, collided with Nero’s in order to allow the escape of its crew. The class lives on under the Kelvin name and because of its age, it has become a common site in contested space for many years, either refitted or in its original guise.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2587519893",
+        "text": "Open the wound",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2587519893",
+        "text": "<color=#309BBF>Open the Wound</color>\nAs long as the opponent has a <color=#FFC926>Hull Breach</color>, every time the Hegh'ta hits it with a weapon attack, it increases the  Critical Hit Chances by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "15",
+        "text": "ECS HORIZON",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "15",
+        "text": "The Horizon freighter was part of the ECS's privately owned fleet and used for the transport of all types of goods, ranging from hazardous material to passengers on long-haul journeys. Originally built in the early 22nd century, they started service as pre-warp vessels but have since been maintained and upgraded for low-warp travel.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2953510568",
+        "text": "K'T'INGA",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2953510568",
+        "text": "K'T'INGA Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2953510568",
+        "text": "A sister class of ship to the Bortas, the K’T’inga is a Klingon battleship with huge arsenal of torpedo launchers. The main launcher is positioned right at the central section of the bow, below the bridge, giving the Captain of each K’T’inga as close a view of every volley from the main launcher.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2953510568",
+        "text": "Defender of Honor",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2953510568",
+        "text": "<color=#309BBF>Offense is the best Defense</color>\nWhen defending,at the start of each round,  the K'T'inga increases the Damage of all Ships and Defense Platforms by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2623051508",
+        "text": "VORTA VOR",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2623051508",
+        "text": "VORTA VOR Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2623051508",
+        "text": "Efficiency. Grandeur. Dominance. The Vorta Vor encompasses all of these qualities and more. Fitted with an experimental X-72 mining laser and state of the art, ionized dilithium impulse engines, the Vorta Vor excels at extracting materials quickly while attracting as little attention as possible. While the Federation busy themselves defending their mines from the Klingon Empire’s monstrous B’Chor, the Vorta Vor will be securing all of the materials needed to ensure the Romulans maintain their place as the leading force in the galaxy.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2623051508",
+        "text": "Ore Mining Laser",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2623051508",
+        "text": "<color=#309BBF>Ore Mining Laser</color>\nThe Mining Rate of Ore is increased by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1220133742",
+        "text": "USS MAYFLOWER",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1220133742",
+        "text": "USS MAYFLOWER Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1220133742",
+        "text": "The streamlined Mayflower class is designed for speed and efficiency. Starfleet have mounted extra-long nacelles directly under the Mayflower’s saucer section to increase its effectiveness in low orbit planetary scouting missions. The titular USS Mayflower was destroyed by Nero’s Narada in 2258 but many of its sister vessels are still in service today.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1220133742",
+        "text": "Klingon Pursuer",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1220133742",
+        "text": "<color=#309BBF>Klingon Pursuer</color>\n\nThe USS MAYFLOWER's weapon damage is increased by <color=#40FF60>{0:0.00#%}</color> against Klingon ships.",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "61",
+        "text": "HOSTILE EXPLORER",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "61",
+        "text": "This Hostile patrols the different systems of the universe, looking for easy prey",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "293385368",
+        "text": "STELLA",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "293385368",
+        "text": "STELLA Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "293385368",
+        "text": "The Stella is a marvel of engineering and criminal ingenuity. The vessel is unique in its modularity. Every component works in concert with its siblings, but is also completely self sufficient, allowing a savvy engineer to swap out and upgrade those parts with ease.\nThis means that the ship can very easily be broken down into its base components and reassembled again. Harry Mudd has taken advantage of this particular element of the ship’s design, breaking it down to avoid detection whenever he pulls off a heist, only to reassemble it with different signatures in another part of the galaxy.\nWith this ingenious method, Mudd has achieved the dream of every criminal in the galaxy. He has rendered himself untraceable.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "293385368",
+        "text": "Master Thief",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "293385368",
+        "text": "<color=#309BBF>Master Thief</color>\n\nThe STELLA increases the reward you get from Eclipse hostiles and Armada Targets by <color=#40FF60>{0:#.#%}</color>\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2165876444",
+        "text": "GLADIUS",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2165876444",
+        "text": "GLADIUS Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2165876444",
+        "text": "The Gladius class interceptor is a classic Romulan design, built for increased mobility and rapid change of direction. The slim hull allows for an increased chance of evading torpedo fire while on an attack run.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2165876444",
+        "text": "Secret Weapon",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2165876444",
+        "text": "<color=#309BBF>Secret Weapon</color>\nWhen fighting Hostiles, the GLADIUS increases damage by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "823",
+        "text": "BIRD OF PREY SCOUT",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "823",
+        "text": "These Klingon Invaders are ruthless and completely devoid of mercy. They have been seen wandering our galaxy, gathering forgotten, ancient technology for unknown purposes.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "830",
+        "text": "DOOMSDAY FISSURE",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "830",
+        "text": "Littering the maw of this terrible leviathan, the Doomsday creature’s fissures serve both practical and defensive purposes. Latching onto anything unfortunate enough to get caught in the planet killer’s path, these fissures proceed to secrete an unknown enzyme that breaks down any known matter at the molecular level - be it planetary rubble or manned starship.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1244824002",
+        "text": "K'T'INGA",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1244824002",
+        "text": "K'T'INGA Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1244824002",
+        "text": "A sister class of ship to the Bortas, the K’T’inga is a Klingon battleship with huge arsenal of torpedo launchers. The main launcher is positioned right at the central section of the bow, below the bridge, giving the Captain of each K’T’inga as close a view of every volley from the main launcher.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1244824002",
+        "text": "Defender of Honor",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1244824002",
+        "text": "<color=#309BBF>Offense is the best Defense</color>\nWhen defending,at the start of each round,  the K'T'inga increases the Damage of all Ships and Defense Platforms by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8008",
+        "text": "KLINGON FORTRESS",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8008",
+        "text": "This major base is Klingon. Attacking it will result in a gain of reputation towards the Federation and Romulan factions.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1878809713",
+        "text": "MERIDIAN",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1878809713",
+        "text": "Meridian",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1878809713",
+        "text": "The Meridian is a Survey ship that specializes in the extraction of Isogen. This vessel’s design has roots that link it back to the old ECS cargo haulers of the 22nd century, which have become a staple of mining conglomerates, and plucky Independent traders. Many iterations of these old Earth clunkers have been refined over the decades, resulting in efficient and versatile long-haul crafts appearing in the distant reaches of the quadrant.\n\nThe Meridian is a highly advanced new construction, pieced together during the recent rush for Isogen in the Origin Sector. Rival races, the Bolians and the Suliban, have been innovators in Isogen extraction, and their respective allies have contributed to the refinement of the Meridian’s polished Iso-Resin infused hull. The ship has become an essential element of life in the Origin Sector, where it has been mass produced in order to maximize the resources within that region of space.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1878809713",
+        "text": "Isogen Mining",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1878809713",
+        "text": "<color=#309BBF>Isogen Mining</color>\nThe Meridian's Mining Bonus from the Mining Laser is increased by <color=#40FF60>{0:#.#%}</color> when mining Isogen.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "55554",
+        "text": "SEPARATIST BOSS SHIP",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "55554",
+        "text": "This separatist is part of a coalition that defied the Klingon Empire to start a war with its Federation and Romulan enemies.\nAs a Boss ship, this ship is much stronger than others of the same level.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1003",
+        "text": "KLINGON SHIP",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1003",
+        "text": "This ship is Klingon. Attacking it will result in a loss of reputation towards the Klingons and a gain of reputation towards the Federation and Romulan factions.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8001",
+        "text": "FEDERATION SUPPLY DOCK",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8001",
+        "text": "This base is part of the Federation. Attacking it will result in a gain of reputation towards the Klingon and Romulan factions.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8007",
+        "text": "KLINGON ARSENAL",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8007",
+        "text": "This base is Klingon. Attacking it will result in a gain of reputation towards the Federation and Romulan factions.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8003",
+        "text": "ROMULAN WATCHPOST",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8003",
+        "text": "This minor base is Romulan. Attacking it will result in a gain of reputation towards the Federation and Klingon factions.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "987222969",
+        "text": "REALTA",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "987222969",
+        "text": "REALTA Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "987222969",
+        "text": "The Realta Class is a reliable, if old-fashioned Explorer based on early Earth-made starship designs. Due to its simple components and small size, many Realta hulls were commissioned in the early 2100s and have become synonymous with the Independent movement.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "987222969",
+        "text": "Enhanced Shield",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "987222969",
+        "text": "<color=#309BBF>Enhanced Shield</color>\nThe Maximum Shield Health of the REALTA is increased by <color=#40FF60>{0}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "708",
+        "text": "FERENGI OBSERVER",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "708",
+        "text": "A Ferengi who has come to watch the event.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "66664",
+        "text": "SEPARATIST ELITE SHIP",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "66664",
+        "text": "This separatist is part of a coalition that defied the Klingon Empire to start a war with its Federation and Romulan enemies.\nAs an Elite ship, this ship is slightly stronger than others of the same level.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3977580599",
+        "text": "ORION WAR BARGE",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3977580599",
+        "text": "ORION WAR BARGE Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3977580599",
+        "text": "The Orions use the War Barge as a nimble smuggling vessel, but it is strong enough in a firefight to act as a viable warship. Despite its hard outer shell, the powerful thrusters give the War Barge a deceptively strong maneuverability.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3977580599",
+        "text": "Agressive Urge",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3977580599",
+        "text": "<color=#309BBF>Agressive Urge</color>\nIf the opponent is a Battleship, the ORION WAR BARGE increases its Armor Piercing by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "824",
+        "text": "BIRD OF PREY FIGHTER",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "824",
+        "text": "These Klingon Invaders are ruthless and completely devoid of mercy. They have been seen wandering our galaxy, gathering forgotten, ancient technology for unknown purposes.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "87414807",
+        "text": "USS HYDRA",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "87414807",
+        "text": "USS HYDRA Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "87414807",
+        "text": "The USS Hydra is the Federation’s answer to aggressive Klingon raids on their mining operations. The Hydra is made up of three conjoined saucer sections that can be separated at a moment’s notice. Though only the rearmost saucer has access to Nacelles, the others are fitted with smaller, almost imperceptible impulse engines, allowing each section to make their own escape in the event of an attack. Living up to its name, so long as one head survives, the Hydra can never truly be taken down.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "87414807",
+        "text": "Gas Mining Laser",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "87414807",
+        "text": "<color=#309BBF>Gas Mining Laser</color>\nThe Mining Rate of Gas is increased by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2441576367",
+        "text": "B'REL",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2441576367",
+        "text": "B'REL Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2441576367",
+        "text": "The Klingon B’Rel class is a small explorer starship built entirely for short range excursions. Unusually, for a Klingon vessel, it is relatively light on weaponry and does not see a lot of combat maneuvers.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2441576367",
+        "text": "Cloaking System",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2441576367",
+        "text": "<color=#309BBF>Cloaking System</color>\nWhen fighting Hostiles, for the first round of Combat, the B'REL decreases the opponent's ship Armor Piercing, Shield Piercing and Accuracy by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8010",
+        "text": "SLAVE MARKET",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8010",
+        "text": "This base has been overrun by criminals, mercenaries, and pirates. It presents a threat to nearby planets and shipping.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "819",
+        "text": "Exchange Secure Lockup",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "819",
+        "text": "The many corporations, leisure centers and casinos that function in the Exchange value two things above all else: security and discretion.\nIn order to keep their investors happy, these conglomerates utilize massive, fortified Vaults to protect their vast resources. It is rumored that some of these orbiting fortresses contain more Latinum than a single person could spend in a lifetime. These rumors have attracted more than a few daring thieves, all of whom have fallen to the robust security systems that every Vault has installed. It would take a coordinated effort from a group of expert thieves to crack one of these Vaults… and master pilots to get them out alive.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1628890938",
+        "text": "ISS JELLYFISH",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1628890938",
+        "text": "ISS JELLYFISH Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1628890938",
+        "text": "The ISS Jellyfish is a testament to the technological prowess of the Terran Empire. Far more versatile than its counterpart in our universe, this Jellyfish uses an experimental dark matter warp drive, capable of travelling vast distances quickly and without appearing on enemy scanners. Originally intended as an espionage vessel, it would allow the Empire to spy on its allies and root out dissent before it began. It is also equipped with powerful T-38 Disruptor cannons, making it more than capable of wiping out rebellious activity whenever it is encountered.\n\nThe ISS Jellyfish was to be the pride of the Terran Empire, a symbol of their cunning and omniscience. However, the Empire never came into possession of the ship. Spock had other plans for his prized creation...",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1628890938",
+        "text": "Imperial Might",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1628890938",
+        "text": "<color=#309BBF>Imperial Might</color>\n\nThe ISS Jellyfish gains an additional <color=#40FF60>{0:#.#%}</color> damage bonus at the start of every combat round. This bonus stacks with no limit.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3359662312",
+        "text": "T'PLANA'HATH",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3359662312",
+        "text": "T'PLANA'HATH Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3359662312",
+        "text": "An ancient Vulcan class of ships, the T’Plana-Hath was the ship type that was involved with the first contact of humans and Vulcans. Many iterations of the vessel have been developed over the last three centuries with the current design one of the key exploration vessels in what’s left of the Vulcan fleet. New Vulcan was founded by pathfinders who arrived on the planet in a T’Plana-Hath.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3359662312",
+        "text": "Inventive Strategy",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3359662312",
+        "text": "<color=#309BBF>Inventive Strategy</color>\nWhen defending, at the start of each round, the USS Kelvin increases the Shield Piercing, Armor Piercing and Accuracy of every Ship and Defense Platform by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3990933991",
+        "text": "USS ENTERPRISE A",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3990933991",
+        "text": "USS ENTERPRISE A Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3990933991",
+        "text": "The USS Enterprise-A stands as both a fond tribute to its fallen predecessor and as a hopeful look into the future. Commissioned by Starfleet and constructed in Yorktown station in 2263, the ship was completed soon after the destruction of the previous Enterprise, which fell at the hands of Krall and his Swarm. The Enterprise-A follows the same basic configuration as its predecessor but was given more than a few notable upgrades. With the trials of the past behind them and the wonders of tomorrow ahead, this magnificent vessel will carry its crew into the far unknowns... To boldly go where no-one has gone before.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3990933991",
+        "text": "Optimized Crew Interface",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3990933991",
+        "text": "<color=#309BBF>Optimized Crew Interface</color>\nAs long as the USS Enterprise A has <color=#FFC926>Morale</color> , everytime it gets hit, it increases the Weapon Damage by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "656650752",
+        "text": "SHRAN",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "656650752",
+        "text": "SHRAN Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "656650752",
+        "text": "This enormous Andorian battleship was built to withstand fleets of enemy ships single-handedly. Named after the notoriously strong-willed Commander Shran, who helped form the first ties of the United Federation of Planets with Captain Jonathan Archer, this vessel is the pride and joy of the Andorian Imperial Guard and joins Federation designed ships in battle to this day.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "656650752",
+        "text": "Fire Barrage",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "656650752",
+        "text": "<color=#309BBF>Fire Barrage</color>\nAs long as the opponent is <color=#FFC926>Burning</color> at the start of a round, the Tribune increases the number of shots of each weapon by <color=#40FF60>{0:#}</color> for this round.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "673187302",
+        "text": "CENTURION",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "673187302",
+        "text": "CENTURION Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "673187302",
+        "text": "The elite Centurion class is a Romulan explorer most typically found in Imperial fleets. Praetor Bervas was once a General in the fleet and led from a Centurion. The battle that gained him the prestige to stake his claim for leadership of the Star Empire was when he led a squadron into Klingon territory to reclaim the Narendra system, destroying dozens of the Klingon Chancellor’s finest warriors in one ambush.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "673187302",
+        "text": "Territorial",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "673187302",
+        "text": "<color=#309BBF>Territorial</color>\nWhen defending , The CENTURION increases the Armor, Shield deflection and Dodge of all ships and defense platforms by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "30",
+        "text": "H-CLASS FREIGHTER",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "30",
+        "text": "The H-Class freighter is a long-distance heavy hauler capable of transporting vast quantities of materials and goods.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8100",
+        "text": "BORG CUBE",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8100",
+        "text": "The omnipotent flagship of the Borg fleet. Possessing an internal volume of approximately 27 Cubic Kilometers, the Borg Cube is capable of housing up to 130,000 drones. Borg Cubes roam the galaxy, seeking distinctive new life forms for assimilation into the Collective.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3006451338",
+        "text": "SEPARATIST D3 CLASS",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3006451338",
+        "text": "SEP. D3 CLASS Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3006451338",
+        "text": "When House Antaak broke apart from the Klingon Empire during the Separatist movement, they took whatever they could with them. The D3 class vessel, which was, up until this point, primarily a support vessel for the more robust B’Rel, became their primary combat vessel. Refitted with heavy duty disruptor weapons and housed in a six-inch thick tritanium armor plating, the Separatist D3 is a force to be reckoned with and a testament to the tenacity and ingenuity of House Antaak’s Separatist forces.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3006451338",
+        "text": "Romulan Crusher",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3006451338",
+        "text": "<color=#309BBF>Romulan Crusher</color>\n\nThe D3 CLASS's weapon damage is increased by <color=#40FF60>{0:0.00#%}</color> against Romulan ships.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8101",
+        "text": "BORG TACTICAL CUBE",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8101",
+        "text": "A heavily-armed variant of the typical Borg Cube. While the Borg Cube was designed to optimize the assimilation process, the Borg Tactical Cube’s primary function is tactical engagement. Equipped with highly durable armor plating, the Tactical Cube is capable of withstanding prolonged engagements with a multitude of adversaries.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2704762692",
+        "text": "D3 CLASS",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2704762692",
+        "text": "D3 CLASS Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2704762692",
+        "text": "Historically utilized by the Klingon Imperial Defense Force, the D3 class of vessel was used primarily for escort and bombardment missions up until the 2150s. It was then re-classified as an Interceptor and has since been widely adopted as a forward scout. Its nuclear fusion impulse engines allow it to move quickly in and out of danger, and it is armed with light disruptors should it need to engage a foe larger and more heavily armored than itself. While not as well armed as its cousin, the D4 class, the D3 is still a reliable and efficient vessel that should never be underestimated.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2704762692",
+        "text": "Romulan Crusher",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2704762692",
+        "text": "<color=#309BBF>Romulan Crusher</color>\n\nThe D3 CLASS's weapon damage is increased by <color=#40FF60>{0:0.00#%}</color> against Romulan ships.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "831",
+        "text": "DOOMSDAY FISSURE",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "831",
+        "text": "Littering the maw of this terrible leviathan, the Doomsday creature’s fissures serve both practical and defensive purposes. Latching onto anything unfortunate enough to get caught in the planet killer’s path, these fissures proceed to secrete an unknown enzyme that breaks down any known matter at the molecular level - be it planetary rubble or manned starship.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "59",
+        "text": "HOSTILE BATTLESHIP",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "59",
+        "text": "This Hostile patrols the different systems of the universe, looking for easy prey",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "818",
+        "text": "Exchange Transport",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "818",
+        "text": "The many corporations, leisure centers and casinos that function in the Exchange value two things above all else: security and discretion.\nTo keep their many clients and investors happy and worry-free, these conglomerates hire elite mercenaries to ensure that precious cargo is transported safely across Exchange space.\nOf course, such bounty would prove attractive to the many rogues, scoundrels and brigands across the galaxy. In order to better protect their cargo, these transports have been fitted with heavy hull plating, well capable of taking hits from even the most powerful of bandits.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "447",
+        "text": "SWARM CLUSTER",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "447",
+        "text": "Swarm ships attack as one unit and do not show mercy.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "62",
+        "text": "HOSTILE INTERCEPTOR",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "62",
+        "text": "This Hostile patrols the different systems of the universe, looking for easy prey",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "593579233",
+        "text": "SARCOPHAGUS",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "593579233",
+        "text": "Sarcophagus",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "593579233",
+        "text": "An ancient Klingon ship, revered as holy by the Klingon Empire. The ship is seen as a symbol of all that the Klingons hold dear: brutal power, honour through battle, and an unwavering tenacity. Now in the possession of House T’Kuvma, it is seen as the ship that will lead the Klingons to ultimate victory against those that threaten their empire.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "593579233",
+        "text": "Close-Quarters Combat",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "593579233",
+        "text": "<color=#309BBF>Close-Quarters Combat</color>\nWhen attacking or defending on a capture or mining node in an active Takeover, the Sarcophagus' Weapon Damage is increased by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>\n\nThe Sarcophagus' shields receive 10% of the total damage instead of 80%.",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "711428193",
+        "text": "USS KELVIN",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "711428193",
+        "text": "USS KELVIN Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "711428193",
+        "text": "The USS Kelvin was the first ship to encounter the Narada in 2233. The ship, under the command of George Kirk, collided with Nero’s in order to allow the escape of its crew. The class lives on under the Kelvin name and because of its age, it has become a common site in contested space for many years, either refitted or in its original guise.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "711428193",
+        "text": "Inventive Strategy",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "711428193",
+        "text": "<color=#309BBF>Inventive Strategy</color>\nWhen defending, at the start of each round, the USS Kelvin increases the Shield Piercing, Armor Piercing and Accuracy of every Ship and Defense Platform by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "47602799",
+        "text": "PILUM",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "47602799",
+        "text": "PILUM Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "47602799",
+        "text": "The Pilum class was developed in secret by the Tal Shiar intelligence division of the Romulan Star Empire. Designed with stealth and speed in mind, the Pilum was instrumental in retaining the control of the borders along the Neutral Zone in the early stages of the Cold War.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "47602799",
+        "text": "Deep Vengeance",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "47602799",
+        "text": "<color=#309BBF>PILUM</color>\nWhen the Shield is depleted, the PILUM increases its Weapon Damage by <color=#40FF60>{0:#.#%}</color> for one Round.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8000",
+        "text": "FEDERATION OUTPOST",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8000",
+        "text": "This minor base is part of the Federation. Attacking it will result in a gain of reputation towards the Klingon and Romulan factions.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "820",
+        "text": "UNKNOWN ALIEN",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "820",
+        "text": "These unknown aliens arrived in our galaxy via strange spatial anomalies. Nobody knows who they are or why they seem to be hostile.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "817",
+        "text": "Exchange High Security Vault",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "817",
+        "text": "The many corporations, leisure centers and casinos that function in the Exchange value two things above all else: security and discretion.\nIn order to keep their investors happy, these conglomerates utilize massive, fortified Vaults to protect their vast resources. It is rumored that some of these orbiting fortresses contain more Latinum than a single person could spend in a lifetime. These rumors have attracted more than a few daring thieves, all of whom have fallen to the robust security systems that every Vault has installed. It would take a coordinated effort from a group of expert thieves to crack one of these Vaults… and master pilots to get them out alive.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2254702328",
+        "text": "PILUM",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2254702328",
+        "text": "PILUM Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2254702328",
+        "text": "The Pilum class was developed in secret by the Tal Shiar intelligence division of the Romulan Star Empire. Designed with stealth and speed in mind, the Pilum was instrumental in retaining the control of the borders along the Neutral Zone in the early stages of the Cold War.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2254702328",
+        "text": "Empire Tax",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2254702328",
+        "text": "<color=#309BBF>Empire Tax</color>\nThe Pilum gains <color=#40FF60>{0:#.#%}</color> more resources from Hostiles.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "825",
+        "text": "BIRD OF PREY WARSHIP",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "825",
+        "text": "These Klingon Invaders are ruthless and completely devoid of mercy. They have been seen wandering our galaxy, gathering forgotten, ancient technology for unknown purposes.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8102",
+        "text": "BORG ASSIMILATOR CUBE",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8102",
+        "text": "A monument to the Borg’s primary function, Assimilator Cubes have been designed to house hundreds of thousands of potential new additions to the Collective. Aboard these vessels, entire populations are assessed and prepared for assimilation.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1535317053",
+        "text": "VALKIS",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1535317053",
+        "text": "VALKIS Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1535317053",
+        "text": "Romulan engineers adopted many design characteristics from rival Federation freighters to create their own brand of Survey ships.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1535317053",
+        "text": "Ore Mining Laser",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1535317053",
+        "text": "<color=#309BBF>Ore Mining Laser</color>\nThe Mining Rate of Ore is increased by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3432906971",
+        "text": "HEGH'TA",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3432906971",
+        "text": "HEGH'TA Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3432906971",
+        "text": "This Klingon interceptor class was designed with intimidation in mind. Its aggressively shaped wing pylons are intentionally designed to look familiar to Klingon warrior battle armor. The Hegh’Ta usually fight in packs and form a core ingredient of any strong Klingon fleet.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3432906971",
+        "text": "Open the wound",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "3432906971",
+        "text": "<color=#309BBF>Open the Wound</color>\nAs long as the opponent has a <color=#FFC926>Hull Breach</color>, every time the Hegh'ta hits it with a weapon attack, it increases the  Critical Hit Chances by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2004925834",
+        "text": "BORTAS",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2004925834",
+        "text": "BORTAS Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2004925834",
+        "text": "The Bortas class battleship is traditionally only found as a part of the Klingon Imperial Fleet and is one of the most recognizable ships in the Empire. Many of the flagships of the Empire over the years have been from this class and they have often been commanded by Chancellors throughout the years.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2004925834",
+        "text": "Revenge",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2004925834",
+        "text": "<color=#309BBF>Revenge</color>\nWhen defending the Station, The BORTAS increases the damage of all the other ships and Defense Platforms by <color=#40FF60>{0:#.#%}</color>.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1029262994",
+        "text": "NORTH STAR",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1029262994",
+        "text": "NORTH STAR Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1029262994",
+        "text": "The ECS North Star is a freighter and survey vessel that has been in service for almost 100 years. Boomer communities in the mid-2100s favored the North Star for space faring and as a colonization ship. Families and communities were born and raised on vessels of this class for generations and an entire network of trade ships has grown over the years.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1029262994",
+        "text": "Healthy Mining",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "1029262994",
+        "text": "<color=#309BBF>Healthy Mining</color>\n\nThe mining rate of 3★ Gas, Ore and Crystal is increased by <color=#40FF60>{0:#.#%}</color> per total Officer Health point of all Officers on the ship\n(0.20% of 1000 total Health gives a mining bonus of 200%)",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "957865248",
+        "text": "D4 CLASS",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "957865248",
+        "text": "D4 Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "957865248",
+        "text": "The iconic Klingon D4 class is a tiny fighter vessel used to intercept and destroy enemies. The D4 has many common uses, such as a troop carrier for infiltration and extraction missions. Squadrons of D4 patrol the surface of Kronos as an elite defense force capable of chasing down, surrounding and eliminating any threat.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "957865248",
+        "text": "Relentless Hunting",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "957865248",
+        "text": "<color=#309BBF>Relentless Hunting</color>\nAs long as the opponent has a <color=#FFC926>Hull Breach</color>, The D4 Increases its Weapon Damage by <color=#40FF60>{0:#.#%}</color> every round (cumulative).\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2529591723",
+        "text": "VI'DAR",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2529591723",
+        "text": "VI'DAR Blueprint Part",
+        "key": "blueprint_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2529591723",
+        "text": "Created in shadow and filled with its creators’ lust for vengeance, the Vi’dar was to be the ultimate weapon of Romulus. Desperate for some defense against the Borg threat, the Romulans fitted their already powerful disruptor weaponry with Borg technology. These tremendous new weapons can tear through even the most durable hull lining, but their real strength lies against a most curious foe: the Borg themselves. The Romulan scientists working on the Vi’dar managed to create a disruptor system with a constantly shifting frequency, making it impossible for Borg ships to adapt their shielding. With a full-scale Borg invasion all but inevitable, the galaxy may very well place their last hopes in this unlikely ally. A ship born of Borg, destined to destroy them.",
+        "key": "description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2529591723",
+        "text": "Cybernetic Augmentation",
+        "key": "bonus_name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "2529591723",
+        "text": "<color=#309BBF>Cybernetic Augmentation</color> The Vi'dar's Damage is increased by <color=#40FF60>{0:#####%}</color> against Borg hostiles.\n\n<color=#B8DEE5>Ship Abilities are always active.</color>",
+        "key": "bonus_description"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8105",
+        "text": "MEGA CUBE TRACTOR BEAM",
+        "key": "name"
+    },
+    {
+        "modified": "2021-08-03T14:54:08Z",
+        "id": "8105",
+        "text": "The Mega Cube Tractor Beam uses an incredibly high power gravitational device to hold vessels in place, allowing its secondary weapons to tear through whatever ship is unfortunate enough to be caught within. Its high Accuracy makes it especially powerful against Interceptors.",
+        "key": "description"
+    }
+]
