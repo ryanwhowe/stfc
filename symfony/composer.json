@@ -1,4 +1,6 @@
 {
+    "name": "ryanwhowe/stfc",
+    "description": "Star Trek Fleet Command Data Collection project",
     "type": "project",
     "license": "proprietary",
     "minimum-stability": "stable",
