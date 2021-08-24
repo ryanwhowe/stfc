@@ -1,0 +1,66 @@
+name: PhpUnit
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-18.04
+    services:
+      mysql:
+        image: mysql:5.7
+        env:
+          MYSQL_ROOT_PASSWORD: password
+        ports:
+          - 32574:3306
+        options: --health-cmd="mysqladmin ping" --health-interval=10s --health-timeout=5s --health-retries=3
+    defaults:
+      run:
+        working-directory: ./symfony
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup PHP version
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '7.4'
+          extensions: curl, libxml, mbstring, zip, pcntl, mysqli, pdo, pdo_mysql, intl, opcache
+          coverage: none
+
+      - name: Verify MySQL connection from host
+        run: sudo apt-get install -y mysql-client && mysql --host 127.0.0.1 --port 32574 -uroot -ppassword -e "SHOW DATABASES"
+
+      - name: verify Running PHP Version
+        run: php --version
+
+      - name: Validate composer.json and composer.lock
+        run: composer validate
+
+      - name: Cache Composer packages
+        id: composer-cache
+        uses: actions/cache@v2
+        with:
+          path: symfony/vendor
+          key: ${{ runner.os }}-php-api-${{ hashFiles('**/composer.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-php-api-
+      - name: Install dependencies
+        env:
+          APP_ENV: test
+          DATABASE_URL: mysql://root:password@127.0.0.1:32574/stfc?serverVersion=5.7
+        if: steps.composer-cache.outputs.cache-hit != 'true'
+        run: composer install --prefer-dist --no-progress --no-suggest
+
+      # Add a test script to composer.json, for instance: "test": "vendor/bin/phpunit"
+      # Docs: https://getcomposer.org/doc/articles/scripts.md
+
+      - name: Run test suite
+        env:
+          APP_ENV: test
+          DATABASE_URL: mysql://root:password@127.0.0.1:32574/stfc?serverVersion=5.7
+        run: composer run-script tests
