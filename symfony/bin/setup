@@ -1,0 +1,11 @@
+#!/bin/sh
+
+# create the database for the api
+php ./bin/console doctrine:database:drop --force --if-exists || exit 1
+php ./bin/console doctrine:database:create || exit 1
+
+# run the migrations against the database to bring it up to the current level
+php ./bin/console doctrine:migrations:migrate -n || exit 1
+
+# load the future data
+php ./bin/console doctrine:fixtures:load -n || exit 1
