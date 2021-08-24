@@ -1,0 +1,19 @@
+version: "3.7"
+
+services:
+
+  php:
+    volumes:
+      - <path to solution>/symfony:/var/www/symfony/
+      - <path to solution>/data:/var/data
+    environment:
+      APP_ENV: dev
+      XDEBUG_CONFIG: remote_host=host.docker.internal remote_port=9003 remote_connect_back=0
+
+  nginx:
+    volumes:
+      - <path to solution>/symfony:/var/www/symfony
+      - <path to solution>/devops/images/nginx/nginx.conf:/etc/nginx/nginx.conf
+      - <path to solution>/devops/images/nginx/sites/:/etc/nginx/sites-available
+      - <path to solution>/devops/images/nginx/conf.d/:/etc/nginx/conf.d
+      - <path to solution>/logs:/var/log

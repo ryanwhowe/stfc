@@ -1,0 +1,40 @@
+version: "3.7"
+
+x-config: &common-config
+  DATABASE_URL: mysql://root:root@db:3306/stfc?serverVersion=5.7
+  DATABASE_HOST: db # needed for the wait-for-it.sh script
+  DATABASE_PORT: 3306 # needed for the wait-for-it.sh script
+
+services:
+  db:
+    image: mysql:5.7
+    command: --default-authentication-plugin=mysql_native_password
+    restart: always
+    ports:
+      - "3300:3306"
+    volumes:
+      - dev-db-stfc:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: stfc
+
+  php:
+    build:
+      context: ../images
+      dockerfile: php.Dockerfile
+    depends_on:
+      - db
+    environment:
+      <<: *common-config
+
+  nginx:
+    build:
+      context: ../images
+      dockerfile: nginx.Dockerfile
+    depends_on:
+      - php
+    ports:
+      - "8081:80"
+
+volumes:
+  dev-db-stfc:
