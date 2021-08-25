@@ -48,6 +48,11 @@ class Resource
      */
     private $created;
 
+    /**
+     * @ORM\Column(type="string")
+     */
+    private $requestUrl;
+
     public function getId(): ?int
     {
         return $this->id;
@@ -109,6 +114,18 @@ class Resource
     public function setCreated(\DateTimeInterface $created): self
     {
         $this->created = $created;
+
+        return $this;
+    }
+
+    public function getRequestUrl(): ?string
+    {
+        return $this->requestUrl;
+    }
+
+    public function setRequestUrl(string $requestUrl): self
+    {
+        $this->requestUrl = $requestUrl;
 
         return $this;
     }

@@ -51,6 +51,11 @@ class ResourceType
      */
     private $resources;
 
+    /**
+     * @ORM\Column(type="integer")
+     */
+    private $urlType;
+
     public function getId(): ?int
     {
         return $this->id;
@@ -130,6 +135,18 @@ class ResourceType
                 $resource->setType(null);
             }
         }
+
+        return $this;
+    }
+
+    public function getUrlType(): ?int
+    {
+        return $this->urlType;
+    }
+
+    public function setUrlType(int $urlType): self
+    {
+        $this->urlType = $urlType;
 
         return $this;
     }
