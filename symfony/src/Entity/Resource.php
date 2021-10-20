@@ -3,6 +3,8 @@
 namespace App\Entity;
 
 use App\Repository\ResourceRepository;
+use Doctrine\Common\Collections\ArrayCollection;
+use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
 use DateTime;
 
@@ -44,7 +46,7 @@ class Resource
     private $lastUpdated;
 
     /**
-     * @ORM\Column(type="datetime", options={"default": "CURRENT_TIMESTAMP"}))
+     * @ORM\Column(type="datetime", options={"default": "CURRENT_TIMESTAMP"})
      */
     private $created;
 

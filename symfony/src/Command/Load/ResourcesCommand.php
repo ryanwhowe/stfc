@@ -5,18 +5,12 @@ namespace App\Command\Load;
 use App\Entity\Resource;
 use App\Entity\ResourceType;
 use DateTime;
-use Doctrine\DBAL\Driver\Exception;
-use Doctrine\ORM\EntityManager;
 use Doctrine\ORM\EntityManagerInterface;
 use Doctrine\ORM\OptimisticLockException;
 use Doctrine\ORM\ORMException;
 use Symfony\Component\Console\Command\Command;
-use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
-use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\OutputInterface;
-use Symfony\Component\Console\Style\SymfonyStyle;
-use Symfony\Component\HttpClient\HttpClient;
 use Symfony\Component\HttpKernel\KernelInterface;
 use Symfony\Contracts\HttpClient\Exception\ClientExceptionInterface;
 use Symfony\Contracts\HttpClient\Exception\DecodingExceptionInterface;
@@ -25,7 +19,7 @@ use Symfony\Contracts\HttpClient\Exception\ServerExceptionInterface;
 use Symfony\Contracts\HttpClient\Exception\TransportExceptionInterface;
 use Symfony\Contracts\HttpClient\HttpClientInterface;
 
-class ResourcesCommand extends Command {
+class ResourcesCommand extends LoaderCommand {
 
     const QUERY_URL = 'url';
     const QUERY_RESOURCE = 'resource';
@@ -37,39 +31,16 @@ class ResourcesCommand extends Command {
     protected static $defaultName = 'load:resources';
     protected static $defaultDescription = 'Load data to the resource table for downstream parsing';
 
-    /**
-     * @var EntityManager
-     */
-    protected $manager;
-    /**
-     * @var HttpClient
-     */
-    protected $client;
-    /**
-     * @var string
-     */
-    protected $scopleyVersion;
-
     public function __construct(HttpClientInterface $client, EntityManagerInterface $manager, KernelInterface $kernel) {
-        $this->manager = $manager;
-        $this->client = $client;
         $this->scopleyVersion = $kernel->getContainer()->getParameter('scopley_version');
-        parent::__construct();
-    }
-
-    protected function configure(): void {
-        $this
-            ->addOption('dry-run', null, InputOption::VALUE_NONE, 'Output the requests generated, do not pull data')
-            ->addOption('seed', null, InputOption::VALUE_NONE, 'Truncate the requests table and force reload, no updates');
+        parent::__construct($client, $manager);
     }
 
     protected function execute(InputInterface $input, OutputInterface $output): int {
-        $io = new SymfonyStyle($input, $output);
-        $dryRun = $input->getOption('dry-run');
-        $seed = $input->getOption('seed');
+        parent::execute($input, $output);
 
-        if ($seed) {
-            $results = $this->clearResourceTable($io, $dryRun);
+        if ($this->seed) {
+            $results = $this->clearTable( 'resource');
             if ($results !== null) return $results;
         }
 
@@ -112,23 +83,23 @@ class ResourcesCommand extends Command {
                 }
             }
         }
-        if (!$dryRun) {
+        if (!$this->dryRun) {
             foreach ($queries as $query) {
                 try {
                     $response = $this->client->request('GET', $query[self::QUERY_URL]);
                     $status = $response->getStatusCode();
                 } catch (TransportExceptionInterface $e) {
-                    $io->error('Transportation Exception for: ' . $query[self::QUERY_URL]);
+                    $this->io->error('Transportation Exception for: ' . $query[self::QUERY_URL]);
                     continue;
                 }
                 if ($status !== 200) {
-                    $io->error("URL request did not resolve:\n" . $query[self::QUERY_URL]);
+                    $this->io->error("URL request did not resolve:\n" . $query[self::QUERY_URL]);
                     continue;
                 }
                 try { //make sure we get a valid array returned from the body parser
                     $body = $response->toArray();
                 } catch (ClientExceptionInterface | DecodingExceptionInterface | RedirectionExceptionInterface | ServerExceptionInterface | TransportExceptionInterface $e) {
-                    $io->error('Response body could not be parsed');
+                    $this->io->error('Response body could not be parsed');
                     continue;
                 }
                 if ($query[self::QUERY_TYPE] === self::QUERY_TYPE_INSERT) {
@@ -152,52 +123,25 @@ class ResourcesCommand extends Command {
                     $this->manager->persist($resource);
                     $this->manager->flush();
                 } catch (OptimisticLockException | ORMException $e) {
-                    $io->error('Unable to persist resource for query: ' . $query[self::QUERY_URL]);
+                    $this->io->error('Unable to persist resource for query: ' . $query[self::QUERY_URL]);
                 }
 
             }
 
-            $io->table(['Inserts', 'Updates'], [[$counter[self::QUERY_TYPE_INSERT], $counter[self::QUERY_TYPE_UPDATE]]]);
+            $this->io->table(['Inserts', 'Updates'], [[$counter[self::QUERY_TYPE_INSERT], $counter[self::QUERY_TYPE_UPDATE]]]);
 
         } else {
-            if ($seed) $this->manager->rollback();
+            if ($this->seed) $this->manager->rollback();
 
             $queries = array_map(function ($v) {
                 $type = ($v[self::QUERY_TYPE] === self::QUERY_TYPE_INSERT) ? 'INSERT' : 'UPDATE';
                 return $type . ' : ' . $v[self::QUERY_URL];
             }, $queries);
-            $io->text($queries);
+            $this->io->text($queries);
         }
 
-        $io->success('Completed');
+        $this->io->success('Completed');
 
         return Command::SUCCESS;
-    }
-
-    /**
-     * @param $io
-     * @param $dryRun
-     *
-     * @return int|null
-     */
-    protected function clearResourceTable($io, $dryRun): ?int {
-        if ($dryRun) {
-            /*
-             * because TRUNCATE is a DDL function and NOT a DML function, it can not be contained inside a
-             * transaction for a dryRun type feature
-             */
-            $this->manager->beginTransaction();
-            $sql = 'DELETE FROM resource;';
-        } else {
-            $sql = 'TRUNCATE TABLE resource;';
-        }
-        try {
-            $stmt = $this->manager->getConnection()->prepare($sql);
-            $stmt->executeQuery();
-            return null;
-        } catch (\Doctrine\DBAL\Exception | Exception $e) {
-            $io->error('Unable to TRUNCATE database table');
-            return self::FAILURE;
-        }
     }
 }
