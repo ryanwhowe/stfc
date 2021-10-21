@@ -17,6 +17,7 @@ class ResourceType
     public function __construct() {
         $this->created = new DateTime();
         $this->resources = new ArrayCollection();
+        $this->resourceDetails = new ArrayCollection();
     }
 
     /**
@@ -55,6 +56,11 @@ class ResourceType
      * @ORM\Column(type="integer")
      */
     private $urlType;
+
+    /**
+     * @ORM\OneToMany(targetEntity=ResourceDetail::class, mappedBy="typeId", orphanRemoval=true)
+     */
+    private $resourceDetails;
 
     public function getId(): ?int
     {
@@ -147,6 +153,36 @@ class ResourceType
     public function setUrlType(int $urlType): self
     {
         $this->urlType = $urlType;
+
+        return $this;
+    }
+
+    /**
+     * @return Collection|ResourceDetail[]
+     */
+    public function getResourceDetails(): Collection
+    {
+        return $this->resourceDetails;
+    }
+
+    public function addResourceDetail(ResourceDetail $resourceDetail): self
+    {
+        if (!$this->resourceDetails->contains($resourceDetail)) {
+            $this->resourceDetails[] = $resourceDetail;
+            $resourceDetail->setTypeId($this);
+        }
+
+        return $this;
+    }
+
+    public function removeResourceDetail(ResourceDetail $resourceDetail): self
+    {
+        if ($this->resourceDetails->removeElement($resourceDetail)) {
+            // set the owning side to null (unless already changed)
+            if ($resourceDetail->getTypeId() === $this) {
+                $resourceDetail->setTypeId(null);
+            }
+        }
 
         return $this;
     }
